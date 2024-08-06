@@ -1,0 +1,252 @@
+94 316 5006 -Si Mscice       "Bea Market"                                         		2003-03-24  TP
+94 801 0025  Ni Koszalin     Slowackiego / Zwyciestwa #1/2                        		2002-02-15  TP
+94 801 0027  Si Koszalin     Armii Krajowej ^Dworzec PKP #2/6                     		2002-07-13  TP
+94 801 0028  Si Koszalin     Armii Krajowej ^Dworzec PKP #4/6                     		2002-07-13  TP
+94 801 0030  Si Koszalin     Armii Krajowej ^Dworzec PKP #5/6                     		2002-07-13  TP
+94 801 0033  Ni Koszalin     Market "Torg", parter @                              		2002-07-13  TP
+94 801 0036  Ni Koszalin     Ratusz, zewn. #1/2                                   		2002-02-15  TP
+94 801 0126  Jt Koszalin     Ratusz, zewn. #2/2                                   		2002-02-15  TP
+94 801 0134  Jt Koszalin     Slowackiego / Zwyciestwa #2/2                        		2002-02-15  TP
+94 801 0139  St Koszalin     Zwyciestwa 83                                        		2002-02-15  TP
+94 801 0143  Ni Koszalin     Armii Krajowej ^Dworzec PKP #3/6                    		2002-07-13  TP
+94 801 0171  Jt Koszalin     Armii Krajowej ^Dworzec PKP #1/6                     		2002-07-13  TP
+94 801 0203 +Jt Koszalin     Morska 4                                             		2002-07-13  TP
+94 801 0260  Jt Koszalin     Armii Krajowej ^postoj taxi                          		2002-07-13  TP
+94 801 0278  Jt Koszalin     Armii Krajowej ^UP4                                  		2002-07-13  TP
+94 801 0280  Jt Koszalin     Dworzec PKS, hala dworcowa @                         		2002-02-15  TP
+94 801 0282  Ni Koszalin     Zwyciestwa, Pasaz "Cegielski" @                      		2002-08-12  TP
+94 801 0325  Jt Koszalin     Armii Krajowej ^Dworzec PKP #6/6                     		2002-07-13  TP
+94 801 0329  Jt Koszalin     Zwyciestwa 186 #2/2                                  		2003-03-24  TP
+94 801 0330  St Koszalin     Zwyciestwa 186 #1/2                                  		2003-03-24  TP
+94 801 0502  Nt Byszewo      (gm. Siemysl)                                        		2003-04-11  TP
+94 801 0655  Ni Borkowice    ~dom nr 8                                            		2002-07-13  TP
+94 801 0976  Jt Kolobrzeg    Reymonta 3, pasaz @                                  		2002-06-02  TP
+94 802 0001  St Kolobrzeg    Jednosci Narodowej 66-66A                            		2002-01-26  TP
+94 802 0008  Nt Zieleniewo   Zieleniewo 155-156, bar-sklep "Sezam"                		2002-02-02  TP
+94 802 0009 +Nt Kolobrzeg    Sienkiewicza 14                                      		2002-01-29  TP
+94 802 0010  St Kolobrzeg    Jasna / Sienkiewicza                                 		2001-12-07  TP
+94 802 0011  St Kolobrzeg    Zurawia 24 / Jednosci Narodowej ~UP 4                		2001-06-15  TP
+94 802 0013  St Kolobrzeg    Koszalinska ~"MiniMal" #2/2                          		2002-04-04  TP
+94 802 0014  Jt Kolobrzeg    Koszalinska ~"MiniMal" #1/2                          		2002-04-04  TP
+94 802 0028 +Nt Kolobrzeg    Starynowska, Urocza | Slowicza #1/2                  		2002-03-06  TP
+94 802 0030  Nt Kolobrzeg    Perlowa                                              		2002-08-24  TP
+94 802 0032  St Kolobrzeg    Kasprowicza 6, DW "Wlokniarz", podworze @            		2001-10-14  TP
+94 802 0033  St Kolobrzeg    Mlynska / Szpitalna                                  		2002-01-07  TP
+94 802 0034  St Kolobrzeg    Koszalinska / Grochowska                             		2002-01-26  TP
+94 802 0041  St Kolobrzeg    Mariacka, pub "Saksofon" @                           		2002-11-21  TP
+94 802 0042  St Kolobrzeg    Unii Lubelskiej 1 / Okopowa #1/2                     		2002-04-23  TP
+94 802 0047  St Kolobrzeg    Unii Lubelskiej ^Katedralna #1/2                     		2001-08-03  TP
+94 802 0051  St Kolobrzeg    Dworzec PKS, przedsionek, prawy @                    		2002-01-07  TP
+94 802 0059  St Kolobrzeg    Kollataja / Sikorskiego, DW "Wistom", podworze @     	        2002-03-06  TP
+94 802 0071  St Kolobrzeg    Koszalinska, st.p. "Shell"                           		2002-10-12  TP
+94 802 0075  St Kolobrzeg    pl. 18 Marca 1                                       		2002-12-15  TP
+94 802 0076  St Kolobrzeg    Sikorskiego 8, DW "Wegiel Brunatny", przedsionek @   	        2001-08-03  TP
+94 802 0081  St Kolobrzeg    Zygmuntowska / Lopuskiego                            		2002-01-26  TP
+94 802 0082  St Kolobrzeg    Kniewskiego / Solna                                  		2002-04-08  TP
+94 802 0083  Nt Kolobrzeg    Dworzec PKS, przedsionek, lewy @                     		2002-01-15  TP
+94 802 0087  St Kolobrzeg    Fredry 2, Osrodek Kolonijno-Wczasowy, podworze @     	        2002-05-20  TP
+94 802 0091  St Kolobrzeg    Lopuskiego 8, szpital, 6 pietro @                    		2002-10-31  TP
+94 802 0094  St Kolobrzeg    Lopuskiego 8, szpital, wejscie boczne (podjazd) @    		2002-10-31  TP
+94 802 0097  St Kolobrzeg    Lopuskiego, pasaz handlowy "Parseta", parter @       		2002-03-06  TP
+94 802 0100  St Kolobrzeg    Dworcowa, Hotel "New Skanpol", przedsionek @         		2002-10-22  TP
+94 802 0114  St Kolobrzeg    Walki Mlodych / Katedralna                           		2002-03-06  TP
+94 802 0119  St Kolobrzeg    Dworzec PKP, lewy w hali @                           		2003-04-11  TP
+94 802 0121  St Kolobrzeg    1 Maja 47, Zespol Szkol, parter @                    		2002-04-17  TP
+94 802 0127  Jt Kolobrzeg    Armii Krajowej / Dworcowa, ~UP1, prawa strona #2/6   	        2002-12-14  TP
+94 802 0134  Jt Kolobrzeg    Armii Krajowej / Dworcowa, ~UP1, prawa strona #3/6   	        2002-12-14  TP
+94 802 0137  Jt Kolobrzeg    Armii Krajowej / Dworcowa, ~UP1, prawa strona #4/6   	        2002-12-14  TP
+94 802 0140  St Kolobrzeg    Lopuskiego 8, szpital, wejscie tylne (~sklep)        		2002-09-05  TP
+94 802 0141  St Kolobrzeg    Towarowa / Morska, port #2/2                         		2002-04-08  TP
+94 802 0142  Jt Kolobrzeg    Dworcowa / Armii Krajowej, ~UP1, lewa strona #2/4    		2002-12-14  TP
+94 802 0143  Jt Kolobrzeg    Armii Krajowej / Dworcowa, ~UP1, prawa strona #5/6   	        2002-12-14  TP
+94 802 0144  Jt Kolobrzeg    Dworcowa / Armii Krajowej, ~UP1, lewa strona #3/4    		2002-12-14  TP
+94 802 0151  St Kolobrzeg    6 Dywizji Piechoty / Witkowice, st.p. "Aral"         		2002-01-29  TP
+94 802 0152  St Kolobrzeg    al. Kolejowa, na budynku dworca #1/2                 		2003-04-13  TP
+94 802 0159  St Kolobrzeg    Lopuskiego 8, szpital, 1 pietro @                    		2002-10-31  TP
+94 802 0160  St Kolobrzeg    Lopuskiego 8, szpital, parter @                      		2002-11-22  TP
+94 802 0161  St Kolobrzeg    Lopuskiego 8, szpital, 2 pietro @                    		2002-10-31  TP
+94 802 0165 +Nt Kolobrzeg    Jednosci Narodowej 2 / Wolnosci                      		2002-01-26  TP
+94 802 0168  St Kolobrzeg    Rodziewiczowny 13, Zakl. Przyrodoleczn. 2, parter @  		2002-04-08  TP
+94 802 0171  St Kolobrzeg    fort "Kamienny Szaniec" (zakratowana wneka)          		2002-07-16  TP
+94 802 0172  St Kolobrzeg    Lopuskiego 8, szpital, 3 pietro @                    		2002-10-31  TP
+94 802 0173  St Kolobrzeg    Armii Krajowej, UP1 #2/2 @                           		2002-01-26  TP
+94 802 0174  St Kolobrzeg    Dworcowa                                             		2001-08-01  TP
+94 802 0175  St Kolobrzeg    Kosciuszki / Fredry                                  		2002-05-23  TP
+94 802 0176  St Kolobrzeg    Lopuskiego 8, szpital, 4 pietro @                    		2002-10-31  TP
+94 802 0181  St Kolobrzeg    Lopuskiego 8, szpital, 5 pietro @                    		2002-10-31  TP
+94 802 0184  Nt Kolobrzeg    Mieszka I / Koszalinska st.p. #1/2                   		2002-05-20  TP
+94 802 0195  St Kolobrzeg    Lopuskiego 2, Zespol Szkol Ogolnokszt., parter @     		2002-04-17  TP
+94 802 0198  St Kolobrzeg    Kniewskiego 23 / Kolejowa, DH "Pasat", parter @      		2002-05-10  TP
+94 802 0202  St Kolobrzeg    Kollataja 1, Centrum Rehabilitacji Rolnikow #1/2     		2001-10-18  TP
+94 802 0203  Nt Kolobrzeg    Boguslawa X 2                                        		2002-06-12  TP
+94 802 0204  St Kolobrzeg    Slowincow / Kamienna                                 		2002-01-15  TP
+94 802 0205  St Kolobrzeg    Trzebiatowska ~targowisko                            		2001-06-15  TP
+94 802 0209  Jt Kolobrzeg    Ratuszowa ^Ratusz (czerwona budka) #2/2              		2003-03-01  TP
+94 802 0211  Jt Kolobrzeg    al. Kolejowa, na budynku dworca #2/2                 		2003-04-13  TP
+94 802 0213  St Kolobrzeg    Mysliwska 17                                         		2001-12-07  TP
+94 802 0216  St Kolobrzeg    Katedralna 13, sad @                                 		2001-12-07  TP
+94 802 0217  Jt Kolobrzeg    Boleslawa Krzywoustego 7 #1/2                        		2003-04-02  TP
+94 802 0218  St Kolobrzeg    Jednosci Narodowej 86-88, szpit. wojsk., parter @    		2002-05-22  TP
+94 802 0221  St Kolobrzeg    Katedralna / Armii Krajowej, DH "Bryza" @            		2001-10-19  TP
+94 802 0222  St Kolobrzeg    6 Dywizji Piechoty / Artyleryjska / Trzebiatowska    		2001-12-07  TP
+94 802 0225  St Kolobrzeg    ^Fredry 5 #2/2                                       		2001-10-18  TP
+94 802 0226  Nt Kolobrzeg    ^Fredry 5 #1/2                                       		2001-10-18  TP
+94 802 0231  Nt Zieleniewo   Os. Zieleniewo 182 = Kolobrzeg: Starynowska/Kossaka  	        2002-04-23  TP
+94 802 0232  Nt Kolobrzeg    Jednosci Narodowej 33 #3/3 (grupa 6 budek, 3 puste)  		2002-01-26  TP
+94 802 0235  Nt Kolobrzeg    Jednosci Narodowej 33 #2/3 (grupa 6 budek, 3 puste)  		2002-01-26  TP
+94 802 0236 -Nt Kolobrzeg    Starynowska, Urocza | Slowicza #2/2                  		2002-03-06  TP
+94 802 0239  Nt Kolobrzeg    Towarowa ^Cicha                                      		2001-10-24  TP
+94 802 0240  Nt Kolobrzeg    Unii Lubelskiej 1 / Okopowa #2/2                     		2001-08-03  TP
+94 802 0241  Nt Kolobrzeg    Unii Lubelskiej ^Katedralna #2/2                     		2001-08-03  TP
+94 802 0243  Nt Kolobrzeg    Wschodnia / Sulkowskiego (nad morzem)                		2002-09-28  TP
+94 802 0244  St Kolobrzeg    Nowogrodzka 8A (Podczele) #2/2                       		2002-05-23  TP
+94 802 0245  Nt Kolobrzeg    Nowogrodzka 8A (Podczele) #1/2                       		2002-05-23  TP
+94 802 0249  Jt Kolobrzeg    Dworzec PKP, prawy w hali @                          		2003-04-11  TP
+94 802 0252  Nt Kolobrzeg    bulwar Szymanskiego, ~molo                           		2001-10-24  TP
+94 802 0255  Nt Kolobrzeg    Towarowa / Morska, port #1/2                         		2002-04-08  TP
+94 802 0258  Nt Kolobrzeg    Mieszka I / Koszalinska st.p. #2/2                   		2002-05-20  TP
+94 802 0259  St Kolobrzeg    Ratuszowa ^Ratusz (czerwona budka) #1/2              		2003-03-01  TP
+94 802 0260  Si Kolobrzeg    Boleslawa Krzywoustego 7 #2/2                        		2003-04-02  TP
+94 802 0261  Jt Kolobrzeg    Dworcowa / Armii Krajowej, ~UP1, lewa strona #1/4    		2002-12-14  TP
+94 802 0262  Jt Kolobrzeg    Dworcowa / Armii Krajowej, ~UP1, lewa strona #4/4    		2002-12-14  TP
+94 801 0264  Jt Kolobrzeg    Armii Krajowej, UP1 #1/2 @                           		2002-12-27  TP
+94 802 0265  Jt Kolobrzeg    Armii Krajowej / Dworcowa, ~UP1, prawa strona #1/6         	2002-12-14  TP
+94 802 0266  Jt Kolobrzeg    Armii Krajowej / Dworcowa, ~UP1, prawa strona #6/6   	        2002-12-14  TP
+94 802 0401 +Nt Goscino      4 Dywizji Wojska Polskiego ~Biblioteka               		2002-04-17  TP
+94 802 0403  Nt Goscino      Zespol Szkol im. Rataja, internat @                  		2002-04-17  TP
+94 802 0404 +Nt Goscino      Karlinska, Osr. Pomocy Spolecznej @                  		2002-04-17  TP
+94 802 0405 +Nt Goscino      Kolobrzeska ~poczta                                  		2002-04-17  TP
+94 802 0406  St Robun        ~dom nr 17                                           		2002-10-27  TP
+94 802 0407 +St Goscino      Grunwaldzka 33A, Osiedle Zatorze                     		2002-04-17  TP
+94 802 0408  Nt Dargocice    przy sklepie                                         		2003-03-02  TP
+94 802 0505  Nt Charzyno     przystanek autobusowy                                		2002-07-18  TP
+94 802 0508  Nt -            Stacja paliwowa "Lear", skrzyzowanie drog nr 6 i 162 		2003-03-13  TP
+94 802 0511  Nt Dygowo       Glowna 14                                            		2002-07-16  TP
+94 802 0517  Nt Siemysl      Urzad Gminy                                          		2002-07-18  TP
+94 802 0518  Nt Niezyn       skrzyzowanie                                         		2002-07-18  TP
+94 802 0614  St Ustronie M.  Boleslawa Chrobrego 11, wsch. #2/4                   		2003-03-24  TP
+94 802 0620  St Ustronie M.  Boleslawa Chrobrego 11, wsch. #4/4                   		2003-03-24  TP
+94 802 0628  St Ustronie M.  Boleslawa Chrobrego 11, zach. #3/4                   		2003-03-24  TP
+94 802 0630  St Ustronie M.  Boleslawa Chrobrego 11, zach. #2/4                   		2003-03-24  TP
+94 802 0631  St Ustronie M.  Boleslawa Chrobrego / Wolnosci                       		2003-03-16  TP
+94 802 0632  St Ustronie M.  Boleslawa Chrobrego 11, zach. #1/4                   		2003-03-24  TP
+94 802 0650  Nt Ustronie M.  Boleslawa Chrobrego 11, wsch. #1/4                   		2003-03-24  TP
+94 802 0651  Nt Ustronie M.  Boleslawa Chrobrego 11, wsch. #3/4                   		2003-03-24  TP
+94 802 0655  Nt Ustronie M.  Boleslawa Chrobrego 60                               		2003-03-16  TP
+94 802 0660  Jt Ustronie M.  Boleslawa Chrobrego 11, zach. #4/4                   		2003-03-24  TP
+94 802 0802  Jt Grzybowo     ~Urzad Pocztowy #3/3                                 		2002-08-24  TP
+94 802 0806  Nt Grzybowo     ~Urzad Pocztowy #2/3                                 		2002-08-24  TP
+94 802 0817  Nt Grzybowo     ~Urzad Pocztowy #1/3                                 		2002-08-24  TP
+94 802 7001  St -            parking nad Parseta przy drodze 163                  		2003-03-27  TP
+94 802 7005  Nt Stanomino    pawilon                                              		2003-03-13  TP
+94 802 7022  St Karlino      Koszalinska 101, st.p. "Correct"                     		2002-10-04  TP
+94 802 7024  Nt Karlino      Moniuszki 2 / Koszalinska ~UP                        		2002-09-12  TP
+94 802 7025  Nt Karlino      Koszalinska 42                                       		2002-01-11  TP
+94 802 7027  Jt Bialogard    Wojska Polskiego ^Swidwinska                         		2002-12-16  TP
+94 802 7028  Jt Bialogard    Wojska Polskiego 87-88, Poczta, obok skrytek @       		2002-09-11  TP
+94 802 7029  Jt Bialogard    Staromiejska 1-2                                     		2001-06-14  TP
+94 802 7031  St Bialogard    Krolowej Jadwigi                                     		2003-03-01  TP
+94 802 7032  Nt Bialogard    Stamma 17 #1/2, przed "Peri"                         		2003-03-07  TP
+94 802 7033  Nt Bialogard    Stamma 17 #2/2, przed "Peri"                         		2003-03-07  TP
+94 802 7035  Nt Bialogard    Kolobrzeska 31                                       		2002-09-02  TP
+94 802 7036  St Bialogard    Wojska Polskiego 87-88, oficyna, BOK TP SA @         		2002-09-10  TP
+94 802 7038  Nt Bialogard    Szosa Polczynska, st.p. PKN "Orlen"                  		2003-03-07  TP
+94 802 7039  Nt Bialogard    Grunwaldzka 52                                       		2002-09-13  TP
+94 802 7041  St Bialogard    Najswietszej Marii Panny 19, hotel "Korona"          		2002-10-05  TP
+94 802 7043  Nt Bialogard    Staromiejska, Hala Targowa, 1p. @                    		2002-09-06  TP
+94 802 7046  Nt Bialogard    Grunwaldzka / 1 Maja ~Urzad Miasta                   		2002-09-02  TP
+94 802 7047  St Bialogard    Mickiewicza 3, Urzad Skarbowy, parter @              		2003-01-20  TP
+94 802 7049  Nt Bialogard    Dworcowa 5 / Ludowa 1                                		2001-06-14  TP
+94 802 7051  St Bialogard    Dworzec PKP, hala dworcowa, #3/3 @ (wisi wysoko)     	        2002-04-07  TP
+94 802 7052  St Bialogard    Zamoyskiego 18                                       		2003-01-21  TP
+94 802 7053  Nt Bialogard    Sikorskiego / 1 Maja                                 		2002-09-05  TP
+94 802 7055  Nt Bialogard    Wojska Polskiego 86 ~UP1                             		2003-03-07  TP
+94 802 7058  St Bialogard    Wojska Polskiego 87-88, Poczta, przedsionek @        		2002-09-11  TP
+94 802 7059  Nt Bialogard    Zwyciestwa / Chopina                                 		2002-10-25  TP
+94 802 7060 +Nt Bialogard    Pilsudskiego / Grottgera                             		2002-11-22  TP
+94 802 7061  Nt Bialogard    Dworcowa, przed dworcem PKP #1/2                     		2002-04-05  TP
+94 802 7062  Nt Bialogard    Dworzec PKP, hala dworcowa, #2/3 @ (wisi nisko)      		2002-04-07  TP
+94 802 7063  Ni Bialogard    Dworcowa 1D / 1 Maja                                 		2001-06-14  TP
+94 802 7064  Nt Bialogard    Dworzec PKS, hala dworcowa @                         		2002-12-06  TP
+94 802 7065  Nt Bialogard    Boleslawa Smialego 65B                               		2003-02-26  TP
+94 802 7066  Nt Bialogard    1 Maja 74                                            		2002-09-27  TP
+94 802 7073  Nt Bialogard    Berki / Szosa Polczynska                             		2003-01-30  TP
+94 802 7074  Ni Bialogard    ^Wojska Polskiego 52 / Lipowa                        		2001-06-14  TP
+94 802 7076  St Bialogard    Kochanowskiego 2 / Pomorska                          		2002-12-16  TP
+94 802 7078  Nt Bialogard    Swidwinska 21, "Unicon", portiernia @                		2003-01-30  TP
+94 802 7080  Nt Bialogard    Kisielice Duze 8                                     		2002-12-17  TP
+94 802 7081  Nt Bialogard    1 Maja 14                                            		2002-10-05  TP
+94 802 7082  Nt Bialogard    Dworcowa, przed dworcem PKP #2/2                     		2002-04-05  TP
+94 802 7088  Jt Bialogard    Wojska Polskiego 87-88 ~UP                           		2002-01-11  TP
+94 802 7089  Nt Bialogard    Pomorska / Dabrowszczakow                            		2002-09-06  TP
+94 802 7091  Nt Bialogard    Batalionow Chlopskich 1 / Sobieskiego                		2002-09-24  TP
+94 802 7092  Nt Bialogard    Szosa Polczynska ^cmentarz                           		2002-09-11  TP
+94 802 7095  Nt Bialogard    Przejazdowa 1                                        		2002-09-09  TP
+94 803 0070 +Nt Szczecinek   Wiatraczna, Dom Dziecka @                            		2001-05-02  TP
+94 803 7000  Jt Swidwin      1 Maja ~brama zabytkowa                              		2003-03-27  TP
+94 803 7001  Jt Swidwin      3 Marca / Popieluszki                                		2003-03-27  TP
+94 803 7003  Sm Swidwin      3 Marca / pl. Jana Pawla II #1/2                     		2003-03-27  TP
+94 803 7004  Jt Swidwin      3 Marca / pl. Jana Pawla II #2/2                     		2003-03-27  TP
+94 803 7008  Sm Swidwin      Drawska / Wojska Polskiego #1/2                      		2003-03-27  TP
+94 803 7009  Jt Swidwin      Drawska / Wojska Polskiego #2/2                      		2003-03-27  TP
+94 803 7011  Jt Swidwin      pl. Sybirakow ^"Biedronka" #2/2                      		2003-03-27  TP
+94 803 7012  Si Swidwin      pl. Sybirakow ^"Biedronka" #1/2                      		2003-03-27  TP
+94 803 7015  Jt Swidwin      pl. Lotnikow, dworzec PKP, hala dworcowa @           		2003-03-27  TP
+94 803 7019  Ni Swidwin      Polczynska 32 ~wartownia dowodztwa garnizonu         		2003-03-27  TP
+94 803 7023  Jt Swidwin      pl. Lotnikow, dworzec PKS                            		2003-03-27  TP
+94 803 7026  Sm Swidwin      Niedzialkowskiego 4A #1/2                            		2003-03-27  TP
+94 803 7027  Jt Swidwin      Niedzialkowskiego 4A #2/2                            		2003-03-27  TP
+94 803 7029  Sm Swidwin      Polczynska 15                                        		2003-03-27  TP
+94 803 7032  Sm Swidwin      Polczynska 71 #1/2                                   		2003-03-27  TP
+94 803 7033  Jt Swidwin      Polczynska 71 #2/2                                   		2003-03-27  TP
+94 803 7035  Si Swidwin      st.p. "Rafineria Plocka", wylot na Kolobrzeg         		2003-03-27  TP
+94 803 7044  Sm Swidwin      Wojska Polskiego ~"Biedronka"                        		2003-03-27  TP
+94 803 7045  Ni Swidwin      Zwirki i Wigury 2 #2/2                               		2003-03-27  TP
+94 803 7046  Sm Swidwin      Zwirki i Wigury 2 #1/2                               		2003-03-27  TP
+94 803 7048  Nt Krosino      przy sklepie                                         		2003-03-27  TP
+94 803 7051  Ni Smardzko     przy sklepie                                         		2003-03-27  TP
+94 803 7056  Si Slawoborze   Swidwinska 1 / Lipowa                                		2003-03-13  TP
+94 803 7400  Jt Polczyn-Zdr. 5 Marca / Grunwaldzka                                		2003-03-27  TP
+94 803 7405  Jt Polczyn-Zdr. Grunwaldzka ~UP #1/3                                 		2003-03-27  TP
+94 803 7406  Jt Polczyn-Zdr. Grunwaldzka ~UP #2/3                                 		2003-03-27  TP
+94 803 7409  St Polczyn-Zdr. st.p. "RN", wylot na Swidwin i Bialogard             		2003-03-27  TP
+94 803 7411  Jt Polczyn-Zdr. Mariacka 2 / pl. Wolnosci                            		2003-03-27  TP
+94 803 7412  Si Polczyn-Zdr. Grunwaldzka ~UP #3/3                                 		2003-03-27  TP
+94 803 7416  Jt Polczyn-Zdr. pl. Wolnosci 1 #2/2                                  		2003-03-27  TP
+94 803 7417  Jt Polczyn-Zdr. pl. Wolnosci 1 #1/2                                  		2003-03-27  TP
+94 803 7418  Jt Polczyn-Zdr. pl. 1000-lecia PP, hala dworca PKS @                 		2003-03-27  TP
+94 803 7419  Jt Polczyn-Zdr. pl. 1000-lecia PP, ~postoj taksowek #1/2             		2003-03-27  TP
+94 803 7420  Jt Polczyn-Zdr. pl. 1000-lecia PP, ~postoj taksowek #2/2             		2003-03-27  TP
+94 803 7438  N  Redlo        centrum wsi                                          		2003-03-27  TP
+
+Legenda:
+
+Skróty:
+
+A - duży żetonowiec z klawiaturš na monety
+    20 gr, 50 gr, 1 zł (Dialog)
+B - telefon na bilon 10 gr - 5 zł (Dialog)
+J - "jajo" ISDN
+K - telefon na kartę i monety (Netia)
+N - niebieski Urmet (TSP 91/PO)
+M - mały żetonowiec z klawiaturš
+S - srebrny Urmet (TPE-97/U)
+Z - duży żetonowiec z klawiaturš (AWS-6)
+t - wybieranie tonowe
+i - wybieranie impulsowe
++ - sprawdzona możliwoć dodzwonienia
+    się do tego aparatu
+- - sprawdzona niemożliwoć dodzwonienia
+    się do tego aparatu
+UP n  - Urzšd Pocztowy nr n
+pn    - północ
+pd    - południe
+#n/m  - n-ty telefon w grupie m-telefonów,
+        liczone od lewej
+*n    - w grupie n telefonów
+[abc] - ozn. od strony / z kierunku itp.
+@     - dostępny, gdy instytucja jest czynna
+/     - róg
+^     - naprzeciw, vis-a-vis
+~     - niedaleko, przy, obok
+a|b   - między a i b

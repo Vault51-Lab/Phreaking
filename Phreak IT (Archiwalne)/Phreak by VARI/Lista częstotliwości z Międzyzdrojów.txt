@@ -1,0 +1,130 @@
+lista Miêdzyzdroje
+
+* brak oznaczenia rodzaju emisji - w¹ski FM
+** GRZYWACZ - wysoka góra ko³o Miedzyzdrojów
+ ----------             -----------------------------------------
+
+ 26.970 AM              TAXI "firma" 1 (zielone koguty)  Miêdzyzdroje
+ 27.050 AM              TAXI "firma" 2 (czerwone koguty) Miêdzyzdroje
+
+ 40.905                 monitoring alarmów Argus Security
+ 40.950                 retransmitter monitoringu Argus Security
+                              (hotel Merlin)
+
+ 48.4625                Woliñski Park Narodowy wej. przemiennika Grzywacz (CTCSS = 179.9 Hz)
+ 48.5375                Woliñski Park Narodowy - wyj. przemiennika Grzywacz
+ 48.675                  (?) Urz¹d Morski wyniesiona stacja Lubiñ - link radiolinia na VHF z siedzib¹
+                                przez Grzywacz
+
+ 75.000 AM            Marker - lotnisko Zirchow - Niemcy
+
+ 87,180                   Grenzschutz - stra¿ graniczna Niemcy (i inne kana³y obok)
+
+ 87.700 WFM             Radio Maryja - wie¿a koœcia³a Lubin
+ 91.800 WFM             Radio ZET    - Œwinoujœcie
+ 101.200 WFM            Radio RMF    - Œwinoujscie
+ 106.300 WFM            Radio Szczecin - Œwinoujœcie
+ 107.700 WFM            PR 1           - Œwinoujœcie
+
+ 145.6125              SR1W - Œwinoujœcie
+ 145.650                Bornholm
+ 145.700                SR1K - Stargard Szczeciñski
+ 145.775                SR1S - Szczecin
+
+ 148.575                Stra¿ Miejska - Miêdzyzdroje (bez CTCSS)
+ 148.800                Stra¿ Po¿arna - Miêdzyzdroje i Kamieñ Pomorski
+                               (CTCSS = 241.8 Hz)
+
+ 150.100                PKP szlakowy - kana³ 1
+ 152.025                TAXI Œwinoujœcie CTCSS 77,0 Hz
+ 155.425                Barki
+ 156.600                Œwinoujœcie TRAFFIC (kana³ Szczeciñski)
+ 156.650                Promy Swinoujœcie - Warszów
+ 157.300                wej. K-26 Witowo Radio meteo - Grzywacz
+ 157.350                wej. K-27 (Witowo Radio - Grzywacz)
+ 157.600                te¿ p³ywaj¹ ale s¹ znacznie mniej pokojowo usposobieni
+                        - :)) (port Œwinoujœcie ?)
+ 159.450                pager FLEX Grzywacz
+ 159.650                pager FLEX Grzywacz
+ 159.750                Pager POCSAG
+ 160.0125              TAXI Œwinoujœcie
+ 160,2125              jakaœ firma Œwinoujœcie
+ 160.275                Ochrona
+ 160.5375              TAXI Œwinoujœcie
+ 161.900                Witowo Radio - Meteo - Grzywacz kana³ 26
+ 161.950                wyj. K-27 (Witowo Radio - Grzywacz) kana³ 27
+ 165.700                wej. przemiennika misiów Colargoli :)) Œwinoujœcie
+                        CTCSS = 88.5 Hz
+ 165.775                bohaterowie pewnego programu cyklicznego w TVN
+                        - Miêdzyzdroje (maj¹ samochody terenowe
+                        z zielonym paskiem)
+ 166,150                to samo co wy¿ej
+ 166,125                te¿ ale w ³¹cznoœci z Marynark¹ W ? lub Urzêdem Morskim
+ 168.800                wej. przemiennika Pogotowia Ratunkowego - Miêdzyzdroje
+                        hotel Merlin
+ 169.075                wyj. przemiennika Pogotowia Ratunkowego - Miêdzyzdroje
+                        hotel Merlin
+ 171,125                ochrona "Argus Security" ul. Ksi¹z¹t Pomorskich (siedziba BG¯ S.A.)
+ 171,375                Port Œwinoujœcie (cywilny) kana³ wewn. pracowników prze³adunkowych
+ 171 775                Ochrona ?
+ 172.175                wyj. przemiennika misiów Colargoli Œwinoujœcie :))
+ 172.350                tu z kolei misie uszatki - Miedzyzdroje i Kamieñ
+                        Pomorski (nadajnik w lokalizacji ? Grzywacz) manipulator na komisariacie
+                        ul. Mickiewicza
+ 172.840                niemieckie misie (bardzo troskliwe) :)) lub s³u¿ba celna - Niemcy
+
+ 175.225  AM            noœna wizji TV ARD 1 Niemcy
+ 175.2625 AM            noœna wizji TV DR 1  Dania
+ 180.725  WFM           noœna foni  TV ARD 1 Niemcy
+ 180.7625 WFM           noœna foni  TV DR 1  Dania
+ 191.250  AM            nosna wizji TVP 1 Koszalin
+ 197.750  WFM           noœna fonii TVP 1 Koszalin
+ 196.250  AM            noœna wizji TV ARD 1 Niemcy
+ 201.750  WFM           noœna fonii TV ARD 1 Niemcy
+ 207.250  AM            noœna wizji TVP 1 Œwinoujœcie
+ 213.750  WFM           noœna foni  TVP 1 Œwinoujœcie
+ 217.250  AM            noœna wizji TV ARD 1  Niemcy
+ 222.750  WFM           noœna fonii TV ARD 1  Niemcy
+ 223.250  AM            noœna wizji TVP 1 Szczecin
+ 229.750  WFM           noœna foni  TVP 1 Szczecin
+
+ 271.ró¿ne kana³y       telefon b.przew. - baza (ant stacjonarna) pewna firma telewizji kablowej w Miêdzyzdrojach
+ 390.ró¿ne kana³y       telefon b.przew. - s³uchawka j.w.
+
+ 427.9375               kana³ kontrolny ENEA Grzywacz 
+ 428.0375               pierwszy kana³ rozmówny ZE Miêdzyzdroje -  Trunking
+                        ENEA S.A. - dawna Energetyka Szczeciñska S.A.
+                        stacja bazowa Grzywacz 
+                        (dobrze jest te¿ s³uchaæ 10 MHz ni¿ej na wejœciu)
+ 428.150                drugi kana³ rozmówny Grzywacz
+ 429.0625               kana³ kontrolny jakiegoœ systemu trankingowego Œwinoujœcie
+
+ 431.225                wej przemiennika amatorskiego Œwinoujœcie
+ 431.250                wej niemieckiego przem
+ 435.3375               impulsowa RADAR METEO Oœrodek Grodno 2 (?)
+ 437.000                (?) porawki GPS (?) latarnia Œwinoujœcie zaobserwowano
+                        aktywnoœæ wy³¹cznie po zmroku
+ 438.825                wyj przemiennika amatorskiego Œwinoujœcie (SR1SW)
+ 438,850                wyj niemieckiego przem
+ 452.5 - 457 i 462.5 - 467      NMT (Centertel oraz radiodostêpy TPSA)
+ 457.325                pomoc nawigacyjna (poprawki GPS) Szczecin (?)
+ 469.875 dzielony kana³ szczelinami czasowymi ---------- Lottomaty downlink 
+                        (uplink - lottomat->baza jest 10 MHz poni¿ej)
+                        (RTCN Œwinoujœcie ?)
+
+
+pasmo UHF TV
+
+kana³ 22 - ZDF Niemcy
+kana³ 31 - DR2 dania
+kana³ 33 - TVP2 Œwinoujœcie
+kana³ 43 - TV2 Szwecja
+kana³ 50 - Polsat Œwinoujœcie
+kana³ 51 - NDR Niemcy
+kana³ 53 - TV4 (?) Szwecja
+
+
+
+
+
+

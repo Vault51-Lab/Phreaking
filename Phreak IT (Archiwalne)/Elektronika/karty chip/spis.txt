@@ -1,0 +1,3 @@
+     -  chip v0.2 build 42 [186KB] program do odczytu danych z kart chip autorstwa Zajadacza, do dzialania wymaga instalacji sterownika port95nt [1,46MB]
+    - zdjecia czytnika kart chip Zajadacza | 1 [64KB] | 2 [93KB] |
+    - zajecie karty serwisowej Zajadacza | zobacz [54KB] |

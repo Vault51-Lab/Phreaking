@@ -1,0 +1,404 @@
+Wstęp 
+
+Do tej pory mowa była cały czas o pršdzie stałym, w którym elektrony 
+poruszały się w jednym ustalonym kierunku. Pršd zmienny natomiast 
+może pulsować (wtedy również poruszajš się w jednym kierunku, ale 
+natężenie w różnych chwilach nie jest stałe, lecz pulsuje). Taki pršd 
+nazywamy pulsujšcym. Natomiast częciej spotykamy pršd przemienny  
+pulsuje on w obu kierunkach, co chwila zmieniajšc kierunek przepływu. 
+Wykresem zależnoci I(t), czyli natężenia pršdu od czasu w przypadku 
+pršdu stałego jest linia prosta y=a, gdzie a to natężenie pršdu. Pršd 
+przemienny natomiast może mieć różne przebiegi ( wykresy i(t) ) 
+jednak najbardziej popularny jest przebieg sinusoidalny. Jak już 
+zauważylicie z mojego zapisu: wielkie I oznacza pršd stały, małe  
+zmienny. Wykresem takim wtedy jest y=sin(t). Chyba każdy umie sobie 
+takie zjawisko wyobrazić, jest natomiast kilka spraw, które wymagajš 
+opisu. [[ y =sin(t) podałem tylko jako przedstawienie kształtu 
+takiego przebiegu ]] 
+
+Częstotliwoć, pulsacja, amplituda, faza, przesunięcie fazowe 
+
+Trochę pojęć się nam teraz narobiło. Po kolei: częstotliwoć 
+(mierzona w jednostkach zwanych Hercami  odwrotnoć sekundy) to 
+liczba okresów przypadajšca na jednš sekundę. Okres to nic innego jak 
+jeden pełen cykl przepływu, czyli 2*Pi na wykresie przebiegu. 
+Częstotliwoć zaznaczamy literkš f (ang: frequency). Łatwo policzyć, 
+że przykładowy pršd o częstotliwoci 50 Hz (herców), wykonuje 100 
+zmian na sekundę (jako zmianę mam na myli chwilowy ruch elektronów z 
+jednego kierunku na drugi). W praktyce stosuje się włanie takie duże 
+częstotliwoci, zatem tak naprawdę cała ta pulsacja jest dla naszego 
+oka niezauważalna. Częstotliwoć 50 Hz mamy na przykład w naszych 
+domowych gniazdkach, mimo to nie zauważamy migotania żarówki, gdy 
+pulsuje pršd. Człowiek zauważa pulsowanie w granicach 20-25 Hz. 
+Pulsacja jest proporcjonalna do częstotliwoci (ang: pulsation). Mówi 
+ona o jakš miarę konta na wykresie przebiegu zmienia się pršd w 
+jednej sekundzie. Zatem nic prostszego, ponieważ jeden Herc odpowiada 
+360 stopni, wystarczy częstotliwoć pomnożyć przez 2*Pi (około 6,28) 
+i już mamy pulsację (Wielkoć tę mierzymy w radianach na sekundę, ale 
+ponieważ radian nie ma fizycznego wymiaru to cała jednostka 
+przypomina Herca  jednak niš nie jest). Piszemy wtedy s^(-1) 
+(odwrotnoć sekundy) 
+
+Amplituda opisuję maksymalnš wartoć chwilowš pršdu dla przebiegu 
+sinusoidalnego. Sš to po prostu wartoci szczytowe (tzw górki na 
+wykresie wykresie=sin(x)). 
+Faza, to pojęcie doć nietypowe. Aby je wyjanić, posłużymy się 
+wyobrażonym przez was rysunkiem. Załóżmy, że mamy dwa wykresy pršdu 
+sinusoidalnego, te same pulsacje oraz te same amplitudy. Teraz: jeden 
+wykres jest przesunięty względem drugiego o jaki kont. W ten sposób, 
+pršdy te majš tę samš pulsację, tę samš amplitudę, ale różniš się 
+fazami. 
+Wszystkie powyższe wykresy opieralimy na funkcji i(t), czyli 
+zależnoci pršdu od czasu, równie dobrze jednak można narysować 
+funkcję u(t), czyli zależnoć napięcia od czasu.. będzie on też 
+sinusoidalny. W niektórych obwodach po zastosowaniu różnych elementów 
+(o czym dowiesz się niedługo), pršd może opóniać się nieco za 
+napięciem lub też odwrotnie. Kšt pomiędzy napięciem a natężeniem w 
+takim obwodzie nazywamy przesunięciem fazowym. 
+
+Rezystor zasilany pršdem sinusoidalnym, opór czynny, wartoć 
+skuteczna 
+
+Zastanówmy się nad sytuacjš, gdy przez rezystor przepływa pršd 
+przemienny sinusoidalny o okrelonej pulsacji. Jakie jest natomiast 
+jego natężenie? Jak je wyliczyć? Chcšc obliczyć redni pršd, bioršc 
+pod uwagę kierunek  gdy przepływa w jednš stronę jest dodatni 
+(chwilowo), w drugš natomiast  ujemny. Można oczywicie podawać 
+wartoci chwilowe, które będš się zmieniały w granicach od amplitudy 
+do minus amplitudy. Ale oczywicie tak się nie robi  obliczamy tzw. 
+wartoć skutecznš pršdu. Bynajmniej nie jest wartoć rednia pršdu. 
+Wartoć skuteczna pršdu przemiennego jest to taka wartoć pršdu 
+stałego, który w tym samym czasie równym jednemu okresowi wydziela na 
+rezystorze tę samš iloć ciepła. Np. Pršd stały o natężeniu wywołuje 
+takš samš iloć ciepła w jednym okresie, co inny pršd zmienny. Z tego 
+wynika, że wartoć skuteczna wyżej opisanego pršdu zmiennego jest 
+równa wartoci pršdu stałego. Elektronicy już automatycznie umiejš 
+szybko obliczyć wartoć skutecznš, jest to nic innego jak wartoć 
+amplitudy, podzielona przez pierwiastek z dwóch. A jest to 
+przybliżajšc: Esk = 0,707 Em. Chyba łatwo zapamiętać, a jest to doć 
+ważne, gdyż od tej pory bierzemy pod uwagę tylko wartoć skutecznš. 
+Istnieje również co takiego jak wartoć rednia pršdu, ale na razie 
+nie musicie się tym zajmować. (dla zainteresowanych, jest to 0,636 
+wartoci amplitudy). Jeszcze jedna uwaga: wartoci skuteczne jak i 
+rednie możemy odwołać tez do napięcia, a współczynniki sš takie same. 
+
+Teraz gdy już znane jest ci pojęcie wartoci skutecznej, można 
+wstawić opornik do obwodu pršdu zmiennego. Jak się ma tu sytuacja w 
+przypadku prawa Ohma? Otóż  dokładnie tak samo, ale z jednš istotnš 
+różnicš. Bierzemy pod uwagę wartoci skuteczne pršdu i napięcia. 
+U = I*R, I = U/R  wzory oba sš prawdziwe dla pršdu przemiennego, pod 
+warunkiem, że U oznacza wartoć skutecznš napięcia, a I wartoć 
+skutecznš pršdu. W innym przypadku wzór ten nie jest prawdziwy. 
+
+Z dalszych częci kursu, dowiesz się co to jest opór bierny i z 
+czysto się to je  zatem najpierw poznajmy definicję oporu czynnego. 
+Rezystor zasilany pršdem zmiennym powoduje opór tzw. czynny  jego 
+wartoć nie zależy od pulsacji pršdu. W każdym przypadku jest taki 
+sam, można go wyznaczyć z prawa Ohma (pamiętamy tu jednak o 
+wartociach skutecznych). Jest istotna różnica w oporze czynnym jak i 
+biernym  sš to inne wielkoci, choć oba mierzone w jednostkach 
+zwanych omami. Ważnym tutaj pojęciem jest też przesunięcie fazowe. 
+Jeżeli chcemy na jednym wykresie przedstawić przebiegi i(t) oraz u(t) 
+dla rezystora zasilanego pršdem sinusoidalnym to pršd jest w fazie z 
+napięcie, jednak jego amplituda jest mniejsza. 
+
+I jeszcze jedna ważna uwaga: rozważajšc rezystor zasilany pršdem 
+przemiennym mam na myli obwód składajšcy się tylko i wyłšcznie z 
+rezystora i ródła napięcia zasilajšcego + przewody łšczšce. 
+
+Cewka indukcyjna, reaktancja 
+
+Cewka to nic innego jak zwoje nawinięte na jaki rdzeń (lub też bez 
+rdzenia). To co charakteryzuje cewkę, to jej indukcyjnoć (mierzona w 
+Henrach). Na schematach cewkę oznaczamy przez linię łamanš (spiralę) 
+literkš L. (ang: inductor). Przepływ pršdu przemiennego przez cewkę 
+powoduje indukcję własnš, im pulsacja pršdu jest większa  tym 
+większa jest indukcja własna cewki  tym większy opór stawia pršdowi. 
+Opór ten nazywamy biernym (reaktancjš, ang: reactance), gdyż zależy 
+on od wartoci pulsacji danego pršdu (jest zmienny). Dla danej cewki 
+podaje się tylko wartoć indukcyjnoci mierzonej w Henrach, natomiast 
+reaktancję liczymy mnożšc indukcyjnoć i pulsacje. Reaktancję 
+oznaczamy literkš X. Od razu kilka niepokojšcych wyjanień: 
+
+powiedziałem, że wartoć reaktancji cewki dla danego pršdu zależy od 
+jego pulsacji ale jak na to wpływa pulsacja napięcia? Otóż tak samo, 
+gdyż w naszych układach wartoć pulsacji napięcia na ródle jest taka 
+sama jak pršdu oraz napięcia na wszystkich elementach obwodu  zatem 
+ nie musimy się tym przejmować. Jednostkš reaktancji jest oczywicie 
+om (gdyż dalej jest to opór elektryczny). I kolejna ważna uwaga: 
+cewka w przypadku pršdu stałego jest niczym innym jak przewodnikiem 
+(zwiera zaciski, gdyż nawet wynika to ze wzoru, pulsacja równa jest 
+zeru, cała reaktancja równa jest 0  zwarcie!). Najogólniej mówišc: 
+Reaktancja indukcyjna jest równa iloczynowi pulsacji (omega) i 
+indukcyjnoci L. Prawo Ohma tak samo ma się dla cewki jak i rezystora, 
+pamiętamy jednak o wartociach skutecznych oraz o tym, że zamiast 
+oporu czynnego  jest reaktancja indukcyjna. Ale dlaczego jest to 
+inny opór niż czynny? Otóż wlutowanie cewki w obwód (tylko cewka, 
+ródło i przewody  nic więcej), powoduje takš oto niemiłš sytuację: 
+napięcie na cewce wyprzedza o kšt 90 stopni fazę pršdu. Można też 
+zdefiniować odwrotnie: pršd opónia się w fazie o 90 stopni względem 
+napięcia na cewce (na jej zaciskach). Pršd i napięcie sš po prostu 
+przesunięte fazowo. To czyni różnice pomiędzy oporem czynnym i 
+biernym i należy je rozróżniać.. i zaraz się dowiecie jak to robić. 
+
+Chcšc oznaczyć w jakim stopniu opór bierny, aby móc go odróżniać 
+należy skorzystać z zespolenia reaktancji. Przyda się to nieco 
+póniej również w obliczaniu całej impedancji i pršdów w obwodzie. 
+Możemy przedstawić reaktancję jako urojonš częć ogólnego oporu 
+elektrycznego, dodajšc przed niš literkę j (jednostkę urojonš). Aby 
+oczywicie rozumieć dalszš częć artykułu należy znać liczby 
+zespolone. Oznaczanie jX, oznacza reaktancję zespolonš, ale samš 
+wartociš reaktancji jest oczywicie X, j jest w tym przypadku 
+samym współczynnikiem, który mówi nam o urojeniu reaktancji, jako 
+czego, co nie jest w wymiarze zwykłego oporu. Specjalnie 
+oznaczyłem urojenie przez j a nie jako i standardowo w matematyce, 
+jako imaginary, ponieważ niektórym może się pomieszać z pršdem 
+zmiennym  również oznaczany przez i. Podsumowujšc: Reaktancja na 
+cewce jest proporcjonalna do pulsacji pršdu, cewka indukcyjna stwarza 
+duży opór pršdom wielkiej częstotliwoci. Urojenie ogólnie odnosić 
+się będzie do fizycznych wielkoci BIERNYCH. 
+
+Kondensator, reaktancja pojemnociowa 
+
+Kondensator mam nadzieję, że każdy wie jak wyglšda i do czego służy 
+(dwie okładki zgromadzajšce ładunek przy przyłożonym napięciu). Na 
+schematach oznaczany jako dwie kreski równoległe, tak jak "rysunek 
+poniżej: 
+
+------------||-------------- 
+
+Jego pojemnoć okrela się w faradach. Pojemnoć to nic innego jako 
+współczynnik proporcjonalnoci pomiędzy ładunkiem jaki może miecić 
+materiał do napięcia. Działa on na zasadzie odwrotnoci cewki 
+indukcyjnej. W przypadku pršdu stałego, ładunki szybko zgromadzš się 
+na okładkach i mamy przerwę w obwodzie (obwód otwarty, I = 0 A). W 
+przypadku pršdu przemiennego  intuicyjnie  im szybciej pulsuje, tym 
+ładunki się szybciej zmieniajš. I mimo, że obwód jest fizycznie 
+otwarty  pršd płynie. Im większa pulsacja  tym łatwiej mu to 
+idzie. Zatem  kondensator stwarza duży opór pršdom małej 
+częstotliwoci. W przypadku wyobrażonej pulsacji nieskończenie 
+wielkiej  zwarcie! (nie przebicie  nie mylić pojęć!) Opór na 
+kondensatorze jest również reaktancjš, ale pojemnociowš, obliczamy 
+jš jako odwrotnoć iloczynu pulsacji oraz pojemnoci kondensatora. X 
+= 1/ (omega * C). Na kondensatorze (odwrotnie do cewki), faza pršdu 
+wyprzedza fazę napięcia o 90 stopni (można też oczywicie powiedzieć 
+odrotnie). Czasami oznacza się reaktancję indukcyjnš z indeksem L, 
+natomiast pojemnociowš z indeksem C. Prawo Ohma  tak samo jak w 
+przypadku rezystora i cewki (chyba nie trzeba trzeci raz tłumaczyć). 
+
+
+Zespolenie polega na urojeniu mianownika, co automatycznie powoduje, 
+że powstaje wyrażenie: odwrotnoć urojenia, co jak wiedzš po 
+niektórzy matematycy  daje liczbę j (z minusem!), ponieważ ( 1/j = 
+-j ). Można zatem oznaczyć reaktancję pojemnociowš zespolonš jako 
+j*(1/omega*C). Tak też będziemy robili. 
+
+UWAGA: Na pewno niektórych zastanawia fakt różnicy w fazach: 
+napięcie spónia się za pršdem o 90- stopni  jak to możliwe, skoro 
+w chwili czasu równym 0, gdy napięcie jest równe 0  pršd ma 
+maksymalnš wartoć  niemożliwe! Skšd się tam wzišł, skoro obwód 
+jeszcze nawet nie został włšczony? Otóż: mowa tu jest o stanie 
+ustalonym obwodu, czyli takim, który już się nie zmienia. Nie mówimy 
+tu o istotnym włšczeniu czyli zamknięciu obwodu  dziejš się wtedy 
+różne rzeczy  jest niestabilny. Dlatego patrzšc na wykres : wartoć 
+zero oznacza start stanu ustalonego (stabilnego) obwodu, a nie chwila 
+zamnięcia obwodu. 
+
+Połšczenie R, L, C  impedancja 
+
+Impedancja (ang: impedancje) to nic innego jak łšczny opór wszystkich 
+elementów układu : biernych i czynnych. My oczywicie posługiwać 
+będziemy się impedancjš zespolonš, aby od razu rozkładać jš na częć 
+czynnš oraz urojonš biernš. I od razu może, żeby nie zwlekać wemiemy 
+się za jaki dobry przykład. Niech będzie obwód złożony z : ródła 
+napięcia oraz trzech elementów połšczonych szeregowo (rezystora, 
+cewki i kondensatora). Przyjmijmy sobie też jakie dane: 
+
+
+E = 220 [V] (napięcie na ródle) 
+C = 15 [mikro F] (pojemnoć kondensatora) 
+L = 0,6 [H] (indukcyjnoć cewki) 
+R = 150 [om] (rezystancja opornika) 
+Omega = 100*pi [s^(-1) , rad/sek] (pulsacja napięcia na ródle) 
+
+Naszym celem jest obliczenie  jaki będzie płynšł pršd w tymże 
+obwodzie. Ponieważ chcemy ostro sprecyzować naszš odpowied  podamy 
+wartoć skutecznš pršdu oraz kšt miedzy jego fazš, a fazš napięcia na 
+ródle. Mówilimy, że na cewce i kondensatorze, przesunięcie fazowe 
+między napięciem a pršdem jest cile okrelone  to oczywicie 
+prawda, ale w przypadku włšczenie tych dwóch elementów w obwód  
+przesunięcie może być już inne, zależne od impedancji całego układu. 
+Nasz przykładowy układ nie jest nazbyt skomplikowany. Przede 
+wszystkim, należało by obliczyć całš impedancję układu tych trzech 
+elementów (podobnie jak w przypadku rezystancji zastępczej przy 
+pršdzie stałym), a następnie podzielić jš przez napięcie  i to  
+teoretycznie dało by nam pršd. Owszem  tak zrobimy  musimy jednak 
+pamiętać o kilka rzeczach. Mówišc tu napięcie, mamy na myli wartoć 
+skutecznš napięcia na ródle  a więc jeli dana jest tylko amplituda 
+ wyliczamy wartoć skutecznš. Załóżmy, że w tym przypadku jest dana 
+amplituda pršdu (220 V). Obliczamy wartoć skuteczna mnożšc przez 
+0,707 i otrzymujemy, że Esk= 155,54 V. 
+Teraz należało by policzyć wszystkie opory naszych elementów. 
+Pierwszy opór już mamy: rezystancja wynosi 150 om, i jest to opór 
+czynny  nie musimy się nad nim dłużej rozmylać. Następnie widzimy 
+cewkę. Wiadomo jak liczymy wartoć reaktancji, zatem po wymnożeniu 
+otrzymujemy, że XL = 188,4 om. Wartoć reaktancji dla kondensatora 
+też łatwo liczmy, pamiętajmy jednak o odwrotnoci i o tym, że w 
+naszych przypadku jednostkš jest mikro farad, musimy też zastosować 
+odpowiedni mnożnik (tutaj równy jest on 10^(-6) ). Po obliczeniu: Xc 
+= 212,314 om. W porzšdku  mamy obliczone opory elementów, teraz 
+trzeba by jako obliczyć rezystancję całego układu (jego impedancję). 
+Bynajmniej nie można dodać tych wszystkich oporów, gdyż rezystor 
+wywołuje opór czynny, a cewka i kondensator  bierny. Zatem musimy 
+uroić opór bierny, dopisujšc jednostkę urojonš przy reaktancji... Tym 
+sposobem oddzielilimy opór czynny rezystora od reaktancji (teraz już 
+reaktancji zespolonych). Można teraz miało dodać te wartoci, które 
+się zgadzajš, czyli reaktancje zespolone, gdyż urojenie w naszym 
+przypadku wskazuje na te same obiekty. Z wzoru na reaktancję 
+zespolonš pojemnociowš, wiemy że przy nim należy dopisać nie j a 
+-j. To już było przerabiane. Zatem  odejmujemy reaktancję  i 
+wychodzi taka oto sytuacja, że wyszło nam na minusie. Oczywicie jest 
+to dobrze  opór bierny może być ujemny, czynny natomiast jest zawsze 
+dodatni. Jeżeli tak jest jak u nas (opór bierny ujemny) to cały nasz 
+układ ma charakter pojemnociowy  w przeciwnym przypadku  
+indukcyjny. Do naszej impedancji dodajemy jeszcze opór rezystora 
+(zapisujšc go tylko jako częć rzeczywistš otrzymanej wartoci 
+zespolonej) i wychodzi nam piękna impedancja zespolona: Z = 150 
+j23,914. 
+Przez wielkie Z oznaczamy impedancję, jak już pewnie każdy zauważył. 
+W naszym przypadku mielimy do czynienia z prostym obwodem, a co 
+jeli natkniemy się na bardziej skomplikowany? Otóż zasady obliczania 
+rezystancji zastępczej przy połšczeniach mieszanych (równoległych i 
+szeregowych) przenoszš się i tu, pamiętajmy jednak o zachowaniu 
+zgodnoci typów, jakby to programista Delphi powiedział. :) 
+
+Teraz zgodnie z prawem Ohma, możemy policzyć pršd w obwodzie  nic 
+prostszego  dzielšc wartoć skutecznš napięcia ródła przez naszš 
+impedancję. Czynnoci takie oczywicie robimy na kalkulatorze  nikt 
+przecież nie będzie pisemnie dzielił liczb zespolonych  chociaż jak 
+kto nie ma takiego kalkulatora  niech dzieli. 
+
+Po obliczeniu otrzymamy: I = 1,011 + j0,161. Wynik jest w postaci 
+zespolonej, jak to należy rozumieć ? Otóż jest to swoisty rozkład na 
+składowš czynnš i biernš  umiećcie liczbę tš na wykres Re =x, Im = 
+y  punkt będzie wskazywał wartoć pršdu  połšczcie go ze rodkiem 
+układu. Teraz: długoć narysowanego odcinka jest wartociš skutecznš 
+pršdu jaki płynie, natomiast kšt między nim a osiš Re (x) jest 
+przesunięciem fazowym między pršdem a napięciem ródła. Jest to nic 
+innego jak zmiana z postaci algebraicznej, na polarnš (Eulera, 
+eksponenta). Moduł liczby zespolonej jest wartociš skutecznš  to 
+się nie tylko liczy pršdu, ale tez napięcia. Kšt w eksponencie jest 
+przesunięciem fazowym. W naszym przypadku wartoć skuteczna pršdu 
+wyniosła 1,024 A (natomiast przesunięcie fazowe 9,05 [Rad] ). Również 
+dobrze możemy wyliczyć wszystkie napięcia na elementach i ich fazy  
+wystarczy pomnożyć wyżej obliczony pršd przez opór czynny bšd też 
+reaktancję zespolonš  w zależnoci od elementu  i analogicznie jak 
+tutaj 
+
+Moc czynna, bierna, pozorna 
+
+Przy pršdzie stałym liczylimy moc jako iloczyn U*I, można też 
+zastosować podobny wzór, ponieważ U = I*R, to moc można przedstawić 
+również jako P = R*I*I, czyli R * I^2. Praktycznie częciej stosuje 
+się drugie rozwišzanie, gdyż nie trzeba dodatkowo liczyć napięcia na 
+zaciskach przy każdym elemencie. Od razu będę wyjaniał na naszym 
+przykładzie. Jak wiemy moce pobrana i oddana muszš się zgadzać. 
+Zastanówmy się pierw czym jest moc bierna. Otóż jest to nic innego 
+jak iloczyn U*I (wartoci skuteczne) oraz sinus kšta pomiędzy fazš 
+napięcia a pršdu. Zaraz wszystko się wyjani. Zamiast stosować U*I, 
+jak mówilimy, stosujemy R*I^2. Moc bierna odnosi się do elementów: 
+cewka oraz kondensator. W przypadku rezystora, gdzie przesunięcie 
+fazowe równe jest zero, sin(fi) też jest równe zero (fi jest 
+oznaczeniem kšta tego przesunięcia  w zasadzie powinna być tu grecka 
+litera oznaczania kšta  ale z uwagi na brak możliwoci tego zapisu 
+stosuję formę wymownš). Największš moc biernš uzyskamy oczywicie w 
+sytuacji przesunięcia fazowego 90 stopni  wtedy funkcja 
+trygonometryczna (jako swoisty mnożnik) jest równa 1. Ponieważ R we 
+wzorze oznacza opór  bierzemy pod uwagę zespolone wartoci 
+reaktancji. Moc bierna pobierana przez dany układ jest zatem równa 
+sumie wszystkich mocy na cewkach i różnicy na kondensatorach 
+(ponieważ przy reaktancji pojemnociowej widnieje znak minus przed 
+urojeniem). Nie trudno wyliczyć, że nasza moc bierna łšczna (cewki i 
+kondensatora) wyniesie 25,077 .. no włanie czego Otóż jest to 
+jednostka zwana [VA] czyli wolto  amper. 
+
+Moc czynna odnosi się do rezystora, zamiast sinusa przesunięcia mamy 
+cosinus. Największa moc czynna wydziela się w przypadku faz pršdu i 
+napięcia takich samych. Nie musimy wiele sumować (jeden rezystor) i 
+otrzymujemy, że moc pobrana czynna wynosi 157, 28 (a jednostkš jest 
+wat [W] ). 
+
+Teraz aby sprawdzić, czy dobrze zostało wszystko obliczone musimy 
+sprawdzić moc pozornš na ródle. Nic trudnego: mnożymy zespolonš 
+postać pršdu przez wartoć skutecznš napięcia. I co nam wyszło? Taka 
+oto liczba: 157,25 + j25,04. Pierwsza wartoć jest równa mocy czynnej 
+(składowa czynna mocy), a druga biernej (składowa moc bierna urojona). 
+Oczywicie jak widać, wartoci te nie sš dokładnie te same  błšd 
+wynika w przybliżeniu do konkretnego miejsca po przecinku. Jednostkš 
+wielkoci tej jest [var]  wolto  amper reaktancyjny. 
+
+Moc biernš (P), czynnš (Q) oraz pozornš (S) można interpretować na 
+zasadzie trójkšta prostokštnego. Moc pozorna jest jego 
+przeciwprostokštnš, natomiast bierna i czynna  odpowiednimi 
+przyprostokštnymi. Kšt fi to kšt pomiędzy P a S  zatem nasze 
+mnożniki w postaci funkcji trygonometrycznych majš tu swoje graficzne 
+odbicie  co łatwo sobie uwiadomić rysujšc taki trójkšt (tzw. 
+trójkšt mocy). 
+
+Rezonans 
+
+W obwodach, w których występuje impedancja rzadko się zdarza aby 
+napięcie było w fazie z pršdów, praktycznie nawet się nie dopuszcza 
+takiego zjawiska  jest nie korzystne. Obwód jeli już taki jest  
+nazywamy rezonansowy. Rezonans powoduje tzw. obwód drgajšcy  faza 
+pršdu i napięcia jest taka sama. Większoć elektroników zna na pamięć 
+jak dobrać odpowiedniš pulsację w prostym układzie, aby wystšpił 
+rezonans. Niestety  nie wiedzš skšd to się bierze. Dla przykładu 
+wemiemy nasz wyżej już przerabiany przykład. Naszym celem jest takie 
+dobranie pulsacji napięcia na ródle, aby wystšpił rezonans. Mamy tu 
+zwykłe połšczenie szeregowe R, L, C  większoć elektroników wie, że 
+pulsacja musi się równać 1/sqrt(L*C) aby był rezonans. Ale jak już 
+wspomniałem  nie będziecie się przecież się uczyć na pamięć 
+wszystkich możliwoci połšczeń elementów RLC i pulsacji rezonansowych, 
+podam wam przepis, który pozwala na obliczenie pulsacji rezonansowej 
+dla dowolnego połšczenie dowolnych elementów. 
+
+Jak już wspomniałem, operujemy naszym przykładzikiem. Udowodnimy, że 
+rzeczywicie tyle pulsacja ta wynosi. Jak wiadomo  obliczajšc pršd 
+dzielimy wartoć skutecznš napięcia przez impedancję zespolonš  ale 
+co jeli urojenie impedancji wyniesie zero? Wtedy dzielenie zwinie 
+się do dzielenia dwóch liczb rzeczywistych.. i siłš rzeczy  wynik 
+będzie liczbš rzeczywistš. Innymi słowy: ponieważ liczby zespolone to 
+uogólnienie liczb rzeczywistych  częć urojona wyniku w takim 
+przypadku wyniesie 0. Zatem  wartoć skuteczna pršdu będzie równa 
+naszemu wynikowi  a zatem: kšt przesunięcia fazowego wyniesie 0. 
+Skoro tak  to faza napięcia będzie równa fazie pršdu  zjawisko 
+rezonansu! 
+To nas prowadzi do tego, aby mianownik w obliczaniu pršdu miał zerowe 
+urojenie. Zatem  postarajmy się tak nastawić pulsację napięcia  aby 
+otrzymana w tej operacji impedancja całego układu miała zerowš częć 
+urojenia. Liczymy impedancję: 
+
+Z = R + j*omega*L + 1/(j*omega*C) 
+Wyłšczamy przed nawias urojenie: 
+Z = R + j(omega*L  1/(omega*C)) 
+Zwróćcie uwagę na znaki powyżej. Ponieważ chcemy, aby urojenie 
+impedancji wynosiło 0, musimy po prostu jš brutalnie wyrwać: 
+jZ = omega*L  1/(omega*C) 
+Jest to nic innego jak wartoć urojenia, teraz musimy to wyzerować: 
+0 = omega*L  1/(omega*C) 
+Teraz to już chyba każdy umie wyznaczyć pulsację omega, wystarczy 
+sprowadzić do wspólnego mianownika i otrzymujemy: 
+0 = ((omega^2)*L*C  1) / (omega*L) 
+Skoro ułamek ma być równy 0, to wystarczy wyzerować licznik, od razu: 
+(omega^2)*L*C = 1 
+Stšd: 
+Omega = 1/sqrt(L*C) 
+
+Tym sposobem włanie obliczylimy rezonansowš pulsację. 
+
+Można też rozpatrywać inne przypadku, np. gdy pulsacja jest znana, 
+ale nie znamy pojemnoci kondensatora, czy też indukcyjnoci cewki. 
+Wystarczy wyznaczyć z powyższego wzoru. Mam nadzieję, że każdy to 
+zrozumiał. W ramach ćwiczeń proponuje wyliczyć do końca pulsację 
+rezonansowš dla naszego przykładu - kalkulator i proste operacje... 

@@ -1,0 +1,22 @@
+W tym dziale publikowane beda materialy dotyczace najwiekszego niezależnego polskiego operatora sieci przewodowej i jednego z konkurentow naszej kochanej TP S.A.
+
+Netia swojego czasu poczynila znaczace inwestycje i po pewnym kryzysowym okresie wybila sie na pozycje lidera wsrod operatorow niezaleznych. Obecnie w firmie zatrudnionych jest ponad 1250 osob.
+
+Bedziemy tu zamieszczac informacje zarowno o aparatach publicznych jak rozwniez i bardziej ogolne informacje na temat rozwoju tego operatora.
+
+ 
+
+Troche materialow z sieci korporacyjnej Netii:
+
+ Baza BOKow - spis biur obslugi klienta Netii w Polsce [xls, 47 KB]
+ Baza numerow bez 1055 - oby jak najmniej takich numerow [mdb, 344 KB]
+ Naklejka - naklejka na sluchawke z instrukcjami jak dzwonic [pdf, 72 KB]
+ Prefiksy - perfisky obecnych i przyszlych operatorow [ppt, 86KB]
+
+ 
+
+W sluzbie Netii pracuja aparaty TMI-M/P firmy Siemens, a czasami zdarzaja sie i poczciwe zetonowce AWS-7. W Warszawie aparatow Netii prawie nie ma (a te co sa to zostaly ulokowane w bardzo nieciekawych miejscach), wiec wszelkie prace polegajace na lepszym zbadaniu tych aparatow sa utrudnione.
+
+Warto obejrzec instrukcje montazu tego aparatu (from DaVinci) zwracajac szczegolna uwage na wyjatkowo nietypowe rozwiazanie zastepujace zamek. Czyzby aparaty Netii staly sie sejfami?
+
+Bez watpienia wyjatkowo atrakcyjnym kaskiem jest zgrana przez Zorina zawartosc pamieci flash aparatu Siemensa. Nie musze chyba wyjasniac, ze ma to strategiczne znaczenie dla dalszych badan tego aparatu.

@@ -1,0 +1,438 @@
+        
+Wstêp 
+
+Poniewa¿ by³o wiele nie?cis³o?ci na forum co do ró¿nych aspektów 
+po³šczenia komputera do silniczka itp. kombinacji (równie¿ s³ysza³em 
+o otwieranu okien g³osem itd.. :))) ), postanowi³em co? o tym 
+skrobnšæ. 
+
+Zacznijmy od tego co to jest pršd elektryczny: nic innego jak 
+uporzšdkowany ruch ³adunków.. no dobrze, ale co to sš ³adunki? Na 
+ch³opski rozum od razu: ³adunku mogš byæ dodatnie lub ujemne. W 
+zwyk³ym przyk³adowym atomie, wokó³ jšdra na³adowanego dodatnio, krš¿š 
+ujemnie na³adowane elektrony. W atomie takim liczba elektronów jest 
+równa ilo?ci protonów w jšdrze.. zatem ³adunki te siê nawzajem zerujš, 
+bo ka¿dy proton i elektron majš ³adunek takiej samej warto?ci, ale 
+przeciwnego znaku. Przyk³adowo (od razu w formie makroskopowej): mamy 
+jakš? wiêkszš masê (np. z metalu) i niech ma ona ma³y nadmiar 
+elektronów ? wtedy jest na³adowana ujemnie. We?my teraz innš podobnš 
+p³ytkê, ale z niedoborem elektronów ? wtedy jest ona na³adowana 
+dodatnio. Spróbujmy te dwie masy po³šczyæ drucikiem ? nastšpi 
+wyrównane ³adunków ? odpowiednia ilo?æ elektronów przejdzie z jednej 
+p³ytki na drugš, aby ³adunki siê wyrówna³y. Przep³yw tych elektronów 
+to w³a?nie pršd elektryczny, mo¿e jeszcze nie taki ustabilizowany ? 
+ale by³. 
+
+Oki, to by³o w wersji na ch³opski rozum, i je¿eli tak napiszecie na 
+jakim? egzaminie, to od razu pa³a! :)) Tak naprawdê, wyglšda wszystko 
+lekko inaczej, to tylko wierzcho³ek góry lodowej, co ja napisa³em. 
+Zastanówmy siê, dlaczego metale przewodzš pršd (sš w stanie dokonaæ 
+transportu elektronów). Otó¿, elektrony w ich atomach nie sš spójnie 
+?przywišzane? do atomów, jak w innych materia³ach, ale lu?no ?latajš? 
+(mo¿na tak powiedzieæ) w masie metalu tworzšc tzw. gaz elektronowy 
+(chmurê elektronowš). Dlatego te¿ metale umo¿liwiajš przep³yw pršdu 
+elektrycznego. 
+
+Od najdawniejszych czasów wiadomo, ¿e natura dš¿y do tzw. 
+?wyrównania?, dlatego zbli¿ajšc np. do siebie dwie masy o takich 
+samych ³adunkach (na³adowanych jednoimienne), bêdš siê one odpycha³a, 
+natomiast ró¿noimiennie ? przycišga³y. Si³y te sš ?ci?le obliczone, 
+jednak my siê tym nie zajmujemy. 
+
+£adunek elektryczny 
+
+Im mocniejszy jest ³adunek, tym bardziej dana masa jest na³adowana. 
+Ale poniewa¿ w fizyce nie zadawalamy siê okre?leniami wzglêdnymi 
+?mocniej?, czy te¿ ?s³abiej?, a dokonujemy pomiaru, zatem mo¿na 
+powiedzieæ, ¿e ³adunek elektryczny te¿ mo¿emy zmierzyæ [[ tak 
+naprawdê to bardzo trudno go zmierzyæ, ale wymy?lono jednostkê dla 
+tej wielko?ci ]]. A jest niš kulomb. Jest to bardzo du¿a jednostka, w 
+wy³adowaniach atmosferycznych wystêpujš rzêdy kilku kulombów. I na 
+razie - tyle o tym :) 
+
+Potencja³, napiêcie 
+
+Skoro ju¿ znasz pojêcie kulomba, mo¿na poznaæ pojêcie potencja³u oraz 
+napiêcia. Mo¿na powiedzieæ, ze im wiêkszy jest ³adunek na danej masie, 
+tym wiêkszy jest potencja³ (warto?ci te wzrastajš proporcjonalnie). 
+Oczywi?cie dla danego materia³u mo¿na wyznaczyæ wspó³czynnik 
+proporcjonalno?ci, jest to w tym przypadku ?pojemno?æ elektryczna?, 
+ale niš na razie siê nie zajmujemy. Teraz warto sobie zadaæ pytanie: 
+co to jest ten potencja³? Mo¿na powiedzieæ, ¿e im jest on wiêkszy, 
+tym bardziej jest dana masa na³adowana ? tym ³atwiej dopu?ciæ do jej 
+roz³adowania. Potencja³u jako takiego nie mo¿na zmierzyæ, jest to 
+wielko?æ wzglêdna, musimy dobraæ wzglêdem czego mierzymy. Najpro?ciej 
+oczywi?cie ? wzglêdem tzw. potencja³u zerowego. Takie co? idealne 
+oczywi?cie nie istnieje (zawsze jest jaki? potencja³), ale wyobra?my 
+sobie potencja³ zerowy (p³ytka z ³adunkiem równym 0). Inne p³ytki 
+bêdš mierzone wzglêdem tego w³a?nie potencja³u. Napiêcie elektryczne 
+natomiast to ró¿nica potencja³ów miêdzy dwoma punktami (obiektami). 
+Nie mo¿na mówiæ o napiêciu jakiego? elementu, muszš zostaæ dobrane 
+dwa punkty, i mówimy ¿e napiêcie miêdzy nimi jest równe tyle i tyle 
+(inaczej ró¿nica potencja³ów). Zarówno potencja³ i napiêcie majš tš 
+samš jednostkê, jakš jest wolt (V). Przyk³ad: Istniejš dwie p³ytki o 
+potencja³ach odpowiednio: 4 V, 7V. Napiêcie miêdzy nimi wynosi 3 V. 
+Tu chyba nie ma nic nadzwyczajnego. Nie bêdê w kursie tym oczywi?cie 
+rozpisywa³ definicji wszystkich, to sobie ka¿dy w ksiš¿ce znajdzie ? 
+chcê tylko krótko wyt³umaczyæ podstawowe aspekty elektroniki. 
+
+Pršd elektryczny, ?ród³o napiêcia 
+
+Powiedzieli?my sobie, ¿e pomiêdzy dwoma masami, miêdzy którymi jest 
+jakie? napiêcie przep³ynie pršd po po³šczeniu ich. No dobrze, jak to 
+bêdzie wyglšdaæ. Czê?æ elektronów z masy, gdzie jest ich nadmiar 
+przep³ynie na drugš masê, szybko zrobi siê wyrównanie. Zatem ró¿nica 
+potencja³ów (napiêcie) bêdzie stopniowo maleæ, a¿ uzyska warto?æ 0 i 
+pršd przestanie p³ynšæ. W praktyce wszystko bêdzie trwa³o u³amek 
+sekundy, wiêc po co nam taki pršd, którego przep³yw trwa tak krótki 
+okres czasu? Rozwišzaniem idealnym by³aby tu swoista ?pompa?, która 
+dos³ownie ?bra³a? by elektrony z drugiej p³ytki i powrotem 
+przerzuca³a na pierwszš, aby te znowu mog³y p³ynšæ naszym drucikiem. 
+Otó¿ pompa taka istnieje, i nazywana jest ?ród³em napiêcia. 
+Oczywi?cie mowa tu ca³y czas o pršdzie sta³ym, pršd zmienny bêdzie w 
+dalszych czê?ciach. Przyk³adowym ?ród³em napiêcia mo¿e byæ zwyk³a 
+bateryjka. Jak wiadomo ma ono zawsze dwa bieguny: dodatni (o wy¿szym 
+potencjale) oraz ujemny (o ni¿szym potencjale). Po po³šczeniu jakim? 
+drucikiem biegunów, elektrony zaczynajš p³ynšæ od ni¿szego potencja³u 
+(nazywanego ?minusem?) do wy¿szego potencja³u (nazywany jako ?plus?). 
+W samym ?ródle natomiast elektrony sš przerzucane w kierunku odwrotnym, 
+tak aby utrzymana zosta³a sta³a ró¿nica potencja³ów 
+(napiêcie miêdzy biegunami). Okej: ale w ksiš¿kach pisze, ¿e tzw. 
+?pršd? p³ynie od plusa do minusa (czyli od wy¿szego do ni¿szego 
+potencja³u). Otó¿ jest to jak najbardziej prawda, tak w³a?nie zosta³ 
+umownie przyjêty kierunek pršdu elektrycznego (odwrotnie do ruchu 
+elektronów)! Zatem: pršd p³ynie od wy¿szego do ni¿szego potencja³u, 
+mimo, ¿e elektrony poruszajš siê w kierunku przeciwnym. ?ród³a 
+napiêcia u¿ytku codziennego majš napiêcie np. 1.5 V. Napiêcie wy¿sze 
+ni¿ 20 V mo¿e siê okazaæ niebezpieczne dla zdrowia, a nawet ¿ycia. 
+
+Opór elektryczny, natê¿enie pršdu 
+
+Powiedzieli?my sobie, ¿e przez nasz wymy?lony drucik bêdzie p³ynš³ 
+pršd elektryczny. I tu od razu powiemy, ¿eby nie by³o wštpliwo?ci ? 
+¿e drucik ten musia³ mieæ jaki? opór. Ka¿dy materia³, przez który 
+mo¿e p³ynšæ pršd stawia mu pewien opór. I na przyk³ad ? z³oto, mied? 
+majš ma³y opór, intuicyjnie ? sš dobrymi przewodnikami pršdu, 
+natomiast grafit na przyk³ad s³abo przewodzi pršd ? ma du¿y opór 
+elektryczny. Ale co to jest takiego ten opór? Zanim siê dowiesz ? 
+powiem jeszcze co jest ?amper?. Otó¿ jak wiadomo, wszystko musi mieæ 
+swojš jednostkê, aby mo¿na by³o dokonaæ pomiaru danej wielko?ci 
+fizycznej. Kolumb to jednostka ³adunku elektrycznego, równie¿ znamy 
+jednostkê napiêcia ? jest niš wolt. Amper natomiast jest jednostkš, 
+która mówi nam o warto?ci przep³ywu pršdu (wielko?æ ta nazywana jest 
+natê¿eniem). Im wiêksze jest natê¿enie, tym mocniej p³ynie pršd ? tym 
+samym ? wiêcej elektronów przep³ywa. Jeden amper to natê¿enie pršdu, 
+je?li przez przekrój poprzeczny przewodnika przep³ywa ³adunek jednego 
+kulomba w cišgu jednej sekundy. Tu chyba nic t³umaczyæ 
+³opatologicznie nie trzeba. Amper jest do?æ du¿š jednostkš, w 
+praktyce ? przyk³adowo elektronice ? u¿ywamy mikro amperów, czyli 
+jednostek znacznie mniejszych (poniewa¿ przez uk³ady scalone 
+przep³ywajš znacznie mniejsze pršdy). Okej ? to teraz co to jest ten 
+cholerny opór? Najpro?ciej t³umaczšc: we?my pod uwagê ?ród³o napiêcia 
+(1 V) i chcemy po³šczyæ bieguny przyk³adowo d³ugim drutem. Chcemy 
+równie¿ zmierzyæ jego opór elektryczny (fachowo wielko?æ tê nazywamy 
+rezystancjš). Otó¿ dokonujemy tego na podstawie pomiaru pršdu. Je¿eli 
+przy niezmienionej ró¿nicy potencja³ów (napiêciu) 1 V, bêdzie p³ynš³ 
+pršd o natê¿eniu 1 A (ampera), to rezystancja (opór elektryczny) 
+przewodnika bêdzie wynosi³a 1om (czyt ?om? ? jest to jednostka 
+rezystancji). Dziêki temu zaraz poznamy jedno z podstawowych praw 
+elektrotechniki: prawo Ohma. Mówi ono o zale¿no?ci miêdzy oporem, 
+napiêciem a pršdem. Istotny jest tu wzór : 
+I = U/R (gdzie I ? natê¿enie pršdu (ang: intensity), U ? napiêcie 
+(ang: voltage), R ? rezystancja [ tak oznaczamy w praktyce te 
+wielko?ci, ang: rezistance] ). 
+Zatem co ono mówi? Okre?la ono warto?æ pršdu jaki bêdzie p³ynš³ przez 
+dany materia³. Przyk³adowo: wyobra?my sobie d³u¿szy, cienki drucik o 
+jakim? tam oporze R. Je¿eli przy³o¿ymy do jego koñców napiêcie U, to 
+bêdzie przez niego p³ynš³ pršd o natê¿eniu I. 
+Wzór ten mo¿na przekszta³ciæ: 
+U = I*R 
+Teraz mówi ono, ¿e iloczyn pršdu p³ynšcego przez przewodnik oraz jego 
+rezystancji jest równy napiêciu miêdzy jego koñcami. 
+Przekszta³cenie wzoru na opór (R = U/I ), nie jest praktycznie 
+zalecane. Oczywi?cie mo¿na obliczaæ tym rezystancjê (na podstawie 
+pršdu i napiêcia), ale nale¿y wtedy pamiêtaæ ¿eby nie pope³niæ jaki? 
+b³êdów abstrakcyjnych. Przyk³adowo: student zapytany ?Co siê stanie, 
+je?li napiêcie podwy¿szymy dwukrotnie? odpowiada: ?Rezystancja te¿ 
+wzro?nie dwukrotnie?. W³a?nie dla takich co najmniej ?b³êdnych? my?li 
+nie stosuje siê tego wzoru. 
+
+Niestety zanim dojdziemy do praktycznej elektroniki, musisz poznaæ du¿o rzeczy? 
+
+Rezystancja, rezystywno?æ, konduktancja, konduktywno?æ 
+
+Zastanówmy siê od czego zale¿y opór danego elementu. Na pewno od 
+materia³u, z którego jest on wykonany ? to ju¿ narzuca siê od razu. 
+Oprócz tego wiadomo ? im d³u¿szy jest przewodnik, tym wiêkszš ma on 
+rezystancjê. Opór w danych warunkach zale¿y te¿ oczywi?cie od innych 
+rzeczy, np. temperatury, ci?nienia, ale nie musisz o tym na razie 
+wiedzieæ. Rezystancjê okre?la siê dla danego obiektu (jakiego? 
+przedmiotu, konkretnie opisanego), natomiast nie dla materia³u! Nie 
+mo¿emy powiedzieæ, ¿e mied? ma jakš? rezystancjê, bo dwie p³ytki 
+miedziane ró¿nych d³ugo?ci majš inny opór. Zatem zosta³a wprowadzona 
+wielko?æ zwana rezystywno?ciš, która opisuje jak dany materia³ 
+przewodzi pršd. Znajšc rezystywno?æ materia³u oraz wymiary przewodu 
+mo¿na obliczyæ rezystancjê. Jednostkš rezystywno?ci jest ?omometr? 
+(rezystywno?æ materia³u, w przypadku gdy kabel o d³ugo?ci jednego 
+metra oraz jednego metra kwadratowego ?rednicy ma opór 1 om. 
+Dok³adniej tym nie musisz siê zajmowaæ, wa¿ne ¿eby? ogólnie widzia³ 
+na czym to polega. Zamiast charakteryzowaæ opór przewodu, mo¿na 
+charakteryzowaæ jego przewodno?æ czyli jednostkê dok³adnie odwrotnš. 
+Przyk³ad: je?li materia³ ma opór 3 om to ma przewodno?æ 1/3 ? no 
+w³a?nie ? czego? Jednostkš narzucajšcš siê od razu jest 1/om, a 
+nazywamy go ?simens?. Przewodno?æ tê nazywamy w³a?nie konduktancjš, a 
+oznaczamy literkš G (ang: conductance). Tak jak w przypadku 
+materia³ów: dla oporu by³a rezystywno?æ, tak dla przewodnictwa jest 
+konduktywno?æ opisujšca przewodno?æ danego materia³u. Jednostkš jest 
+s/m (simens na metr). Okre?lenia: ?praca i moc elektryczna? poznasz 
+nieco pó?niej. 
+
+Stan ja³owy, stan zwarcia 
+
+£šczšc bieguny ?ród³a napiêcia cienkim drucikiem mówi³em, ¿e musi on 
+mieæ jaki? opór. We?my pod uwagê drucik tak krótki i wykonany z tak 
+dobrego materia³u, ¿e jego opór jest znikomy (bardzo bliski 0). W 
+takim przypadku po po³šczeniu nastšpi ?zwarcie? obwodu ? do czego to 
+prowadzi? Otó¿ pop³ynie ogromny pršd przez przewodnik (co widaæ ze 
+wzoru), a napiêcie na koñcach biegunów bêdzie równe 0 (znikomo ma³e). 
+?ród³o napiêcia nie zdš¿y utrzymywaæ sta³ej ró¿nicy potencja³ów ? 
+czyn ten prowadzi najczê?ciej do zniszczenia ?ród³a. W przypadku 
+pršdów du¿ych, zwarcie grozi po¿arem. Stan ja³owy natomiast jest 
+wtedy, kiedy do biegunów ?ród³a nie sš przy³šczone ¿adne inne 
+elementy ( w sensie: bieguny nie sš po³šczone ¿adnš innš drogš ni¿ 
+samo ?ród³o). Dok³adnie o tych zagadnieniach dowiesz siê z nastêpnego 
+akapitu. 
+
+Opór wewnêtrzny, si³a elektromotoryczna, przeciš¿enie 
+
+Wy¿ej wspomnieli?my o tzw. stanie zwarcia ?ród³a. Nale¿y siê 
+zastanowiæ dok³adniej na temat samego ?ród³a w tym przypadku. 
+Mówili?my, i¿ jest to ?pompa?, która przek³ada elektrony, aby trzymaæ 
+napiêcie. Jednak z jakš prêdko?ciš mo¿e to robiæ? Otó¿ zjawisko to 
+te¿ mo¿na ³atwo opisaæ, wyobra?my sobie w baterii na samym ?rodku 
+malutki drucik, który przerzuca elektrony. Przez niego p³ynie 
+oczywi?cie pršd, i co wa¿ne: ma on jakš? rezystancjê. Mo¿na jš 
+okre?liæ jako ?rezystancjê wewnêtrznš ?ród³a?. Im jest ona wiêksza, 
+tym wiêkszy pršd mo¿na pobieraæ ze ?ród³a, poniewa¿ ?ród³o jest w 
+stanie utrzymywaæ napiêcie. Tu od razu nale¿y prowadziæ pojêcie stanu 
+obwodu elektrycznego. Zastanówmy siê co siê dzieje, w przypadku 
+pobierania pršdu ze ?ród³a, gdy rezystancja obwodu jest znacznie 
+wiêksza ni¿ rezystancja wewnêtrzna ?ród³a. Wtedy przyk³adowy, 
+niewielki pršd p³ynie, ?ród³o natomiast nie wykonuje swojej pe³nej 
+?mocy? (na razie w cudzys³owiu piszê, bo nie wiesz co to jest 
+jeszcze). Zatem ?ród³o ?nie przemêcza? siê wcale, bo mo¿e wytrzymaæ 
+znacznie wiêksze pršdy. Stan taki nazywamy niedociš¿eniem. Innym 
+przyk³adem jest sytuacja, gdy rezystancja obwodu jest znacznie 
+mniejsza ni¿ rezystancja wewnêtrzna ?ród³a. ?ród³o nie nadš¿a w 
+wykonywaniu ?pracy? (przerzucaniu elektronów) i tym samym ? napiêcie 
+maleje. Nazywamy to spadkiem napiêcia na biegunach ?ród³a, a stan ten 
+? przeciš¿eniem. W przypadku jeszcze wiêkszego przeciš¿enia ? 
+zmniejszenia rezystancji obwodu ? dochodzimy powoli do zwarcia. W 
+praktyce natomiast zawsze staramy siê, aby rezystancja wewnêtrzna 
+danego ?ród³a by³a taka sama jak rezystancja obwodu (dobieramy obwód). 
+Wtedy ?ród³o pracuje ?pe³nš parš?, wydziela siê najwiêksza ?moc?, a 
+stan ten nazywamy dopasowaniem. I znowu nowe pojêcie: si³a 
+elektromotoryczna. Jest to nic innego jak napiêcie ?ród³a w stanie 
+ja³owym. W przypadku przeciš¿enia, napiêcie jest ni¿sze ni¿ si³a 
+elektromotoryczna ?ród³a (dla ?cis³o?ci: wielko?æ zwana si³š 
+elektromotorycznš nie jest wcale si³š, lecz ró¿nicš potencja³ów, 
+czyli napiêciem ? jednostkš jest oczywi?cie wolt). I tu od razu 
+nasuwa siê my?l: przyk³adowy napis na baterii 1,5 V, nie oznacza 
+napiêcia na biegunach, jednak jest to jego si³a elektromotoryczna. 
+Napiêcie mo¿e byæ takie same (w przypadku stanu ja³owego), ale mo¿e 
+byæ te¿ znacznie mniejsze (w przypadku przeciš¿enia), lub te¿ w ogóle 
+równaæ siê 0 (zwarcie). 
+PS: Jednostkš oporu elektrycznego jest "om" dos³ownie, lecz oznacza 
+siê jš greckš literš - której niestety - nie jestem w stanie tu 
+napisaæ. 
+
+Jeszcze o rezystancji i po³šczeniach 
+
+Mówili?my ju¿ o przyk³adowym druciku, który posiada³ jakš? 
+rezystancjê i ³šczy³ bieguny ?ród³a. W praktyce tak nie postêpujemy, 
+gdy¿ nasz tzw. drucik jest elementem obwodu nale¿šcym do przewodników, 
+jego zadaniem jest przewodzenie pršdu jak najlepiej, a nie stawianie 
+mu oporu. Dlatego praktycznie przyjmuje siê rezystancjê przewodów 
+równš 0 (tzn. nie bierze siê ich pod uwagê). Ich opór jest znikomo 
+ma³y, ¿e nie trzeba ich uwzglêdniaæ przy obliczeniach, rozwišzywaniu 
+obwodów elektrycznych. Lepiej jest stworzyæ rezystancjê w jednym 
+skupieniu, ni¿ rozcišgaæ jš na ca³š d³ugo?æ przewodu. Element taki 
+istnieje i nazywamy go rezystorem (inaczej opornikiem, ang: resistor). 
+Na schematach zaznacza siê go prostokštem, jego zadaniem jest 
+stawianie oporu pršdu elektrycznemu. Rezystor to najbardziej 
+podstawowy element obwodu, jeszcze o nim sobie powiemy. Jeden 
+rezystor pomiêdzy biegunami ?ród³a powoduje, ¿e mo¿na dopasowaæ pršd 
+w obwodzie. Zastanówmy siê jakie jest napiêcie pomiêdzy jednym a 
+drugim zaciskiem rezystora (zaciski rezystora to jego koñce, które 
+s³u¿š do ³šczenia elementów). Mówili?my, ¿e przewodnik nie posiada 
+¿adnej rezystancji (równa 0), zatem potencja³ na jednym koñcu 
+przewodnika i drugim jest identyczny. Napiêcie na koñcach przewodnika 
+jest zatem równe 0. Skoro tak, ³atwo obliczyæ, ¿e je¿eli mamy jeden 
+rezystor wstawiony miêdzy bieguny ?ród³a (plus oczywi?cie obwody 
+³šczšce), to napiêcie na nim jest takie samo jak napiêcie ?ród³a. 
+A co w przypadku po³šczenia kilku rezystorów? Zanim dojdziemy do tego 
+tematu musimy sobie wyt³umaczyæ czym jest po³šczenie równoleg³e i 
+szeregowe w obwodzie.. Na poni¿szym fragmencie schematu przedstawi³em 
+po³šczenie szeregowe kilku elementów: 
+
+a ------|=|------|=|------|=|----- b 
+
+Widzimy trzy dowolne elementy obwodu (na razie niewa¿ne co to za 
+elementy) po³šczone szeregowo. Wa¿ne jest, ¿e przez wszystkie 
+przep³ywa ten sam pršd, poniewa¿ nie mo¿e on nigdzie ?uciec? o czym 
+dowiesz siê nied³ugo. Napiêcia na tych elementach mogš byæ ro¿ne. 
+Poni¿ej natomiast przedstawi³em po³šczenie równoleg³e trzech 
+elementów: 
+
+      |------|=|------| 
+a --|-----|=|-------| -- b 
+      |------|=|------| 
+
+Przez te elementy biegnš ju¿ inne pršdy, ale napiêcie na tych trzech 
+elementach jest to samo. Mo¿na równie¿ tak zdefiniowaæ po³šczenia 
+równoleg³e i szeregowe: przez elementy po³šczone szeregowo p³ynie ten 
+sam pršd, a na elementach po³šczonych równolegle jest to samo 
+napiêcie. 
+Teraz zastanówmy siê jak obliczamy rezystancjê w przypadku kilku 
+elementów, które stwarzajš opór (nie muszš to byæ koniecznie 
+rezystory, ale np. odbiorniki energii (grzejnik), ale o tym dowiesz 
+siê pó?niej). W po³šczeniu szeregowym sytuacja jest chyba jasna. 
+Rezystancja zastêpcza ca³ego uk³adu kilku rezystorów w tym przypadku 
+jest ich sumš. Mo¿na to zapisaæ tak: Rz = R1 + R2 +R3? itd. Jak siê 
+ma to w przypadku po³šczenia równoleg³ego? Otó¿ tutaj nie dodajemy 
+rezystancji, ale przewodno?ci (konduktancje). Wiadomo, ¿e wiêcej 
+przewodów stanowi lepszš przewodno?æ ni¿ jeden przewód, zatem ich 
+przewodno?ci siê dodajš. A poniewa¿ przewodno?æ to odwrotno?æ oporu, 
+mo¿emy zapisaæ: 1/Rz = 1/R1 + 1/R2 + 1/R3.. itd. Zatem odwrotno?æ 
+rezystancji ca³ego uk³adu kilku rezystorów jest sumš odwrotno?ci ich 
+rezystancji. Dziêki temu mo¿emy ju¿ liczyæ bardziej skomplikowane 
+obwody. We?my taki oto przyk³ad: 
+
+a ----|=|----|------|=|-------|-----|=|---- b 
+                 |------|=|-------| 
+  
+  
+Co tu widzimy? Otó¿ sš to 4 rezystory, ale jak zaraz siê oka¿e sš 
+problemy z rozpoznaniem ich po³šczenia. Ustalmy mo¿e, ze ka¿dy z nich 
+ma rezystancjê 5 om, a napiêcie pomiêdzy punkami a i b wynosi 2 V. 
+Mo¿e jeszcze je ponumerujmy (od lewej strony): R1, u góry (R2), na 
+dole (R3) i po prawej (R4). Widzimy, ¿e R2 i R3 sš razem po³šczone 
+równolegle wzglêdem siebie. Natomiast R1 i R4 sš po³šczone szeregowo, 
+ale jeszcze z uk³adem rezystorów R2 i R3. Najpro?ciej bêdzie zatem 
+obliczyæ najpierw rezystancjê zastêpczš uk³adu R2 i R3. Sš po³šczone 
+równolegle, zatem: 1/Rz = 1/R2 + 1/R3. Po obliczeniu tego prostego 
+rachunku dochodzimy do wniosku: Rz = 2,5 om. Teraz ju¿ bardzo prosto 
+liczymy rezystancjê zastêpczš ca³ego obwodu R = 5 + 2,5 + 5 = 12,5 om. 
+Zatem wyliczyli?my ca³kowitš rezystancjê tego uk³adu czterech 
+rezystorów. Pršd jaki bêdzie p³ynš³ od punktu a do b to oczywi?cie 
+stosunek U/R, zatem jest to pršd o natê¿eniu 0,16 A. Nic trudnego. 
+Spójrzmy jednak na nasz obwód. Pršd o którym mówimy przebiega 
+przewodem od punktu a oraz przewodem od punktu b. Natomiast w dwóch 
+przewodach po³šczonych równolegle (przy rezystorach R2 i R3) p³ynš 
+ju¿ ró¿ne pršdy. Ale jakie sš ich warto?ci? Otó¿ tutaj musimy 
+wprowadziæ pierwsze prawo Kirchoffa. Mówi ono, ¿e suma algebraiczna 
+pršdów dop³ywajšcych do wêz³a jest równa sumie pršdów odp³ywajšcych. 
+Wêze³ na obwodzie chyba ka¿dy intuicyjnie potrafi rozpoznaæ, jest to 
+punkt, w którym nastêpuje rozga³êzienie obwodu. Przyk³adowo, do wêz³a 
+(mówimy wêze³, ale na schematach jest to po prostu ?punkt?) wchodzi 5 
+obwodów z prawej strony i jeden obwód z lewej. Niech pršd p³ynie ze 
+strony prawej na lewo i przez ka¿dy z tych piêciu przewodów p³ynie po 
+2 A. To wtedy przez przewód z lewej strony p³ynie 10 A. Prawo to jest 
+chyba oczywiste, nie ma siê co nad nim d³u¿ej zastanawiaæ, pršd nie 
+mo¿e siê w kablu ?zawieruszyæ? ani uciec. Zatem, w naszym 
+rozpatrywanym obwodzie na pewno suma pršdów z dwóch przewodów 
+po³šczonych równolegle da nam 0,16 A. 
+Na co warto zwróciæ uwagê, to fakt ¿e warto?ci w ró¿nych 
+rozpatrywanych przypadkach dla pršdów sš bardzo ma³e, u nas 
+przyk³adowo wysz³o 0,16 A. Niektórzy dziwiæ siê mogš, dlaczego 
+wychodzi tak ma³o, ale w praktyce operujemy w³a?nie takimi pršdami, 
+albo nawet jeszcze znacznie mniejszymi. 
+
+Spadki napiêcia 
+
+Skoro by³o pierwsze prawo Kirchoffa to i drugie musisz poznaæ :) 
+We?my pod uwagê taki oto pro?ciutki obwód: 
+
+a ----|=|------|=|----- b 
+
+Rezystory odpowiednio: R1 = 4 om, R2 = 6 om. Napiêcie miêdzy punktami 
+a i b = 4 V. Pršd obliczamy od razu (mówiê pršd, jednak fachowo 
+nazywa siê to natê¿eniem ? w praktyce jednak ka¿dy mówi pršd to i wy 
+mo¿ecie :)) I = 4 / (4+6) = 0,4 A. Wiemy, ¿e miêdzy punktami a i b 
+jest napiêcie 4 om, ale nas interesuje jakie jest napiêcie na 
+zaciskach rezystorów. Otó¿ jak to liczymy? ? bardzo prosto, z prawa 
+Ohma. Pršd p³ynšcy przy oba rezystory to 0,4 A. Pierwszy rezystor ma 
+opór 4 om. A wiemy z w/w prawa, ¿e napiêcie to U = I*R, zatem mno¿ymy 
+i otrzymujemy prosty wynik: U1 = 1,6 V. Jest to napiêcie miêdzy jednš 
+koñcówka rezystora a drugš (pomiêdzy jego zaciskami). Napiêcie na 
+drugim rezystorze: U2 = 2,4 V. Co zauwa¿yli?my? Otó¿ suma napiêcia U1 
+i U2 daje nam napiêcie ?ród³a. To w³a?nie podsuwa nam drugie prawo 
+Kirchoffa. Jeszcze tylko ma³e wyja?nienie. Obliczamy pršdy i napiêcia, 
+ale nie brali?my pod uwagê kierunku pršdu. Zatem za³ó¿my, ¿e punkt b 
+ma potencja³ 0 V, a punkt a : 4 V. Wszystko siê zgadza ? napiêcie 
+jest równe 4 V. Pršd p³ynie z lewa na prawo. Napiêcie jednak 
+zaznaczamy strza³kš odwrotnš, tak aby grot wskazywa³ punkt o wy¿szym 
+potencjale. Czyli zarówno strza³ka oznaczajšca napiêcie na ?ródle jak 
+i strza³ki, które opisujš napiêcia na rezystorach w naszym przypadku 
+sš zwrócone w stronê lewš (wskazujš punkt o wy¿szym potencjale). 
+Spróbujcie sobie wyobraziæ ten¿e obwód, gdyby punkty a i b by³y 
+blisko siebie (bo w praktyce tak w³a?nie jest, punkty a i b to nic 
+innego jak ?ród³o napiêcia). Skoro strza³ka napiêcia ma pokazywaæ 
+punkt o wy¿szym potencjale, w takim przypadku jest ona zgodna z 
+kierunkiem pršdu. Teraz je¿eli mamy dowolne oczko (jest to 
+przynajmniej jedna zamkniêta droga dla przep³ywu pršdu) to suma 
+algebraiczna napiêæ jest równa 0. Na pewno nie wiesz co to oznacza, 
+zatem ju¿ t³umacze. Dobieramy sobie jaki? punkt w oczku.. najpro?ciej 
+zaczynaæ od ?ród³a i jedziemy po obwodzie dodajšc wszystkie napiêcia, 
+które sš opisane przez strza³ki w jednš stronê i odejmujemy napiêcia, 
+które sš opisane przez strza³ki w drugš stronê. Koñcowy wynik równa 
+siê 0. Najpro?ciej widaæ to na naszym przyk³adzie powy¿ej. 
+
+Praca i moc 
+
+Standardowe pojêcia pracy (energii) oraz mocy mam nadziejê, ¿e ka¿dy 
+zna, tutaj zajmujemy siê elektronikš ? bêdziemy siê zatem tylko 
+ograniczaæ do tego tematu. Jak wiemy z fizyki, praca to nic innego 
+jako iloczyn napiêcia miêdzy dwoma punktami do ³adunku, jaki zosta³ 
+miêdzy nimi przeniesiony. Pracê oznaczamy du¿š literš W (ang: work), 
+a jednostkš jest oczywi?cie Joul (czyt. ?d¿ul?). W = U*Q. Wiemy 
+jednak, jak zosta³o okre?lone natê¿enie pršdu, I = Q / t (stosunek 
+³adunku jaki przep³ynš³, do czasu). Przekszta³cajšc ostatni wzór, aby 
+wycišgnšæ Q i wstawiajšc do wcze?niejszego, otrzymujemy: W = U * I * 
+t. Oznacza to, ¿e praca jaka siê wydziela na dowolnym elemencie 
+obwodu, równa jest iloczynowi: napiêcia na tym elemencie, pršdu jaki 
+przez niego przep³ywa oraz czasu, w jakim proces ten trwa. Oczywi?cie 
+pamiêtamy, ¿e mowa ca³y czas o pršdzie sta³ym. W przypadku rezystorów, 
+praca ta objawia siê zu¿ywaniem ciep³a. Moc jak wiemy, jest to 
+stosunek pracy do czasu, w jakim zosta³a ona wykonana. Dzielšc 
+powy¿szy wzór przez ?t? (czas) po lewej stronie widzimy wzór na moc. 
+Zatem jest to nic innego jak iloczyn pršdu i napiêcia. P = U * I (moc 
+oznaczamy du¿š literš P (ang: power)), a jednostkš mocy jest wat. 
+Przyk³adowo: je¿eli w jednej sekundzie na rezystorze wydziela siê 
+energia (praca) 1 J, to moc wynosi 1 W. A jak ma siê to w praktyce? 
+Otó¿ jednostka pracy (Joul) jest zbyt ma³a aby mo¿na by³o jš u¿ywaæ, 
+dlatego stosujemy jednostkê innš, zwišzanš z mocš: kilowatogodzina 
+(Kwh.). Jest to energia, jakš zu¿ywa odbiornik o mocy 1 kW (kilowata) 
+w cišgu godziny. Jednostka ta jest stosowana w gospodarstwie domowych, 
+ot chocia¿by w licznikach energii elektrycznej, chocia¿ jednostkš w 
+uk³adzie SI na pracê jest Joul. Równie¿ wat jest bardzo niewielkš 
+jednostkš, czêsto stosujemy: kilowaty, megawaty. Mechanicy natomiast 
+u¿ywajš jeszcze innej jednostki na moc, jakš jest koñ mechaniczny. 1 
+KM = 736 W = 0,736 KW. Dla tych co nie wiedzš przypominam, ¿e ?kilo? 
+oznacza mno¿nik razy 1000, ?mega? natomiast, razy 1000000 (zresztš 
+informatycy powinni to wiedzieæ, bajty majš takie same przedrostki). 
+W ka¿dym obwodzie pršdu, tzw. ?bilans? mocy musi siê zgadzaæ. Moc 
+dostarczona do obwodu, to suma wszystkich mocy na ?ród³ach 
+(iloczyn U * I),natomiast moc pobrana ze ?ród³a to suma wszystkich 
+mocy na elementach obwodu (rezystory itd.. równie¿ iloczyn U * I). 
+Sumy te sš zawsze sobie równe. (Mówišc równe, mam na my?li 
+teoretyczne rozwišzywanie obwodów, w praktyce jednak istnieje 
+niewielka strata mocy na przewodach, które siê ogrzewajš). Moc 
+pobrana / oddana w obwodzie jest najwiêksza, je¿eli obwód jest 
+w stanie dopasowania. 
+
+I to by by³o tyle je?li chodzi o teoriê. Zapraszam do czê?ci 
+praktycznej :)
+
+
+Powrót do "Elektronika"

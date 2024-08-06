@@ -1,0 +1,472 @@
+26001 Polska Plus GSM
+26002 Polska Era GSM
+26003 Polska IDEA
+
+20201 Greece Cosmote
+20205 Greece Vodafone
+20209 Greece Q-Telecom
+20210 Greece Telestet
+20404 Netherlands Vodafone
+20408 Netherlands KPN
+20412 Netherlands Telfort
+20416 Netherlands T-Mobile
+20420 Netherlands Orange
+20601 Belgium Proximus
+20610 Belgium Mobistar
+20620 Belgium Base
+20801 France Orange
+20810 France SFR
+20820 France Bouygtel Telecom
+21303 Andorra S.T.A. MobilAnd
+21401 Spain Vodafone
+21402 Spain Movistar
+21403 Spain Amena
+21404 Spain Xfera
+21407 Spain Telefonica Movistar
+21601 Hungary Pannon GSM
+21630 Hungary Westel 900 GSM Mobile
+21670 Hungary Vodafone
+21803 Bosnia Herzegovina Eronet
+21805 Bosnia Herzegovina Mobi's
+21890 Bosnia Herzegovina GSM BIH
+21901 Croatia Croatian Telecoms Cronet
+21910 Croatia VIP
+22001 Yugoslavia MOBTEL
+22002 Yugoslavia ProMonte GSM
+22003 Yugoslavia 03
+22004 Yugoslavia Monet
+22201 Italy Telecom Italia Mobile TIM
+22210 Italy Vodafone
+22288 Italy Wind Telecomunicazioni
+22298 Italy BLU
+22299 Italy 3
+22601 Romania MobiFon CONNEX GSM
+22603 Romania Cosmorom
+22610 Romania Mobil Rom DIALOG
+22801 Switzerland Swisscom NATEL
+22802 Switzerland Sunrise
+22803 Switzerland Orange
+23001 Czech Republic T-mobile
+23002 Czech Republic EuroTel Praha
+23003 Czech Republic Oskar
+23101 Slovak Republic Orange GSM
+23102 Slovak Republic EuroTel GSM
+23201 Austria MobilKom Austria A1
+23203 Austria T-Mobile
+23205 Austria Connect Austria One
+23207 Austria Tele.ring
+23210 Austria 3AT
+23410 United Kingdom 02
+23410 United Kingdom Tesco
+23400003 United Kingdom Tesco (for DCT4)
+23415 United Kingdom Vodafone
+23420 United Kingdom 3 United
+23400001 United Kingdom Virgin (for 3510i & N-Gage)
+23430 United Kingdom Virgin (other)
+23430 United Kingdom T-Mobile
+23433 United Kingdom Orange
+23450 United Kingdom Jersey Telecom GSM
+23455 United Kingdom Guernsey Telecoms GSM
+23458 United Kingdom Manx Telecom Pronto GSM
+23800001 Denmark Debitel (for 3510i)
+23801 Denmark Tele-Danmark Mobil
+23802 Denmark Sonofon
+23820 Denmark Telia Denmark
+23830 Denmark Orange
+24001 Sweden Telia Mobitel
+24002 Sweden 3
+24003 Sweden Orange
+24007 Sweden Comviq GSM
+24008 Sweden Vodafone
+24201 Norway Telenor Mobil
+24202 Norway NetCom GSM
+24403 Finland Telia Finland
+24405 Finland Radiolinja
+24407 Finland Nokia
+24409 Finland Finnet Group
+24412 Finland 2G
+24414 Finland AMT
+24491 Finland Sonera Corporation
+24601 Lithuania Omnitel
+24602 Lithuania UAB Bite GSM
+24603 Lithuania Tele 2
+24701 Latvia Latvian Mobile Tel.
+24702 Latvia Tele 2
+24801 Estonia Estonian Mobile Telephone
+24802 Estonia RadioLinja Eesti
+24803 Estonia Tele 2
+25001 Russia MTS Moscow
+25002 Russia Megafon
+25005 Russia Siberian Cellular
+25007 Russia Zao Smarts
+25010 Russia Don Telecom
+25012 Russia New Telephone Company
+25013 Russia Kuban GSM
+25039 Russia Uraltel
+25044 Russia North Caucasian GSM
+25099 Russia BeeLine
+25501 Ukraine Ukrainian Mobile Comms
+25502 Ukraine Ukrainian Radio Systems
+25503 Ukraine Kyivstar GSM
+25505 Ukraine Golden Telecom
+25701 Belarus Velcom
+25702 Belarus MTS
+25901 Moldova Voxtel
+25902 Moldova Moldcell
+26001 Poland Polkomtel PLUS GSM
+26002 Poland ERA GSM
+26003 Poland IDEA Centertel
+26201 Germany T-Mobile
+26202 Germany Vodafone
+26203 Germany E-Plus Mobilfunk
+26207 Germany O2
+26213 Germany MobilCom
+26214 Germany Quam
+26601 Gibraltar Gibraltar Telecoms Gibtel
+26801 Portugal Vodafone
+26803 Portugal Optimus Telecom.
+26806 Portugal Telecom Moveis Nac. TMN
+27001 Luxembourg P+T LUXGSM
+27077 Luxembourg Millicom Tango GSM
+27201 Ireland Vodafone
+27202 Ireland O2
+27203 Ireland Meteor
+27401 Iceland Iceland Telecom Siminn
+27402 Iceland TAL hf
+27403 Iceland Islandss
+27404 Iceland Viking
+27601 Albania Albanian Mobile Comms
+27602 Albania Vodafone
+27801 Malta Vodafone
+27821 Malta Go Mobile
+28001 Cyprus Cyprus Telecoms Authority
+28201 Georgia Geocell Limited
+28202 Georgia Magti GSM
+28203 Georgia Geo 03
+28301 Armenia ArmenTel
+28401 Bulgaria MobilTel AD
+28405 Bulgaria Globul
+28601 Turkey Turkcell
+28602 Turkey TELSIM
+28603 Turkey Aria
+28604 Turkey Aycell
+28801 FT-GSM
+28802 KALL
+29001 Greenland Tele Greenland
+29340 Slovenia Si.mobil
+29341 Slovenia Si-GSM
+29370 Slovenia Si VEGA 070
+29401 Macedonia MobiMak
+29402 Macedonia MTS AD
+29501 Telecom
+29502 Montel
+29505 FL1
+29577 Tango
+30200001 Canada Fido
+30237 Canada Microcell Connexions Inc
+30272 Canada Rogers AT&T
+31001 Papua New Guinea Pacific Mobile Comms
+31002 U.S.A. APC Sprint Spectrum
+31011 U.S.A. Wireless 2000 Telephone
+31015 U.S.A. BellSouth Mobility DCS
+31017 U.S.A. Cingular
+31017 U.S.A. Pacific Bell Wireless
+31020 U.S.A. T-Mobile
+31026 U.S.A. Western Wireless Voicestream
+31027 U.S.A. Powertel
+31031 U.S.A. T-Mobile Florida
+31031 U.S.A. Aerial Communications
+31038 U.S.A. AT&T
+24407 U.S.A. AT&T (for 3650 with IMEI 351102500xxxxxx)
+31077 U.S.A. Iowa Wireless Services
+33805 JM Digicel
+34001 Indies Orange French West
+34020 Indies BouygTel French West
+36801 CU C-Com
+37412 TSTT
+40001 Azerbaijan Acell Telekom B.M.
+40002 Azerbaijan BKcell GSM 2000
+40101 Kazaksthan K-Mobile
+40102 Kazaksthan KCELL
+40217 BT B-Mobile
+40401 India Aircel Digilink Essar Cellph.
+40402 India Bharti Cellular Telecom Airtel
+40403 India Bharti Cellular Telecom Airtel
+40405 India Hutch
+40407 India TATA Cellular
+40408 India Ushafon
+40410 India Bharti Cellular Telecom Airtel
+40411 India Hutch
+40412 India Escotel Mobile Comms
+40413 India Hutch
+40414 India Ina Spice
+40415 India Aircel Digilink Essar Cellph.
+40419 India Escotel
+40420 India Orange
+40421 India BPL USWest Cellular
+40422 India Idea
+40423 India Usha Martin Tel. Command
+40424 India Idea
+40426 India Usha Martin Tel. Command
+40427 India BPL USWest Cellular
+40430 India Usha Martin Tel. Command
+40431 India Bharti Cellular Telecom Airtel
+40432 India Ushafone
+40434 India BPL USWest Cellular
+40438 India BPL USWest Cellular
+40440 India INA AIRTel
+40441 India RPG MAA
+40442 India Srinivas Cellcom
+40443 India BPL USWest Cellular
+40444 India Spice
+40445 India Bharti Cellular Telecom Airtel
+40446 India BPL USWest Cellular
+40449 India Bharti Cellular Telecom Airtel
+40451 India BSNL Mobile
+40453 India BSNL Mobile
+40454 India BSNL Mobile
+40455 India BSNL Mobile
+40456 India Escotel
+40457 India BSNL Mobile
+40458 India BSNL Mobile
+40459 India BSNL Mobile
+40460 India Bircel Digilink Essar Cellph.
+40462 India BSNL Mobile
+40464 India BSNL Mobile
+40466 India BSNL Mobile
+40468 India Dolphin
+40469 INdia Dolphin
+40470 India Oasis
+40471 India BSNL Mobile
+40472 India BSNL Mobile
+40473 India BSNL Mobile
+40474 India BSNL Mobile
+40475 India BSNL Mobile
+40476 India BSNL Mobile
+40477 India BSNL Mobile
+40478 India IDEA
+40479 India BSNL Mobile
+40480 India BSNL Mobile
+40481 India BSNL Mobile
+40486 India Hutch
+40490 India Bharti Cellular Telecom Airtel
+40492 India Bharti Cellular Telecom Airtel
+40493 India Bharti Cellular Telecom Airtel
+40494 India Bharti Cellular Telecom Airtel
+40495 India Bharti Cellular Telecom Airtel
+40496 India Bharti Cellular Telecom Airtel
+40497 India Bharti Cellular Telecom Airtel
+40498 India Bharti Cellular Telecom Airtel
+41001 Pakistan Ufone
+41201 AF AWCC
+41302 Sri Lanka MTN Networks Dialog GSM
+41303 Sri Lanka CellTel
+41401 MPTGSM
+41501 Lebanon FTML Cellis
+41503 Lebanon LibanCell
+41601 Jordan J.M.T.S Fastlink
+41677 Jordan MobCom
+41701 Syria SyriaTel
+41702 Syria 94
+41709 Syria MOBILE Syrian Telecom Est.
+41793 Syria SyriaTel
+41801 Iraq Iraq Telecom
+41902 Kuwait Mobile Telecoms MTCNet
+41903 Kuwait Wataniya
+42001 Saudi Arabia Ministry of PTT Al Jawal
+42202 Oman General Telecoms
+42401 United Arab Emirates UAE ETISALAT-G1
+42402 United Arab Emirates UAE ETISALAT-G2
+42501 Israel Orange
+42502 Israel Cellcom
+42505 Israel JAWWAL
+42601 Bahrain Batelco
+42701 Qatar QATARNET
+42899 MN MobiCom
+43211 Iran TCI
+43214 Iran Kish
+43400 Uzbekistan Uzmacom
+43401 Uzbekistan Buztel
+43402 Uzbekistan Uzmacom
+43404 Uzbekistan Daewoo Unitel
+43405 Uzbekistan Coscom
+43407 Uzbekistan UZD
+43603 TJK MLT
+43605 Tajikistan TajikTel
+43701 Kyrgyz Republic Bitel
+44010 Japan DoCoMo
+45201 Vietnam Mobifone
+45202 Vietnam Vinaphone
+45400 Hong Kong Hong Kong Telecom CSL
+45404 Hong Kong Hutchison Telecom
+45406 Hong Kong SmarTone Mobile Comms
+45410 Hong Kong New World PCS
+45412 Hong Kong Peoples Telephone
+45416 Hong Kong Mandarin Com. Sunday
+45418 Hong Kong Pacific Link
+45422 Hong Kong P Plus Comm
+45501 Macau C.T.M. TELEMOVEL+
+45601 Cambodia Mobitel
+45602 Cambodia SM
+45618 Cambodia Camshin
+45701 Lao Lao Shinawatra Telecom
+45702 Lao ETLMNW
+45703 Lao LatMil
+45708 Lao Tango
+46000 China China Telecom GSM
+46001 China China Unicom GSM
+46002 China Liaoning PPTA
+46601 Taiwan Far EasTone Telecoms
+46606 Taiwan TUNTEX Telecom
+46688 Taiwan KG Telecom
+46692 Taiwan Chunghwa Telecom
+46693 Taiwan Mobitai Communications
+46697 Taiwan Pacific Cellular TWNGSM
+46699 Taiwan TransAsia Telecoms
+46701 PRK Sun KP
+47001 Bangladesh Grameen Phone
+47002 Bangladesh Aktel
+47003 Bangladesh Sheba Telecom
+47201 MV DHI Mobile
+50202 Malaysia Binariang
+50212 Malaysia Maxis
+50213 Malaysia Telekom Cellular TM Touch
+50216 Malaysia DiGi Telecommunications
+50217 Malaysia TimeCel Wireless Adam
+50219 Malaysia Celcom
+50501 Australia Telstra Mobile Comms
+50502 Australia Optus
+50503 Australia Vodafone
+50503 Australia 3
+50508 Australia OneTel
+51001 Indonesia PT. SATelindo C
+51008 Indonesia Lippo Telkomsel
+51010 Indonesia TelKomSel
+51011 Indonesia Pro XL
+51021 Indonesia IM3
+51501 Philippines Isla Comms
+51502 Philippines Globe Telecom
+51503 Philippines Smart Communications
+51505 Philippines Sun Cellular
+52001 Thailand Advanced Info Service AIS
+52010 Thailand Orange
+52018 Thailand DTotal Access Worldphone
+52023 Thailand GSM 1800
+52099 Thailand Orange
+52501 Singapore Sing. Tel. GSM 900
+52502 Singapore Sing. Tel. GSM 1800
+52503 Singapore MobileOne Asia
+52504 Singapore M1-3GSM
+52505 Singapore StarHub
+52811 Darussalam DST Communications Brunei
+53001 New Zealand Vodafone
+53901 ton O-Call
+54101 VUT Smile
+54201 Fiji Vodafone Fiji
+54601 New Caledonia Mobilis
+54720 Polynesia Vini French
+55001 FSM FSM Telecom
+60201 Egypt MobiNil
+60202 Egypt Vodafone
+60301 Algeria Algerian Mobile Network
+60302 Algeria Djezzy
+60400 Marocco Meditel
+60401 Marocco Itissalat Al-Maghrib IAM
+60502 Tunisia Tunisie Telecom Tunicell
+60503 Tunisia Tunisiana
+60701 GMB GamCel
+60702 GMB AfriCELL
+60801 Senegal Sonatel ALIZE
+60802 Senegal Sentel
+60901 MR Mattel
+61001 ML Matitel
+61002 ML Ikatel
+61102 Guinea Sotelgui Lagui
+61302 BF CelTel
+61402 NE CelTel
+61501 Togo Togo Telecom TOGO CELL
+61602 BJ TLCL-Ben
+61603 BJ Benincell
+61604 BJ BBcom
+61701 Mauritius Cellplus Mobile Comms
+61710 Mauritius Emtel
+61801 Liberia Lonestar
+62001 Ghana ScanCom
+62002 Ghana OneToch
+62003 Ghana Mobitel
+62120 NG Econet
+62130 NG MTN
+62140 NG Nitel
+62201 TC CelTel
+62202 TD Libertis
+62401 Cameroon MTN
+62402 Cameroon Orange
+62501 Cape Verde Cabo Verde Movel
+62601 STP CSTMovel
+62701 GNQ GNQ01
+62801 GA Libertis
+62802 TeleCel GAB
+62803 GA CelTel
+62901 CD CelTel
+62910 CD Libertis
+63002 RC CelTel
+63004 RC CellCo GSM
+63089 OASIS
+63102 AGO Unitel
+63301 Seychelles Seychelles Cellular Services
+63310 Seychelles AIRTEL
+63401 Sudan Mobile Telephone Company
+63510 Rwanda Rwandacell
+63601 Ethiopia Ethiopian Telecoms Auth.
+63701 SOM Barakaat
+63782 SOM Telsom
+63902 KE Safaricom
+63903 KE KenCell
+64001 Tanzania Tritel
+64002 Tanzania Mobitel
+64003 Tanzania Zantel
+64005 Tanzania CelTel
+64101 Uganda Celtel Cellular
+64110 Uganda MTN Uganda
+64111 Uganda UTL Telecel
+64201 BI Spacetel
+64202 BI Busafa
+64301 MOZ mCel
+64501 Zambia Celtel
+64601 Madagascar Madacom
+64602 Madagascar SMM Antaris
+64603 Madagascar Sacel
+64700 Orange
+64702 OMT
+64710 SRR Reunion Societe Reunionnaise
+64801 Zimbabwe NET*ONE
+64803 Zimbabwe Telecel
+64804 Zimbabwe Econet
+64901 Namibia MTC
+65001 Malawi Telekom Network Callpoint
+65010 Malawi CelTel
+65101 Lesotho VCL Comms
+65102 Lesotho Ezi Cel
+65201 Botswana Mascom Wireless
+65202 Botswana Vista
+65310 SZ Swazi MTN
+65501 South Africa Vodacom
+65507 South Africa Cell C
+65510 South Africa MTN South
+71201 CRI ICE
+72235 ARG Port Hable
+72402 Brazil TIM
+72403 Brazil TIM
+72404 Brazil TIM
+72431 Brazil Oi
+73401 Venezuela Infonet
+73402 Venezuela Digitel
+74601 SR ICMS
+74602 SR TeleG
+21805 Bosnia Herzegovina Mobi's
+42007 Saudi Arabia Electronics App' Est. EAE
+61201 Cote d'Ivoire Comstar Cellular Network
+61203 Cote d'Ivoire Orange
+61205 Cote d'Ivoire Telecel
+732101 Comcel Columbia
+72405 Brazil Claro GSM

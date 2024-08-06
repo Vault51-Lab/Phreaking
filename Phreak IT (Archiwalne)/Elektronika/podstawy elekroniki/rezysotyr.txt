@@ -1,0 +1,521 @@
+Wstęp 
+  
+Rezystory sš najczęciej spotykanymi elementami w układach 
+elektronicznych. Składajš się zwykle z korpusu izolacyjnego z 
+wyprowadzeniami oraz z częci oporowej, wyprodukowanej z materiału o 
+znanej opornoci właciwej (ro). Majš postać pręta, rurki, folii, 
+warstwy powierzchniowej, lub drutu o pewnej długoci (l) i powierzchni 
+przekroju (A). Opisane to jest wzorem. 
+R = (ro) x I/A
+
+Jednostka miary rezystancji R jest 1 om. 1 om jest to rezystancja, 
+która przy napięciu o wartoci 1 V odpowiada przepływowi ładunku 1 
+C/sek, czyli pršdowi o wartoci 1 A.
+
+Opornik, który ma rezystancję niezależnš od pršdu, napięcia i czynników 
+zewnętrznych, takich jak np. temperatura i wiatło, nazywany jest 
+rezystorem liniowym, lub po prostu rezystorem. Jeli rezystor zmienia 
+swojš rezystancję w zależnoci od pršdu, napięcia, lub jakiego 
+czynnika zewnętrznego, to wówczas nazywamy go rezystorem nieliniowym, 
+albo używamy nazwę wskazujšcš od czego zależna jest rezystancja.
+Żeby uprocić konstrukcję oraz dystrybucję rezystorów, produkuje się je 
+ze standardowymi wartociami rezystancji. Najczęciej spotykany jest w 
+handlu szereg wartoci E, R oraz szeregi dekadowe. Szeregi E i R 
+tworzone sš wg harmonicznego podziału każdej dekady. Pełniejsze 
+okrelenie szeregu to np. E192, E24 i R40. Okrelenie E192 oznacza, że 
+w dekadzie występuje 192 wartoci. Obliczajšc je, wychodzi się z liczby 
+10, którš się dzieli przez pierwiastek 192-stopnia z 10. Wynikiem tego 
+będzie 9,88, które dzieli się ponownie przez pierwiastek 192-stopnia z 
+10, z czego otrzymuje się 9,76 itd., aż się dojdzie do wartoci 1,00 po 
+192 dzieleniach. W ten sam sposób otrzymuje się 24 wartoci dla szeregu 
+E24, poprzez dzielenie przez pierwiastek 24 stopnia z 10. W szeregu E96 
+co druga wartoć jest wartociš z szeregu E192, za w szeregu E48 - co 
+czwarta. To samo dotyczy szeregu E12: wystšpi tam co druga wartoć z 
+szeregu E24 itd. Szereg R (R od Renard) jest skonstruowany w ten sam 
+sposób, z tym że podstawš jest szereg R40 i pierwiastkiem 40 stopnia z 
+10 jako dzielnikiem. Szereg R stosuje się czasami do rezystorów mocy, 
+lub reostatów, ale najczęciej spotykamy się z nim wród innych 
+elementów, jak np. cewki filtrów i bezpieczniki.
+
+Starszy szereg - dekadowy - o wartociach 1,0; 1,5; 2,0 itd., stosuje 
+się w dalszym cišgu w rezystorach precyzyjnych, wykorzystywany jest też 
+m.in. przez amerykańskie siły zbrojne.
+
+
+   
+   Oznaczanie rezystorów 
+  
+Małe rezystory majš najczęciej oznaczenia rezystancji, tolerancji i 
+czasami współczynnika temperaturowego wykonane przy pomocy 4 do 6 
+znaków barwnych. 
+         
+
+  
+
+Czasami spotykamy tylko trzy paski barwne. Oznacza to, że tolerancja 
+wynosi +/- 20%. Inne warianty kodów barwnych występujš bardzo rzadko, 
+np. w niektórych rezystorach spełniajšcych parametry wojskowe MIL, w 
+których obwódka kolorowa wskazuje na poziom niezawodnoci (failure 
+rate). Dawniej stosowano ostatni pasek, w kolorze różowym, do 
+rezystorów o wysokiej stabilnoci.
+
+Pamiętajmy o tym, że cewki, kondensatory, termistory i bezpieczniki 
+mogš mieć podobny wyglšd zewnętrzny, i mogš być oznaczone kolorami w 
+taki sam sposób.
+
+Większe rezystory oznacza się często symbolami literowymi. Wówczas 
+piszemy R, lub E (dla om), k (dla k om) i M (dla M om) w miejscu 
+przecinka.
+
+0R1 = 0,1 om
+0E1 = 0,1 om
+4k7 = 4,7 k om
+22M = 22 M om
+
+Czasami stosuje się kody 3- lub 4-cyfrowe, w których dwa lub trzy 
+pierwsze znaki sš cyframi o najwyższym znaczeniu, a ostatnia cyfra 
+oznacza liczbę zer.
+
+100 = 10 om
+101 = 100 om
+103 = 10k om
+4754 = 4,75 M om
+
+
+   
+   Zależnoć od częstotliwoci 
+  
+Aby łatwiej zrozumieć zachowanie się rezystora, możemy użyć prostego 
+schematu zastępczego: 
+
+
+gdzie: R = rezystancja, CL = pojemnoć własna (zwana również 
+upływnociš), LR = indukcyjnoć elementu oporowego i Ls = indukcyjnoć 
+wyprowadzeń.
+
+Widać tu, że rezystor posiada składowe indukcyjne i pojemnociowe. Przy 
+zastosowaniach w obwodach pršdu zmiennego (zwłaszcza w.cz.), zaczynajš 
+odgrywać rolę reaktancje, które w połšczeniu z rezystancjš tworzš 
+impedancję, którš w niektórych wypadkach trzeba wzišć pod uwagę.
+Przykład: jakš impedancję będzie miał rezystor wykonany w technologii 
+cienkowarstwowej o wartoci 10 k om przy częstotliwoci 400 MHz? 
+Zakładamy CL = 0,1 pF. Wyprowadzenia majš długoć 10 mm i rednicę 0,6 
+mm. Przy pomocy wzoru na indukcyjnoć prostego drutu otrzymamy 
+indukcyjnoć (Ls) równš 8,4 nH w każdym wyprowadzeniu. Indukcyjnoć 
+elementu oporowego (LR) można wyliczyć ze wzoru dla jednowarstwowej 
+
+cewki powietrznej. Zakładamy rednicę korpusu = 2 mm, długoć 4 mm i 3 
+zwoje. Wzór daje nam 6,9 nH. W przeliczeniu na reaktancje uzyskujemy 
+odpowiednio: 3979 om dla CL, 21 om, dla Ls i 17 om, dla LR.
+
+      
+
+Możemy przyjšć, że reaktancje indukcyjne sš do pominięcia. Impedancja 
+(Z) przy połšczeniu równoległym będzie więc wynosić:
+
+1/Z = pierw.( (1/R)2 + (1/XL)2 )
+
+Wzór ten można również zapisać jako:
+
+Z = R x XL x 1 / [pierw.(R2 + XL2)]
+Z = 10 k x 3979 x 1 / [pierw.(10k2 + 39792)] = 3967 om
+
+Opornik o wartoci 10 k om ma więc przy 400 MHz impedancję tylko 3,7 k 
+om.
+
+Rezystory warstwowe poniżej 100 om, można z reguły traktować przy w.cz. 
+jako elementy o charakterze indukcyjnym (impedancja wzrasta z 
+częstotliwociš), od 100 do 470 om jako prawie idealnš rezystancję. 
+Rezystory powyżej 470 om, nabierajš charakteru pojemnociowego 
+(impedancja zmniejsza się ze wzrostem częstotliwoci). Im większa 
+wartoć rezystancji, tym większa pojemnoć.
+
+Z następujšcego wykresu można obliczyć impedancję jako % rezystancji w 
+zależnoci od częstotliwoci dla rezystora metalizowanego o różnej 
+wartoci rezystancji (opornoci dla pršdu stałego).
+
+      
+
+Rezystory drutowe majš zarówno dużš indukcyjnoć, jak i pojemnoć. Ich 
+impedancja będzie największa przy częstotliwoci rezonansowej. Przy 
+częstotliwociach niższych od rezonansowej majš charakter indukcyjny, 
+przy wyższych - pojemnociowy.
+
+
+   
+   Zależnoć od temperatury 
+  
+Pršd przepływajšcy przez rezystor powoduje jego nagrzewanie. Iloć 
+ciepła zależna jest od wydzielanej w nim mocy (P). Równa się ona 
+iloczynowi pršdu (l) płynšcemu przez rezystor i napięcia (U), które 
+wywołuje ten przepływ ( P = U x l). 
+Różnica temperatur między powierzchniš rezystora i otoczeniem 
+podzielona przez wydzielonš w nim moc nazywana jest rezystancjš 
+termicznš (Rth). Temperaturę rezystora można wyliczyć z wzoru:
+
+Ths = Tamb + P x Rth
+
+Gdzie: Ths = temperatura w najgorętszym punkcie powierzchni, Tamb = 
+temperatura otoczenia, P = moc w W, a Rth = rezystancja termiczna w K/W. 
+Wartoć maksymalna Ths zależy od np. materiałów izolacyjnych, obudowy i 
+izolacji termicznej (Rth) pomiędzy elementem oporowym i powierzchniš.
+Podawana w danych technicznych moc maksymalna jest to moc, przy której 
+wzrost temperatury (P x Rth) i temperatura otoczenia (Tamb) wspólnie 
+spowodowały wystšpienie maksymalnej temperatury, którš rezystor 
+wytrzymuje bez zmiany parametrów, np. stabilnoci długotrwałej i 
+tolerancji.
+
+Jeli temperatura otoczenia jest wyższa niż temperatura, dla której 
+jest okrelona moc maksymalna (z reguły 25, 40 lub 70° C), to 
+maksymalna moc użyteczna rezystora zmniejsza się liniowo ze wzrostem 
+temperatury aż do zera; jest to tzw. temperatura mocy zerowej i wynosi 
+dla rezystorów lakierowanych epoksydem ok. 150° C, rezystorów 
+izolowanych silikonem i zamkniętych w aluminium ok. 200° C, a dla 
+rezystorów pokrytych szkliwem ok. 350° C.
+
+Jeli przekroczy się maksymalnš temperaturę (Ths) rezystora, oznaczać 
+to będzie skróconš żywotnoć. Jeli przekroczymy jš w sposób znaczny, 
+to czas życia może wynosić sekundy, lub nawet ich częci.
+
+Istniejš różne normy badania wytrzymałoci stosowane przez producentów. 
+Normy te różniš się od siebie wymaganiami na sposób montażu, długoć 
+wyprowadzeń, cyrkulację powietrza (montaż pionowy, lub poziomy), 
+temperaturę otoczenia, przyrost temperatury, temperaturę powierzchni i 
+oczekiwanš żywotnoć. Dlatego rezystor, który wg jednego producenta 
+wytrzymuje 1 W, wg innego może wytrzymać tylko 1/10 W mimo, że jest tej 
+samej wielkoci.
+
+Dowiadczenie uczy, że moc maksymalna wykorzystywana jest bardzo rzadko,
+również z tego względu, że temperatura połšczenia lutowanego nie 
+powinna przekraczać 100° C, aby nie ulegało szybszemu starzeniu.
+Tolerancja rezystancji jest to maksymalna odchyłka od rezystancji 
+nominalnej wyrażona w procentach. Rezystancję mierzy się standardowo, 
+bioršc pod uwagę typ urzšdzenia pomiarowego, napięcie, temperaturę, 
+długoć wyprowadzeń itd. W rezystorach standardowych, tolerancja wynosi 
++/- (1-10) %, ale istniejš również wykonania specjalne, dla których 
+tolerancja jest bardzo niska i wynosi +/- 0,005 %.
+
+Wszystkie rezystory sš w jaki sposób zależne od temperatury, co 
+opisuje się przy pomocy współczynnika temperaturowego. Jednostkš 
+najczęciej stosowanš jest ppm/K (milionowa częć na 1 stopień, 10-6/K). 
+Współczynnik temperaturowy zmienia się w zależnoci od typu rezystora. 
+Rezystory węglowe majš względnie duży ujemny współczynnik (-200 do 
+2000 ppm/K w zależnoci od wartoci rezystancji), podczas gdy istniejš 
+specjalne rezystory metalizowane o współczynniku poniżej +/- 1 ppm/K.
+Maksymalne napięcie pracy jest to maksymalne stałe lub zmienne napięcie, 
+które w sposób cišgły może być przyłożone do rezystora. Dotyczy to 
+tylko rezystorów powyżej tzw. rezystancji krytycznej, tzn. takiej, przy 
+której maksymalne napięcie daje maksymalnš moc, którš wytrzymuje 
+rezystor. Dla opornoci powyżej rezystancji krytycznej maksymalne 
+napięcie wyniesie:
+
+U = pierw.(RxP)
+
+Napięcie izolacji (wytrzymałoć napięciowa) - jest to napięcie, które 
+wytrzymuje izolacja wokół elementu oporowego.
+
+
+   
+   Szumy 
+  
+We wszystkich rezystorach powstajš szumy. Z jednej strony jest to tzw. 
+szum termiczny, który powstaje w każdym elemencie przewodzšcym pršd i 
+który wynika z faktu, że nie wszystkie elektrony płynš w kierunku 
+
+przepływu pršdu, a z drugiej strony - szum pršdowy, którego wartoć 
+zależy od typu rezystora. Szum termiczny, który jest niezależny od 
+rodzaju rezystora, można obliczyć wg następujšcego wzoru: U = pierw.(4kTRB)
+
+gdzie: U = napięcie szumów, jego wartoć skuteczna w V, k = stała 
+Boltzmana (1,38 x 10-23), T = temperatura bezwzględna w stopniach 
+Kelvina, R = rezystancja w om i B = szerokoć pasma w Hz. Szum pršdowy, 
+który zależy np. od rodzaju materiału użytego na element oporowy, 
+nierównomiernoci jego powierzchni i zanieczyszczeń, podawany jest z 
+reguły w danych technicznych producenta. Poziom szumów podaje się w 
+uV/V lub w dB. Poziom 0 dB odpowiada 1 uV/V. Szum całkowity jest sumš 
+szumu termicznego i pršdowego.
+
+Szum całkowity = pierw.(szum pršdowy2 + szum termiczny2)
+
+
+   
+   Zależnoć od napięcia 
+  
+Rezystancja wszystkich rezystorów jest w jaki sposób zależna od 
+napięcia i zazwyczaj jest to od 10 do 1000 ppm/V. Zależnoć ta powoduje 
+zniekształcenia harmoniczne - jeli mamy do czynienia z napięciem 
+zmiennym. Często nazywa się to nieliniowociš i podaje się w dB jako 
+relację miedzy przebiegiem podstawowym i jego trzeciš harmonicznš.
+   
+   Budowa 
+  
+Rezystory węglowe kompozytowe, lub masowe sš starszym typem rezystora. 
+Zbudowane sš w postaci watka, lub rurki węglowej z przylutowanymi 
+wyprowadzeniami. Skład materiałowy częci węglowej decyduje o wartoci 
+rezystancji. Zaletš tych rezystorów jest ich niska indukcyjnoć. 
+Dlatego sš one właciwe do zastosowań w układach przełšczajšcych, jak 
+np. w układach gasikowych RC i zasilaczach przetwornicowych. Innš ich 
+zaletš jest to, że wytrzymujš chwilowe przecišżenia bez uszkodzenia. 
+Ich dużš wadš jest wysoka pojemnoć własna, ok. 0,2-1 pF, w zależnoci 
+od typu i wartoci rezystancji. Wysoka pojemnoć własna, która wynika z 
+budowy czšsteczek węglowych ze rodkiem wišżšcym stanowi, że rezystory 
+węglowe sš mniej lub bardziej bezużyteczne przy częstotliwociach 
+powyżej 5-10 MHz. Posiadajš one wysoki współczynnik temperaturowy (-200 
+do - 2000 ppm/K), dużš zależnoć od napięcia (200-500 ppm/V), wysoki 
+szum i złš stabilnoć długotrwałš. Rezystory warstwowe węglowe, lub 
+rezystory z warstwš węglowš. Składajš się z rurki ceramicznej, 
+na której jest naparowana warstwa węgla o danej wartoci rezystancji. 
+W tej warstwie można wykonać nacięcia spiralne aż do 10 zwojów przy 
+pomocy ostrza diamentowego, lub lasera, aby osišgnšć właciwš wartoć 
+rezystancji. Reaktancja tej indukcyjnoci, która wystšpi z powodu tej 
+spirali jest niewielka w porównaniu z reaktancjš, która wynika z 
+pojemnoci własnej ok. 0,2 pF. Posiadajš one wysoki współczynnik 
+temperaturowy (-200 do -1000 ppm/K). Zależnoć napięciowa jest poniżej 
+100 ppm/V. Poziom szumu jest doć wysoki, a stabilnoć długotrwała jest 
+zła. Rezystory węglowe powierzchniowe sš jednakże bardzo tanie w produkcji.
+
+Rezystory warstwowe metalowe różniš się od węglowych tym, że warstwa 
+węgla została zastšpiona warstwš metalu. Proces produkcji jest podobny. 
+Dobre właciwoci dla wysokich częstotliwoci ze względu na niskš 
+pojemnoć własnš (poniżej 0,2 pF). Dla wysokich wartoci rezystancji i 
+przy wysokiej częstotliwoci reaktancjš może jednakże odgrywać pewnš 
+rolę. Współczynnik temperaturowy jest niski (5 - 100 ppm/K). Zależnoć 
+od napięcia jest ok. 1 ppm/V, niski poziom szumów i dobra stabilnoć 
+długotrwała. Wytrzymałoć na przecišżenia impulsowe jest jednak niska, 
+niższa nawet niż dla rezystorów warstwowych węglowych. Dlatego należy 
+być ostrożnym z wymianš rezystorów węglowych na metalowe w 
+zastosowaniach impulsowych.
+
+Rezystory grubowarstwowe nazywane sš czasami rezystorami "metalglaze", 
+lub cermetowymi. Warstwa zewnętrzna składa się z mieszaniny tlenków 
+metali i szkła, lub ceramiki, i jest nakładana metodš sitodrukowš na 
+korpus ceramiczny. Tego typu rezystory majš dobre własnoci przy 
+wysokich częstotliwociach i niskich rezystancjach. Pojemnoć własna 
+wynosi ok. 0,1-0,3 pF. Zależnoć rezystancji od napięcia jest poniżej 
+30 ppm/V. Stabilnoć długotrwała jest bardzo dobra. Rezystory sš 
+wytrzymałe na przecišżenia impulsowe, sš niezawodne i wytrzymujš 
+wysokie temperatury. Poziom szumów jest porównywalny z rezystorami 
+warstwowymi węglowymi. Rezystory do montażu powierzchniowego sš 
+najczęciej produkowane jako grubowarstwowe.
+
+Rezystory cienkowarstwowe majš bardzo cienkš warstwę metalu, 
+najczęciej niklu i chromu, który jest naparowywany na korpus szklany,
+ lub ceramiczny. Rezystory sš trawione i dopasowywane przy pomocy 
+lasera aby uzyskać właciwš rezystancję. Własnoci dla wysokich 
+częstotliwoci na ogół nie sš dobre. Współczynnik temperaturowy 
+rezystancji jest bardzo dobry, daje się uzyskać nawet poniżej 1 ppm/K. 
+Współczynnik napięcia leży poniżej 0,05 ppm/V. Stabilnoć długotrwała 
+jest nadzwyczaj dobra. Szumy sš najniższe ze wszystkich typów 
+rezystorów warstwowych powierzchniowych. Moc i odpornoć na impulsy 
+jest niska. Wysoka stabilnoć powoduje, że rezystory tego typu często 
+stosuje się w układach precyzyjnych, jako np. bardzo dokładne dzielniki 
+napięcia.
+
+Rezystory z tlenków metali maja warstwę zewnętrznš np. z tlenku cyny, z 
+którego można tworzyć spirale. Własnoci dla wysokich częstotliwoci sš 
+umiarkowane, ze względu na pojemnoć własnš ok. 0,4 pF. Współczynnik 
+temperaturowy wynosi ok. +/- 200 ppm/K, zależnoć od napięcia jest 
+poniżej 10 ppm/V, a poziom szumów jest niski. Sš one odporne na impulsy 
+i znoszš wysokie temperatury, co czyni je bardzo dobrš alternatywš dla 
+rezystorów drutowych dużej mocy, szczególnie przy wysokich 
+rezystancjach.
+
+Matryce rezystorowe (drabinki) sš produkowane w wersji grubo- albo 
+cienkowarstwowej. Składajš się one z ceramicznego korpusu z 
+nadrukowanymi rezystorami i wyprowadzeniami. Istniejš dwa rodzaje 
+matryc rezystorowych do montażu przewlekanego: obudowa jednorzędowa SIL 
+(Single In Line) z liczbš wyprowadzeń od 4 do 14 i liczbš rezystorów od 
+2 do 24, oraz obudowa dwurzędowa DIL (Dual In Line) z liczbš 
+wyprowadzeń od 14 do 20 i liczbš rezystorów od 7 do 36. Do montażu 
+powierzchniowego produkuje się dużo rożnych typów obudów. Często 
+produkuje się specjalne matryce rezystorowe do zastosowań specjalnych. 
+Wówczas można uzyskać dowolne wewnętrzne połšczenia między rezystorami, 
+różne wartoci rezystancji, jak również można wyposażyć matrycę w inne 
+elementy takie jak kondensatory, czy diody.
+
+Jednš z zalet matryc rezystorowych jest to, że zajmujš mało miejsca na 
+płycie drukowanej, można kontrolować temperaturę pracy rezystorów, 
+montaż jest prosty i nie czasochłonny, co z kolei oznacza niższa cenę 
+montażu elementów.
+
+Rezystory drutowe nawijane składajš się z drutu o wysokiej rezystancji 
+na ogół nikrotalu (CrNi), kantalu (CrAlFe), lub konstantanu (CuNi), 
+
+nawiniętego na korpus z ceramiki, szkła lub włókna szklanego. Izoluje 
+się je plastikiem, silikonem, glazurš, albo sš zamknięte w obudowie 
+aluminiowej, aby łatwiej mogły przenosić ciepło do chłodzšcego podłoża. 
+Produkuje się je do zastosowań precyzyjnych, gdzie wymagana jest wysoka 
+jakoć i stabilnoć, oraz do zastosowań o dużej mocy, dla których 
+potrzebny jest gruby i wytrzymały drut. Własnoci dla wysokich 
+częstotliwoci nie sš dobre. Wysoka indukcyjnoć (0,1-10uH) i wysoka 
+pojemnoć (0,2-10 pF) zależš od liczby zwojów drutu i wymiarów korpusu. 
+W celu zmniejszenia indukcyjnoci można nawijać druty w rożny sposób np. 
+bifilarnie, krzyżowo (uzwojenie Ayrtona Perry), albo sekcyjnie w 
+rożnych kierunkach. W typach precyzyjnych współczynnik temperaturowy 
+jest niski (1 - 100 ppm/K). Zależnoć napięciowa wynosi ok. 1 ppm/V. 
+Szum jest bardzo niski, a stabilnoć długotrwała - dobra. Jednakże 
+wytrzymałoć na przecišżenie jest niska. Rezystory mocy majš 
+współczynnik temperaturowy miedzy -50 a +1000 ppm/K w zależnoci od 
+typu drutu. Zależnoć napięciowa i szumy - takie jak w typie 
+precyzyjnym. Stabilnoć długotrwała jest silnie zależna od temperatury 
+powierzchni rezystora (Ths). Przy montowaniu drutowych rezystorów mocy 
+ważne jest aby pamiętać, że temperatura na powierzchni może dochodzić 
+aż do 200 - 400° C. Tak wysokie temperatury mogš mieć wpływ na 
+otaczajšce elementy, materiały i punkty lutownicze.
+Termistor NTC jest nieliniowym rezystorem, którego rezystancja zależna 
+jest silnie od temperatury materiału oporowego. Jak wskazuje angielska 
+nazwa - Negative Temperaturę Coefficient - termistor posiada ujemny 
+współczynnik temperaturowy, czyli rezystancja maleje ze wzrostem 
+temperatury. Sš one zbudowane z polikrystalicznych półprzewodników, 
+które stanowiš mieszaniny zwišzków chromu, manganu, żelaza, kobaltu i 
+niklu. Sš zmieszane z plastycznym rodkiem wišżšcym.
+
+Rezystancja termistora zmienia się wg wzoru
+
+R = A x eB/T
+
+gdzie A i B sš stałymi zależnymi od materiału, a T jest temperaturš. 
+Jednakże jest to uproszczony wzór. W szerokich zakresach temperatur 
+wartoć B zmienia się nieco wraz z temperaturš. W celu obliczenia 
+przybliżonej wartoci rezystancji (R1) przy pewnej temperaturze (T1) 
+można wykorzystać powyższy wzór, o ile znana jest rezystancja (R2) w 
+temperaturze (T2) i wartoć B.
+
+R1 = A x eB/T1
+R2 = A x eB/T2
+
+Jeżeli podzielimy te dwa wyrażenia przez siebie to otrzymamy:
+
+R1/R2 = A x eB/T1 / A x eB/T2
+
+Upraszczamy przez A, przenosimy R2 i w ten sposób otrzymamy wzór Beta.
+
+R1 = R2 x e(B/T1 - B/T2)
+
+Wzór Beta okrela relacje w zakresie temperatur, dla którego podawana 
+jest wartoć B. B 25/85 oznacza, że wartoć B jest właciwa dla zakresu 
+temperatur od 25 do 85° C.
+
+Stała mocy (D) jest wielkociš mocy w W (lub mW), potrzebnš do 
+podniesienia temperatury rezystora o 1 K powyżej temperatury otoczenia.
+
+Stała czasowa jest to czas, który termistor NTC potrzebuje do 
+osišgnięcia 63,2% (1 - e-1) tej nowej wartoci rezystancji przy zmianie 
+temperatury, ale wzrost temperatury nie może wynikać z przepływajšcego 
+pršdu. Jest to miara szybkoci reakcji i zależy to od np. masy oporowej.
+Termistory NTC stosuje się do np. pomiarów i regulacji temperatury, 
+kompensacji temperaturowej, opónienia czasowego i ograniczenia pršdów 
+rozruchu.
+
+Termistor PTC ma dodatni współczynnik temperaturowy, tzn. jego 
+rezystancja wzrasta wraz ze wzrostem temperatury. Produkowane sš one w 
+podobny sposób jak termistory NTC, ale ich podstawš jest BiTiO3, który 
+domieszkuje się z różnymi zwišzkami chemicznymi. Poprzez obfite dodanie 
+tlenu w czasie procesu chłodzenia, otrzymuje się silnie dodatni 
+współczynnik temperaturowy. Rezystancja nieco maleje przy niskich 
+temperaturach, ale po przekroczeniu punktu Curie materiału (Tc)  
+silnie wzrasta.
+
+Temperatura przemiany (Tsw) jest to temperatura, przy której wartoć 
+rezystancji równa jest dwukrotnej wartoci rezystancji minimalnej. 
+Termistory PTC produkowane sš z temperaturš Tsw pomiędzy 25 i 160° C 
+(aż do 270° C, o ile sš one produkowane jako elementy grzewcze).
+
+            
+
+Czas przemiany (tsw) to jest czas, jakiego potrzebuje termistor PTC, 
+aby osišgnšć temperaturę Tsw w wyniku przepływu pršdu przy stałym 
+napięciu. W tym momencie pršd zmniejsza się do połowy. Czas przemiany 
+można obliczyć z następujšcego wzoru:
+
+tsw = h x v x (Tsw - Tamb) / (It2 x R25 - D x (Tsw - Tamb))
+
+gdzie h = charakterystyczna stała ceramiki 2,5-10-3, v = objętoć 
+ceramiki w mm3, Tsw = temperatura przemiany, Tamb = temperatura 
+otoczenia, It = pršd w A, D = stała mocy w W/K.
+Współczynnik temperaturowy oznacza maksymalny współczynnik 
+temperaturowy termistora PTC w tej częci charakterystyki, w której 
+jest ona najbardziej stroma.
+
+Bardzo ważne jest, aby nie przekraczać maksymalnego napięcia. Może 
+wówczas nastšpić przebicie i termistor zostanie zniszczony. Nie można 
+także szeregowo łšczyć wielu termistorów PTC, aby osišgnšć wyższš 
+wytrzymałoć napięciowš. Znaczny spadek napięcia powstanie i tak na 
+jednym termistorze i on włanie zostanie wtedy uszkodzony.
+
+Termistory PTC stosuje się jako zabezpieczenia przeciwko nadmiernemu 
+pršdowi np. w silnikach elektrycznych, samoregulujšcych elementach 
+grzewczych, do obwodu rozmagnesowania w telewizorach kolorowych, 
+obwodach opóniajšcych i do wskazywania temperatury.
+
+Warystor lub VDR (Voltage Dependent Resistor) jest rezystorem, którego 
+wartoć rezystancji zmniejsza się silnie wraz ze wzrostem napięcia. 
+Warystory produkuje się obecnie najczęciej z granulowanego tlenku 
+cynku, domieszkowanego różnymi pierwiastkami jak Bi, Mn, Sb, itd., 
+uformowanego w pastylkę. Powierzchnie wielu styków ziaren działajš jako 
+pewnego rodzaju złšcza półprzewodnikowe o spadku napięcia ok. 3 V przy 
+1 mA i tworzš długie łańcuchy. Całkowity spadek napięcia zależy od 
+wielkoci ziarna i gruboci warystora. Aż do napięcia 
+charakterystycznego (napięcia warystora), kiedy pršd jest <= 1 mA, 
+warystor będzie miał wysokš rezystancję. Po przekroczeniu napięcia 
+progowego warystora, przepływajšcy pršd wzrasta w sposób logarytmiczny, 
+tzn. wartoć rezystancji zmniejsza się. Warystor może przejć ze 
+swojego stanu wysokoomowego do niskoomowego w czasie krótszym niż 20 ns. 
+rednica warystora decyduje o mocy i czasie życia. Budowa ziarnista 
+powoduje, że warystor posiada pojemnoć własnš rzędu 50-20 000 pF w 
+zależnoci do napięcia i wielkoci.
+
+Nieliniowoć można wykorzystać dla zabezpieczenia przed krótkimi 
+przepięciami, które powstajš np. podczas burz, lub przełšczania 
+obcišżeń o charakterze indukcyjnym. Warystory można stosować zarówno do 
+pršdu stałego, jak i zmiennego. Bardzo wysokie przepięcie zmniejsza 
+rezystancję warystora do 0,1 - 50 om w zależnoci od wartoci 
+szczytowej piku napięciowego, napięcia i rednicy warystora.
+Warystory montowane sš w instalacjach zasilajšcych 230 V~SI między fazš 
+i zerem lub ziemiš, w celu tłumienia przychodzšcych pików napięciowych, 
+przy pomiarach w układach zasilajšcych miedzy + i -, między przewodem i 
+ziemiš w układach sygnalizacyjnych, na styku przerywajšcym obwód cewki 
+aby zapobiec iskrzeniu, na triaku aby zmniejszyć zakłócenia radiowe, 
+itd.
+
+Fotorezystor, zwany również LDR (Light Dependent Resistor), jak nazwa 
+wskazuje, ma opornoć zmieniajšcš się w zależnoci od iloci padajšcego 
+nań wiatła. Silniejsze wiatło wywołuje spadek rezystancji.
+
+Fotorezystor produkowany jest przeważnie z dwóch rożnych materiałów. 
+Siarczek kadmu (CdS) jest wrażliwy w przybliżeniu na to samo widmo 
+wiatła co ludzkie oko. Czułoć selenku kadmu (CdSe) jest przesunięta w 
+stronę podczerwieni. CdS posiada maksymalnš czułoć przy 515 nm, a CdSe 
+przy 730 nm, ale poprzez zmieszanie tych dwóch materiałów, można 
+otrzymać różne charakterystyki - z maksymalnš czułociš pomiędzy 515 a 
+730 nm.
+
+Siarczek kadmu i selenek kadmu w ciemnoci nie posiadajš w ogóle (albo 
+niewiele) wolnych elektronów, przez co wartoć rezystancji jest bardzo 
+wysoka. Energia, napływajšca w postaci wiatła, powoduje wyzwolenie 
+elektronów walencyjnych i ich przeniesienie do pasma przewodzenia. 
+Wartoć rezystancji będzie wówczas niska.
+
+Wielkoć zmian rezystancji zależy, oprócz składu materiałowego, od typu 
+procesu produkcyjnego, powierzchni i odległoci miedzy elektrodami, jak 
+również od powierzchni, która jest owietlana. Fotorezystor ma 
+względnie dużš zależnoć temperaturowš: 0,1 do 2%/K.
+
+Czas odpowiedzi zmienia się od 1 ms do wielu sekund, w zależnoci od 
+natężenia wiatła, jak również czasu owietlenia i czasu pozostawania 
+bez owietlenia. Typ CdSe jest szybszy niż typ CdS. Oba posiadajš 
+pewien "efekt pamięciowy" - po długotrwałym, statycznym owietleniu 
+wartoć rezystancji zostaje przesunięta na pewien czas. Typ CdSe ma 
+silniejszy efekt pamięciowy niż typ CdS.
+
+
+   
+   Prawo Ohma 
+  
+Poniżej podany jest pomocniczy diagram do obliczania zależnoci między 
+napięciem U (V), pršdem I (A), rezystancjš R (om) i mocš P (W). Wzory w 
+częciach zewnętrznych stosowane sš do obliczania wielkoci leżšcej w 
+częci wewnętrznej. 
+
+ 
+              

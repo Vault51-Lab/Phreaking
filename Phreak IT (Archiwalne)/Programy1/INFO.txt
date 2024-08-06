@@ -1,0 +1,3 @@
+ nagraj [15KB] -Pierwszy popularny program do nagrywania kart czerwonych. Napisany w Pascalu i rozpowszechniany razem z kodem zrodlowym. Na podstawie tego programu powstalo wiele innych programow, o duzo wiekszych mozliwosciach. Wybrane z nich mozna znalezc nizej.
+- bluezibi final [18KB] - Bazrdzo dobry program do nagrywania kart czerwonych, umozliwia ustawienie czasow opoznienia i magnesowania karty. Zapamietuje numer seryjny karty i automatycznie go zwieksza.
+- uln v 1.0 - [11,8KB] - Program o mozliwosciach zblizonych do poprzedniego. Umozliwia rowniez dogrywanie jedynek do czesciowo zuzytych kart.

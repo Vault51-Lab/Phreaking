@@ -1,0 +1,26 @@
+IDEA:
+
+*22	Biuro Obsługi Klienta - bezpłatny numer telefonu, dostępny z telefonów komórkowych PTK Centertel na terenie kraju. W usłudze POP koszt jednorazowy rozmowy wynosi 1 zł z VAT.
+*525	Biuro Obsługi Klienta - bezpłatny numer telefonu dla Klientów Idea dla Firm
+*874	Biuro Obsługi Klienta - numer telefonu Centrum Wsparcia Technicznego usługi mBox, dostępny z telefonów komórkowych sieci Idea na terenie kraju. Całkowity koszt połączenia 2 zł (1,65 zł bez VAT).
+(0-22) 6342882	ogólnodostępny numer telefonu BOK
+(0-801) 234567	Informacja Handlowa PTK Centertel - całkowity koszt połączenia wynosi 0,35 zł (0,29 zł bez VAT).
+(0-801) 100501	Informacja Handlowa PTK Centertel - dla Idea dla Firm, całkowity koszt połączenia jak za jeden impuls rozmowy lokalnej
+PLUS GSM:
+
+2601	Połączenie z Konsultantem z telefonu sieci Plus GSM (numer bezpłatny)
+(+48 22) 6071601	Połączenie z Konsultantem z telefonu komórkowego sieci innej niż Plus GSM
+( 22) 6071601	Połączenie z Konsultantem z dowolnego telefonu stacjonarnego
+(+48 22) 6071601	Połączenie z Konsultantem z telefonu komórkowego
+(+48 22) 6071601	Połączenie z Konsultantem za granicą z telefonu stacjonarnego
+0801400601	Informacja Handlowa - połączenie z konsultantem, linia ulgowa
+(+48 22) 6071600	Informacja Handlowa - połączenie z konsultantem, linia płatna
+ERA GSM:
+
+602 900	Biuro Obsługi Abonenta z telefonu w sieci Era
+(0-22) 4136996	Biuro Obsługi Abonenta z telefonu stacjonarnego
+602 909	Informacja Automatyczna, TeleEra - Automatyczny system obsługi Abonenta i informacji
+602 963	Automatyczna informacja o kosztach rozmów przeprowadzonych od dnia wystawienia ostatniego rachunku
+0801202602	Infolinia dla naszych Abonentów, przyszłych klientów i wszystkich zainteresowanych ofertą indywidualną
+0801602602	Biznes Informacja dla naszych, przyszłych klientów i wszystkich zainteresowanych oferta biznesową
+(0-22) 4136000	Centrala Telefoniczna sieci Era

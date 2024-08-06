@@ -1,0 +1,38 @@
+TEKSTY:
+
+Dialog FAQ - Pionierski tekst autorstwa Kon-a (Phreak It)
+Spis budek Dialogu - pobierz [18 KB]
+DOKUMENTY:
+Projektowanie i budowa sieci telekomunikacyjnej - troche technicznych dokumentow w pdf nudnych dla przecietnego czlowieka, ale kto zdecyduje sie na lekture calosci zapewne cos ciekawego dla siebie wyczyta.
+    > Ogolne zasady projektowania i budowy sieci kablowych - zobacz [451 KB] 01-1
+    > Ogolne zasady projektowania i budowy sieci kablowych - dokumenty 
+    normatywne - zobacz [300 KB] 01-2
+    > Ogolne zasady projektowania i budowy sieci kablowych - ogólne
+    zasady projektowania i budowy sieci kablowych - zobacz [841 KB] 01-3
+    > Budowa kanalizacji kablowej - zobacz [992 KB] 03
+    > Projektowanie sieci dostepowych miedzianych - zobacz [336 KB] 04
+    > Budowa sieci dostepowych miedzianych - zobacz [655 KB] 05
+Noty katalogowe:
+    > cashflow330.pdf [860 KB] - nota katalogowa urzadzenia CashFlow 330
+    odpowiedzialnego za rozpoznawanie wrzucanych monet
+ZDJECIA:
+    - Widok ogolny na budke (by Adeptus Magus) - zobacz [177 KB]
+    - Zblizenie na automat (by Adeptus Magus) - zobacz [228 KB]
+
+    Zdjecia Kon-a (automat GPT Emerald P70003N):
+    czesc I [96 KB]   1-zamek(widok z zewnatrz),  2-akumulator,   3-aparat (widok z zewnatrz),   4-aparat (widok w srodku),   5-urzadzenie rozpoznajace monety (kompletne)
+  
+    czesc II [70 KB]    6-urzadzenie rozpoznajace monety (widok z tylu),  7-urzadzenie rozpoznajace monety (widok z tylu ze zdjeta klapka),  8-urzadzenie rozpoznajace monety (widok z otwarta klapka)
+  
+    czesc III [86 KB]   9-soft na plycie glownej,  10-zblizenie na element ferrytowy w urzadzeniu rozpoznajacym monety,  11-klucz do szkatuly (strona lewa),  12-zblizenie na plytke "lejka"
+   
+    czesc IV [106 KB]   13-mikrostyk,  14-widok na moduły SAM,  15-jeden z elementow optoelektronicznych w mechanizmie taryfikacyjnym,  16-zlacze modularne na płycie glownej (podlaczenie linii),  17-widok na moduly SAM (zamkniete)
+   
+    czesc V [138 KB]   <18-21>-plyta glowna
+22-płyta glowna (zblizenie na port COM i przycisk właczajacy menu)
+   
+    czesc VI [162 KB]   23-płyta mechanizmu taryfikujšcego
+24-cała przednia część aparatu (widok od srodka),  25-urzadzenie, ktore przykreca blacha razem ze szkatula,  26-plyta mechanizmu taryfikujacego,  27-zamek abloy (widok po wykreceniu),  28-mechanizm taryfikujacy,  29-mechanizm taryfikujacy (widok od przodu),  30-mechanizm taryfikujacy (z odlaczonym urzadzeniem rozpoznajacym monety),  31-mechanizm taryfikujacy (widok od tyłu)
+
+    czesc VII [141 KB]   32 obudowa mechanizmu taryfikujacego razem z plyta,  33 plytka wyswietlacza,  34 plytka klawiatury,  35 zamek do szkatuly (widok z przodu),  36 zamek do szkatuly (widok z boku),  37 mechanizm zamkniecia,  38 zawiasy, 39 zawiasy, 40 zlacza (mech. taryf. i plyty glownej)
+

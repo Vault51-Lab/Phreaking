@@ -1,0 +1,545 @@
+                            
+71 336 8862  Ni Wroclaw      Powstancow Sl. ^Big Bank Gdanski                    		2001-06-09  TP
+71 780 0101  Bt Wroclaw      Swieradowska, DH "Gaj", wej. pn [Krynicka] @         		2002-08-10  Dialog
+71 780 0102  Bt Wroclaw      Swieradowska, DH "Gaj", wej. zach. [Orzechowa] @     	        2002-08-10  Dialog
+71 780 0103  Bt Wroclaw      Swieradowska, DH "Gaj", wej. pd [Swieradowska] @     	        2002-08-10  Dialog
+71 780 0104  Bt Wroclaw      Braniborska 14, DH "Domar", parter, budka @          		2001-07-12  Dialog
+71 780 0121  Bt Wroclaw      Dworzec Gl. PKP, wejscie glowne                      		2002-08-10  Dialog
+71 780 0134  Bt Wroclaw      Kolejowa, targowisko, wejscie zachodnie @            		2001-07-07  Dialog
+71 780 0135  Bt Wroclaw      Kolejowa, targowisko, ~stoisko 331 @                 		2001-07-07  Dialog
+71 780 0180  Bt Wroclaw      ^Jednosci Narodowej 153-155; ~CPN                    		2001-06-07  Dialog
+71 780 0181  Bt Wroclaw      Jednosci Narodowej 187                               		2001-06-07  Dialog
+71 780 0182  Bt Wroclaw      Jednosci Narodowej 203                               		2001-06-07  Dialog
+71 780 0185  Bt Wroclaw      Nowowiejska / Wyszynskiego                           		2001-08-10  Dialog
+71 780 0186  Bt Wroclaw      Grabiszynska 316, przystanek przy Cm. Grabiszynskim  	        2001-06-24  Dialog
+71 780 0187  Bt Wroclaw      Ostrowskiego 15 ^dawne "Elwro"                       		2001-06-24  Dialog
+71 780 0197  Bt Wroclaw      Stanislawowska 51 / Trawowa                          		2001-07-10  Dialog
+71 780 0198  Bt Wroclaw      Stanislawowska 90                                    		2001-07-10  Dialog
+71 780 0203  Bt Wroclaw      Stanislawowska / Minska                              		2001-07-10  Dialog
+71 780 0204  Bt Wroclaw      Zeromskiego 34 / Nowowiejska                         		2001-07-18  Dialog
+71 780 0211  Bt Wroclaw      Grabiszynska / Klecinska ~Ostrowskiego               		2001-08-31  Dialog
+71 780 0223  Bt Wroclaw      Szewska, DH "Kameleon" 1p. @                         		2001-10-04  Dialog
+71 780 0264  Bt Wroclaw      Inowroclawska 29 #1/2                                		2002-08-10  Dialog
+71 780 0265  Bt Wroclaw      Inowroclawska 29 #2/2                                		2002-08-10  Dialog
+71 780 0266  Bt Wroclaw      Mlodych Technikow / Czarnieckiego #1/2               		2002-08-10  Dialog
+71 780 0267  Bt Wroclaw      Mlodych Technikow / Czarnieckiego #2/2               		2002-08-10  Dialog
+71 780 0268  Bt Wroclaw      Rybacka / Legnicka #2/2                              		2002-08-10  Dialog
+71 780 0269  Bt Wroclaw      Rybacka / Legnicka #1/2                              		2002-08-10  Dialog
+71 780 0270  Bt Wroclaw      Mlodych Technikow / Legnicka                         		2002-08-10  Dialog
+71 780 0279  Bt Wroclaw      Sienkiewicza 128 / Nowowiejska                       		2002-08-10  Dialog
+71 780 0349  Bt Wroclaw      Wojszycka / Agrestowa                                		2001-10-11  Dialog
+71 781 5304  Bt Wroclaw      Zytnia 2 / Grabiszynska                              		2002-08-10  Dialog
+71 781 5305  Bt Wroclaw      Jeczmienna / Grabiszynska                            		2002-03-22  Dialog
+71 781 5306  Bt Wroclaw      Kolejowa / Grabiszynska                              		2002-03-22  Dialog
+71 781 5310  Bt Wroclaw      Dworcowa #1/2                                        		2002-03-22  Dialog
+71 781 5311  Bt Wroclaw      Dworcowa #2/2                                        		2002-03-22  Dialog
+71 781 5312  Bt Wroclaw      Grabiszynska 18-20                                   		2002-08-10  Dialog
+71 781 5313  Bt Wroclaw      Kolejowa / pl. Rozjezdny                             		2002-03-22  Dialog
+71 781 5315  Bt Wroclaw      Drobnera 6                                           		2002-03-22  Dialog
+71 781 5317  Bt Wroclaw      Dubois 7                                             		2002-03-22  Dialog
+71 781 5330  Bt Wroclaw      Sw. Macieja ^Henryka Probusa                         		2002-03-22  Dialog
+71 781 5333  Bt Wroclaw      Drobnera / Wladyslawa Lokietka #3/3                  		2002-04-04  Dialog
+71 781 5357  Bt Wroclaw      pl. Legionow, Pilsudskiego / Grabiszynska 9 #1/3     		2002-08-04  Dialog
+71 781 5358  Bt Wroclaw      Zaporoska / Grabiszynska (przy skrzyzowaniu)         		2002-08-10  Dialog
+71 781 5359  Bt Wroclaw      Pilsudskiego 1 #2/2                                  		2002-08-10  Dialog
+71 781 5360  Bt Wroclaw      Pilsudskiego 1 #1/2                                  		2002-08-10  Dialog
+71 781 5361  Bt Wroclaw      Zaporoska / Grabiszynska (przy wiadukcie)            		2002-08-10  Dialog
+71 781 5363  Bt Wroclaw      pl. 1 Maja 3 (przed "Cuprum")                        		2002-08-10  Dialog
+71 781 5392  Bt Wroclaw      Boguslawskiego ^Dworzec PKP #1/2                     		2002-08-10  Dialog
+71 781 5393  Bt Wroclaw      Boguslawskiego ^Dworzec PKP #2/2                     		2002-08-10  Dialog
+71 781 5394  Bt Wroclaw      Dworzec Gl. PKP, wejscie zach. #2/2                  		2002-08-10  Dialog
+71 781 5395  Bt Wroclaw      Dworzec Gl. PKP, wejscie zach. #1/2                 		2002-08-10  Dialog
+71 781 5396  Bt Wroclaw      Sucha, ^Dworzec Gl. PKP #2/2                         		2002-08-10  Dialog
+71 781 5397  Bt Wroclaw      Sucha, ^Dworzec Gl. PKP #1/2                         		2002-08-10  Dialog
+71 781 5398  Bt Wroclaw      ~Dworzec Gl. PKP, wylot tunelu wsch. ~poczta #2/2    		2002-07-29  Dialog
+71 781 5399  Bt Wroclaw      ~Dworzec Gl. PKP, wylot tunelu wsch. ~poczta #1/2    		2002-07-29  Dialog
+71 801 0000 +Ni Bielany Wr.  "Castorama", wyjscie, przedsionek @                  		2001-10-03  TP
+71 801 0001  Ni Bielany Wr.  "Castorama", wejscie, przedsionek @                  		2001-10-03  TP
+71 801 0004  Jt Bielany Wr.  "Ikea" przy wejsciu @                                		2001-04-04  TP
+71 801 0006  Jt Bielany Wr.  "Ikea" bar @                                         		2002-04-04  TP
+71 801 0011  Si Bielany Wr.  "Tesco" galeria polnocna, cz. zachodnia *4 @         		2001-10-03  TP
+71 801 0012  Ni Bielany Wr.  "Tesco" galeria polnocna, cz. wschodnia *4 @         		2001-10-03  TP
+71 801 0013  Ni Bielany Wr.  "Tesco" galeria polnocna, cz. zachodnia *4 @         		2001-10-03  TP
+71 801 0014  Ni Bielany Wr.  "Tesco" galeria polnocna, cz. zachodnia *4 @         		2001-10-03  TP
+71 801 0015  Si Bielany Wr.  "Tesco" galeria polnocna, cz. wschodnia *4 @         		2001-10-03  TP
+71 801 0016  Si Bielany Wr.  "Tesco" galeria polnocna, cz. zachodnia *4 @         		2001-10-03  TP
+71 801 0017  Si Bielany Wr.  "Tesco" galeria polnocna, cz. wschodnia *4 @         		2001-10-03  TP
+71 801 0018  Ni Bielany Wr.  "Tesco" galeria polnocna, cz. wschodnia *4 @         		2001-10-03  TP
+71 801 0019  Jt Bielany Wr.  "Tesco" galeria poludniowa, cz. wschodnia *4 @       		2002-04-05  TP
+71 801 0020  Si Bielany Wr.  "Tesco" galeria poludniowa, cz. wschodnia *4 @       		2002-04-05  TP
+71 801 0021  Ni Bielany Wr.  "Tesco" galeria poludniowa, cz. zachodnia *4 @       		2001-10-03  TP
+71 801 0022  Si Bielany Wr.  "Tesco" galeria poludniowa, cz. zachodnia *4 @       		2001-10-03  TP
+71 801 0023  Jt Bielany Wr.  "Tesco" galeria poludniowa, cz. wschodnia *4 @       		2002-04-05  TP
+71 801 0024  Jt Bielany Wr.  "Tesco" galeria poludniowa, cz. wschodnia *4 @       		2002-04-05  TP
+71 801 0025  Si Bielany Wr.  "Tesco" galeria poludniowa, cz. zachodnia *4 @       		2001-10-03  TP
+71 801 0026  Ni Bielany Wr.  "Tesco" galeria poludniowa, cz. zachodnia *4 @       		2001-10-03  TP
+71 801 0027  Ni Bielany Wr.  przystanek autobusowy ~"Tesco"                       		2001-10-03  TP
+71 801 0028  Si Bielany Wr.  przystanek autobusowy ~"Obi"                         		2001-10-03  TP
+71 801 0029  Ni Bielany Wr.  przystanek autobusowy ~"Ikea"                        		2001-10-03  TP
+71 801 0042 +Si Dlugoleka    Stacja paliwowa "Dex"                                		2001-10-11  TP
+71 801 0053  Jt Wroclaw      Komandorska ~DH "Arena" #1/2                         		2002-03-31  TP
+71 801 0068  Jt Wroclaw      Komandorska / Radosna #2/2                           		2002-03-31  TP
+71 801 0069  Jt Wroclaw      Wielka / Kamienna #2/2                               		2002-03-31  TP
+71 801 0083  Ni Wroclaw      Kamienna / pl. Powstancow Sl. *2 [rondo]             		2001-06-09  TP
+71 801 0084  Jt Wroclaw      Kamienna / pl. Powstancow Sl. *2 [Drukarska]         		2002-03-31  TP
+71 801 0088  Ni Wroclaw      Wielka / Powstancow Sl. #1/2                         		2001-06-09  TP
+71 801 0090  Ni Wroclaw      Wielka / Powstancow Sl. #2/2                         		2001-06-09  TP
+71 801 0105  Ni Wroclaw      Dworzec Centr. PKS, ~wejscie pn, przedsionek #1/2 @  	        2001-10-03  TP
+71 801 0106  Ni Wroclaw      Dworzec Centr. PKS, ~wejscie pd #1/2 @               		2001-10-03  TP
+71 801 0107  Si Wroclaw      Dworzec Centr. PKS, ~wejscie pn, przedsionek #2/2 @  	        2001-10-03  TP
+71 801 0108  Si Wroclaw      Dworzec Centr. PKS, ~wejscie pd #2/2 @               		2001-10-03  TP
+71 801 0114  Si Wroclaw      Slezna / Wisniowa, CPN                               		2001-07-02  TP
+71 801 0125  Si Wroclaw      Krakowska / Na Niskich Lakach #1/2                   		2001-09-08  TP
+71 801 0128  Si Wroclaw      Krakowska / Na Niskich Lakach #2/2                   		2001-09-08  TP
+71 801 0149  Si Wroclaw      Krakowska, "Praktiker" | "Sconto"                    		2001-09-15  TP
+71 801 0152 +Si Wroclaw      Krakowska, st.p.                                     		2001-09-08  TP
+71 801 0153  St Wroclaw      Pilsudskiego 12 / pl. Legionow #2/3                  		2002-08-10  TP
+71 801 0154  Jt Wroclaw      Zytnia / Grabiszynska *2 [Grabiszynska]              		2002-08-10  TP
+71 801 0155  Jt Wroclaw      Pilsudskiego 12 / pl. Legionow #1/3                  		2002-08-10  TP
+71 801 0159  Jt Wroclaw      Zytnia / Grabiszynska *2 [Zytnia]                    		2002-08-10  TP
+71 801 0160  Ni Wroclaw      pl. Rozjezdny ^Prosta #2/2                           		2001-06-22  TP
+71 801 0165  Si Wroclaw      Zielinskiego ~targowisko; #2/3                       		2001-05-18  TP
+71 801 0170  St Wroclaw      pl. Muzealny / Kosciuszki 2                          		2002-04-04  TP
+71 801 0172  Ni Wroclaw      pl. Legionow, Pilsudskiego / Grabiszynska 9 #3/3     		2002-08-04  TP
+71 801 0173  Jt Wroclaw      pl. Legionow, Pilsudskiego / Grabiszynska 9 #2/3     		2002-08-04  TP
+71 801 0174  Ni Wroclaw      Pilsudskiego 12 / pl. Legionow #3/3                  		2002-08-10  TP
+71 801 0175  Ni Wroclaw      Lelewela / Pilsudskiego                              		2001-05-10  TP
+71 801 0179  Si Wroclaw      Zielinskiego ~targowisko; #1/3                       		2001-05-18  TP
+71 801 0182  Ni Wroclaw      Sadowa 8, przychodnia, korytarz @                    		2002-08-10  TP
+71 801 0184  Jt Wroclaw      Zielinskiego ~targowisko; #3/3                       		2002-03-22  TP
+71 801 0185  Ni Wroclaw      pl. Rozjezdny ^Prosta #1/2                           		2001-06-22  TP
+71 801 0186  Jt Wroclaw      Pilsudskiego / Teczowa #2/2                          		2002-08-10  TP
+71 801 0187  Ni Wroclaw      Pilsudskiego / Teczowa #1/2                          		2002-08-10  TP
+71 801 0197  Si Wroclaw      Uniwersytecka 13                                     		2002-03-27  TP
+71 801 0200  Si Wroclaw      Swidnicka / Rynek, UP 32                             		2001-05-15  TP
+71 801 0205 +Ni Wroclaw      Rynek DH "Feniks", parter, na filarze @              		2001-05-15  TP
+71 801 0206  Si Wroclaw      Dworzec Gl. PKP, wejscie glowne, str. wsch. #2/3 @   		2001-05-20  TP
+71 801 0207  Si Wroclaw      Dworzec Gl. PKP, wejscie glowne, str. zach. #2/3 @   		2001-05-20  TP
+71 801 0208  Ni Wroclaw      Pilsudskiego 66, Hotel "Polonia", przedsionek @      		2001-10-02  TP
+71 801 0210  Jt Wroclaw      ~Dworzec Gl. PKP, przejscie do UP1, kabina #2/2      		2002-07-29  TP
+71 801 0210  Si Wroclaw      Pilsudskiego przy UP2, budka ^st. paliw #2/2         		2001-10-03  TP
+71 801 0212  Si Wroclaw      Dworzec Gl. PKP, wejscie glowne, str. zach. #1/3 @   		2001-05-20  TP
+71 801 0213  Jt Wroclaw      Stwosza 33-35, I Oddzial PKO BP ~winda @             		2002-08-10  TP
+71 801 0215  Ni Wroclaw      Podwale, DH "Podwale", parter @                      		2002-08-10  TP
+71 801 0216  Ni Wroclaw      Malachowskiego, UP2 @ #1/3                           		2002-08-01  TP
+71 801 0220  Ni Wroclaw      ~Dworzec Gl. PKP, przejscie do UP1, kabina #1/2      		2002-07-29  TP
+71 801 0220  Si Wroclaw      Pilsudskiego przy UP2, budka ^st. paliw #1/2         		2001-10-03  TP
+71 801 0221  Ni Wroclaw      Ofiar Oswiecimskich 41-43, holl NBP/KB @             		2001-06-26  TP
+71 801 0227  Si Wroclaw      Baluckiego / Pilsudskiego                            		2002-03-24  TP
+71 801 0232  Si Wroclaw      Dworzec Gl. PKP, wejscie glowne, str. zach. #3/3 @   		2001-05-20  TP
+71 801 0237  Si Wroclaw      Dworzec Gl. PKP, hala, wsch. kraniec #1/2 @          		2001-05-20  TP
+71 801 0238  Si Wroclaw      Malachowskiego, przy UP2, #1/4                       		2001-09-12  TP
+71 801 0238  St Wroclaw      Malachowskiego ~UP2 #1/4                             		2002-08-30  TP
+71 801 0240  St Wroclaw      Malachowskiego ~UP2 #2/4                             		2002-07-29  TP
+71 801 0242  Si Wroclaw      Swidnicka / Rynek, ~UP 32; #2/2                      		2001-05-14  TP
+71 801 0243  Si Wroclaw      Swidnicka / Pilsudskiego #2/5                        		2001-05-23  TP
+71 801 0249  Si Wroclaw      Swidnicka / Rynek, przy UP 32 #1/2                   		2001-05-14  TP
+71 801 0250  Si Wroclaw      Dworzec Gl. PKP, wejscie glowne [wsch] #3/3 @        		2001-05-20  TP
+71 801 0252  Jt Wroclaw      pl. Kosciuszki / Swidnicka #1/4                      		2002-04-04  TP
+71 801 0255  Ni Wroclaw      Zapolskiej 4, biurowiec, kabina, parter @            		2001-10-10  TP
+71 801 0258  Jt Wroclaw      Malachowskiego, UP2 @ #3/3                           		2002-08-01  TP
+71 801 0263 -Ni Wroclaw      Hotel Wroclaw ^stacja paliwowa                       		2001-06-09  TP
+71 801 0266  Si Wroclaw      pl. Kosciuszki / Swidnicka #2/4                      		2001-10-04  TP
+71 801 0272  Ni Wroclaw      Malachowskiego, UP2 @ #2/3                           		2002-08-01  TP
+71 801 0273  Zi Wroclaw      Kazimierza Wielkiego 9 / ul. Ruska #2/3              		2001-05-13  TP
+71 801 0275  Zi Wroclaw      Ruska 37-38, DH "Domar" ~winda @                     		2001-08-31  TP
+71 801 0277  Si Wroclaw      Dworzec Gl. PKP, hala, filar przy kinie #1/2 @       		2001-05-10  TP
+71 801 0278  Si Wroclaw      Dworzec Gl. PKP, wejscie glowne [wsch] #1/3 @        		2001-05-20  TP
+71 801 0280  Ni Wroclaw      Stwosza, przedsionek 3 sali PKOBP @                  		2001-05-15  TP
+71 801 0282  St Wroclaw      pl. Kosciuszki, Bank BZWBK @                         		2002-08-10  TP
+71 801 0283  St Wroclaw      Malachowskiego ~UP2 #3/4                             		2002-07-29  TP
+71 801 0284  St Wroclaw      Malachowskiego ~UP2 #4/4                             		2002-07-29  TP
+71 801 0285  Si Wroclaw      Rynek Ratusz 7-9, od str. zach. #1/3*6               		2001-05-11  TP
+71 801 0286  Jt Wroclaw      Rynek Ratusz 7-9, od str. wsch. #3/3*6               		2001-05-15  TP
+71 801 0287  Si Wroclaw      Dworzec Gl. PKP, hala, wsch. kraniec #2/2 @          		2001-05-20  TP
+71 801 0296  Jt Wroclaw      Hala Targowa, parter, #1/3 @                         		2001-09-28  TP
+71 801 0297  Si Wroclaw      Hala Targowa, parter, #2/3 @                         		2001-09-28  TP
+71 801 0298  Si Wroclaw      Dworzec Gl. PKP, hala, filar przy kinie #2/2 @       		2001-05-10  TP
+71 801 0302  Si Wroclaw      Swidnicka / Pilsudskiego #3/5                        		2001-05-23  TP
+71 801 0303  Si Wroclaw      pl. Kosciuszki / Swidnicka #3/4                      		2001-10-04  TP
+71 801 0304  Zi Wroclaw      Rzeznicza 28, brama przy UP 3                        		2001-05-16  TP
+71 801 0308  Ni Wroclaw      Sadowa 1, westybul sadu #1/2                         		2002-07-31  TP
+71 801 0309  Si Wroclaw      Swidnicka / Pilsudskiego #4/5                        		2001-05-23  TP
+71 801 0310  Si Wroclaw      pl. Kosciuszki / Swidnicka #4/4                      		2001-10-04  TP
+71 801 0311  Ni Wroclaw      Sukiennice 9, parter Urzedu Miasta @                 		2001-06-06  TP
+71 801 0314  Si Wroclaw      Pilsudskiego 43 ~Zapolskiej                          		2002-03-22  TP
+71 801 0316  Jt Wroclaw      Pilsudskiego / Podwale, stare koszary #2/2           		2002-08-10  TP
+71 801 0317  Ni Wroclaw      Sukiennice 10, parter Urzedu Miasta @                		2001-06-06  TP
+71 801 0319  Ni Wroclaw      Dabrowskiego (bank i Urzad Skarbowy) @               		2001-08-26  TP
+71 801 0321  Si Wroclaw      Swidnicka / Pilsudskiego #5/5                        		2001-05-23  TP
+71 801 0323  St Wroclaw      Pilsudskiego / Podwale, stare koszary #1/2           		2002-08-10  TP
+71 801 0324  Si Wroclaw      Kosciuszki ~Kollataja 8 #1/3                         		2001-06-06  TP
+71 801 0325  Jt Wroclaw      Pilsudskiego 45, Wydzial Komunikacji @               		2001-10-10  TP
+71 801 0326  Si Wroclaw      Kosciuszki ~Kollataja 8 #2/3                         		2001-06-06  TP
+71 801 0327  Ni Wroclaw      Chorzowska 8                                         		2001-07-08  TP
+71 801 0328  Ni Wroclaw      Tarnogorska / Opolska #1/3                           		2001-07-08  TP
+71 801 0329  Ni Wroclaw      Tarnogorska / Opolska #2/3                           		2001-07-08  TP
+71 801 0330  Ni Wroclaw      Tarnogorska / Opolska #3/3                           		2001-07-08  TP
+71 801 0335  Si Wroclaw      Monte Cassino 77 / Dembowskiego                      		2001-10-11  TP
+71 801 0344  Ni Wroclaw      Koreanska / Chinska [Koreanska] *2                   		2001-07-08  TP
+71 801 0350  Ni Wroclaw      Semaforowa 1 / Moscickiego [Moscickiego] *2          		2001-07-08  TP
+71 801 0353  Ni Wroclaw      Ziemniaczana 4                                       		2001-07-08  TP
+71 801 0355  Ni Wroclaw      Opolska 65 / Katowicka [Katowicka]  ???              		2001-07-08  TP
+71 801 0355  Ni Wroclaw      Semaforowa 1 / Moscickiego [Semaforowa] *2 ???       	        2001-07-08  TP
+71 801 0356  Ni Wroclaw      Koreanska / Chinska [Chinska] *2                     		2001-07-08  TP
+71 801 0358  Ni Wroclaw      Sempolowskiej 64A, apteka "Biskupin"                 		2001-10-11  TP
+71 801 0360  Ni Wroclaw      Bacciarellego 17                                     		2001-10-11  TP
+71 801 0362  Ni Wroclaw      Promien 41 [Dembowskiego 55]                         		2001-06-10  TP
+71 801 0365  Si Wroclaw      Olszewskiego 69 / Orlowskiego [centrum] *2           		2001-06-10  TP
+71 801 0367  Ni Wroclaw      Sempolowskiej 63                                     		2001-10-11  TP
+71 801 0379 +Ni Wroclaw      Hetmanska 2                                          		2002-08-10  TP
+71 801 0380  Ni Wroclaw      Wilanowska 21 *2 [Irkucka]                           		2002-08-10  TP
+71 801 0381  Ni Wroclaw      Okulickiego / Zatorska [Okulickiego] *2              		2001-05-19  TP
+71 801 0382  St Wroclaw      Wilanowska 21 *2 ["Biedronka"]                       		2002-08-10  TP
+71 801 0384  Ni Wroclaw      Okulickiego / Zatorska [Zatorska] *2                 		2001-05-19  TP
+71 801 0398  Ni Wroclaw      Boleslawa Krzywoustego 308-310                       		2002-08-07  TP
+71 801 0403  Ni Wroclaw      Bierutowska 2 ^Bierutowska 1                         		2001-06-09  TP
+71 801 0406  Ni Wroclaw      Boleslawa Krzywoustego 309                           		2001-06-09  TP
+71 801 0416 -Zi Wroclaw      Wiejska 2 / Karmelkowa                               		2001-07-10  TP
+71 801 0419 -Zi Wroclaw      Solskiego 34A / Darwina                              		2001-07-10  TP
+71 801 0440  Ni Wroclaw      Powstancow Sl. / Radosna #2/2                        		2001-06-09  TP
+71 801 0441  Ni Wroclaw      Powstancow Sl. / Radosna #1/2                        		2001-06-09  TP
+71 801 0456  Ni Wroclaw      ZOO, ~wejscie glowne #1/4 @                          		2001-05-26  TP
+71 801 0460  Ni Wroclaw      Olszewskiego 109 / Pankiewicza *2 [Pankiewicza]      		2001-06-10  TP
+71 801 0472  Ni Wroclaw      Olszewskiego 109 / Pankiewicza *2 [Stanislawskiego]  	        2001-06-10  TP
+71 801 0477  Ni Wroclaw      ZOO, ~wejscie zachodne @                             		2001-05-26  TP
+71 801 0480  Jt Wroclaw      Hala Ludowa, szatnia na parterze (lewe skrzydlo)     		2001-06-10  TP
+71 801 0492  Ni Wroclaw      ZOO, ~wejscie glowe #3/4 @                           		2001-05-26  TP
+71 801 0494  Ni Wroclaw      ZOO, ~wejscie glowe #4/4 @                           		2001-05-26  TP
+71 801 0498  Ni Wroclaw      ZOO, ~wejscie glowe #2/4 @                           		2001-05-26  TP
+71 801 0499  Ni Wroclaw      Partyzantow 72 *2 [Pierwszej Dywizji]                		2001-06-10  TP
+71 801 0500 +Ni Wroclaw      Partyzantow 72 *2 [Warynskiego]                      		2001-06-10  TP
+71 801 0505 +Ni Wroclaw      Hala Ludowa | pergola #1/2                           		2001-06-10  TP
+71 801 0506 -Ni Wroclaw      Hala Ludowa | pergola #2/2                           		2001-06-10  TP
+71 801 0507  Si Wroclaw      Tramwajowa 2 / Olszewskiego #1/2                     		2001-06-10  TP
+71 801 0510  Ni Wroclaw      Olszewskiego ~Stadion KS "Sleza"                     		2001-06-10  TP
+71 801 0512  Si Wroclaw      Hala Ludowa ~iglica (niebieska budka)                		2001-06-10  TP
+71 801 0515 -Zi Wroclaw      Partyzantow 25 / Okrzei *2 [Partyzantow]             		2001-06-10  TP
+71 801 0526  Ni Wroclaw      Kochanowskiego / Rozyckiego *2 [Kochanowskiego]      	        2001-08-20  TP
+71 801 0532  Si Wroclaw      Kochanowskiego / Rozyckiego *2 [Rozyckiego]          		2001-08-20  TP
+71 801 0559  Ni Wroclaw      Tramwajowa 2B, DS "Pancernik", portiernia @          		2001-06-10  TP
+71 801 0572  Si Wroclaw      Slezna / Armii Krajowej, CPN                         		2001-07-02  TP
+71 801 0594  Jt Wroclaw      Podwale 30, Sad, lewy filar @                        		2002-03-29  TP
+71 801 0604  Ni Wroclaw      Kosciuszki / Dabrowskiego *2 [Kosciuszki]            		2002-04-04  TP
+71 801 0607  Ni Wroclaw      Podwale 30, Sad, prawy filar @                       		2002-03-29  TP
+71 801 0619  Si Wroclaw      Wlodkowica, sciana Urzedu Stanu Cywilnego            		2001-05-13  TP
+71 801 0620  Ni Wroclaw      Wlodkowica 16, "Vita", polpietro @                   		2001-08-24  TP
+71 801 0626  Jt Wroclaw      Sadowa 1, westybul sadu #2/2                         		2002-07-31  TP
+71 801 0628  Ni Wroclaw      Pilsudskiego, "KFC" czerwona budka @                 		2001-10-06  TP
+71 801 0631  Ni Wroclaw      pl. Solny, podziemny WC (damski) @                   		2001-06-30  TP
+71 801 0633  Ni Wroclaw      Szewska, DH "Kameleon" 2p. @                         		2001-10-04  TP
+71 801 0634  Ni Wroclaw      Szewska, DH "Kameleon" 3p. @                         		2001-10-04  TP
+71 801 0636  Si Wroclaw      Traugutta / Krasinskiego ~Poczta Glowna #2/2         		2001-06-26  TP
+71 801 0640  Si Wroclaw      Traugutta 1-7 "Zremb", przedsionek @                 		2001-06-26  TP
+71 801 0642  Si Wroclaw      Kollataja / Podwale #2/2                             		2001-06-06  TP
+71 801 0643  Si Wroclaw      Kollataja / Podwale #1/2                             		2001-06-06  TP
+71 801 0646  Si Wroclaw      Dworzec Gl. PKP, hala, zach. kraniec #1/5 @          		2001-05-10  TP
+71 801 0647  Si Wroclaw      Dworzec Gl. PKP, hala, zach. kraniec #2/5 @          		2001-05-10  TP
+71 801 0648  Si Wroclaw      Dworzec Gl. PKP, hala, zach. kraniec #3/5 @          		2001-05-10  TP
+71 801 0649  Si Wroclaw      Dworzec Gl. PKP, hala, zach. kraniec #4/5 @          		2001-05-10  TP
+71 801 0650  Si Wroclaw      Dworzec Gl. PKP, hala, zach. kraniec #5/5 @          		2001-05-10  TP
+71 801 0656  Si Wroclaw      pl. Nowy Targ 21 #2/2                                		2001-06-10  TP
+71 801 0657  Si Wroclaw      pl. Nowy Targ 21 #1/2                                		2001-06-10  TP
+71 801 0658  Jt Wroclaw      pl. Dominikanski / Olawska #2/2                      		2002-07-31  TP
+71 801 0659  Si Wroclaw      pl. Dominikanski / Olawska #1/2                      		2001-06-06  TP
+71 801 0670  Ni Wroclaw      Olawska 15, "Vita", parter, korytarz @               		2001-10-10  TP
+71 801 0677  Si Wroclaw      Hala Targowa, parter, #3/3 @                         		2001-09-28  TP
+71 801 0691  St Wroclaw      Dworzec Gl. PKP, peron 3 srodek, zach.               		2002-04-04  TP
+71 801 0695  Jt Wroclaw      Rynek Ratusz 7-9, od str. wsch. *6  #2/3             		2001-05-15  TP
+71 801 0700  Si Wroclaw      Traugutta ~Krasinskiego ~Zremb #2/2                  		2001-06-26  TP
+71 801 0701  Si Wroclaw      Traugutta ~Krasinskiego ~Zremb #1/2                  		2001-06-26  TP
+71 801 0702  Ni Wroclaw      pl. Wroblewskiego / Pulaskiego #1/2                  		2001-09-08  TP
+71 801 0703  Ni Wroclaw      pl. Wroblewskiego / Pulaskiego #2/2                  		2001-09-08  TP
+71 801 0704  Si Wroclaw      Rynek ~pomnik Fredry *6 [pomnik] #2/3                		2001-05-22  TP
+71 801 0705  Si Wroclaw      Rynek ~pomnik Fredry *6 [Sukiennice] #2/3            		2001-05-22  TP
+71 801 0706  Si Wroclaw      Rynek ~pomnik Fredry *6 [pomnik] #3/3                		2001-05-21  TP
+71 801 0707  Si Wroclaw      Rynek ~pomnik Fredry *6 [Sukiennice] #1/3            		2001-05-21  TP
+71 801 0708  Si Wroclaw      Rynek ~pomnik Fredry *6 [Sukiennice] #3/3            		2001-05-22  TP
+71 801 0709  Si Wroclaw      Rynek ~pomnik Fredry *6 [pomnik] #1/3                		2001-05-22  TP
+71 801 0710  Si Wroclaw      pl. Solny, wiezyczka zegarowo-wentylacyjna #1/2      		2001-05-13  TP
+71 801 0714  Ni Wroclaw      Czysta 2-4, targowisko                               		2001-06-06  TP
+71 801 0716  Si Wroclaw      Krupnicza / pl. Wolnosci *2 [Kazimierza Wielkiego]   		2001-05-09  TP
+71 801 0717  Si Wroclaw      Krupnicza / pl. Wolnosci *2 [Podwale]                		2001-05-09  TP
+71 801 0723  St Wroclaw      Pilsudskiego 85 ^NOT *2 [Komandorska]                		2002-08-10  TP
+71 801 0724  Ni Wroclaw      Pilsudskiego 85 ^NOT *2 [Stawowa]                    		2002-08-10  TP
+71 801 0726  Ni Wroclaw      Kazimierza Wielkiego 9 / ul. Ruska #3/3              		2001-05-13  TP
+71 801 0727  Ni Wroclaw      Kazimierza Wielkiego 9 / ul. Ruska #1/3              		2001-05-13  TP
+71 801 0728  Si Wroclaw      Dworzec Gl. PKP, peron 2 srodek *2 zach.             		2001-10-04  TP
+71 801 0729  Si Wroclaw      pl. Solny, wiezyczka zegarowo-wentylacyjna #2/2      		2001-05-13  TP
+71 801 0730  Si Wroclaw      Dworzec Gl. PKP, peron 1 srodek *2 pd.               		2001-10-04  TP
+71 801 0731  Si Wroclaw      Dworzec Gl. PKP, peron 4 srodek                      		2001-09-12  TP
+71 801 0732  Si Wroclaw      Dworzec Gl. PKP, peron 5 @                           		2001-10-03  TP
+71 801 0734  Si Wroclaw      Bernardynska 4 / Purkynego, na TP SA #1/2            		2001-09-27  TP
+71 801 0735  Si Wroclaw      Bernardynska 4 / Purkynego, na TP SA #2/2            		2001-09-27  TP
+71 801 0748  Si Wroclaw      Dworzec Gl. PKP, peron 2 srodek *2 wsch.             		2001-10-04  TP
+71 801 0749  Si Wroclaw      Dworzec Gl. PKP, peron 3 przy zejsciu wsch.          		2001-05-10  TP
+71 801 0750  Si Wroclaw      Dworzec Gl. PKP, peron 3 od strony peronu 4          		2001-05-07  TP
+71 801 0753  Si Wroclaw      Dworzec Gl. PKP, peron 1 srodek *2 pn.               		2001-10-04  TP
+71 801 0754  Si Wroclaw      Pilsudskiego, przed Dworcem Gl. PKP #1/8             		2001-10-04  TP
+71 801 0755  Jt Wroclaw      Pilsudskiego, przed Dworcem Gl. PKP #2/8             		2001-10-04  TP
+71 801 0757  Jt Wroclaw      Pilsudskiego, przed Dworcem Gl. PKP #4/8             		2001-10-04  TP
+71 801 0758  Si Wroclaw      Pilsudskiego, przed Dworcem Gl. PKP #5/8             		2001-10-04  TP
+71 801 0760  Si Wroclaw      Pilsudskiego, przed Dworcem Gl. PKP #7/8             		2001-10-04  TP
+71 801 0762  Jt Wroclaw      Pilsudskiego, przed Dworcem Gl. PKP #8/8             		2001-10-04  TP
+71 801 0763  Jt Wroclaw      Swidnicka, Opera | fosa #1/4                         		2001-09-27  TP
+71 801 0764  Si Wroclaw      Swidnicka, Opera | fosa #2/4                         		2001-05-13  TP
+71 801 0765  Si Wroclaw      Swidnicka, Opera | fosa #3/4                         		2001-05-13  TP
+71 801 0766  Si Wroclaw      Swidnicka, Opera | fosa #4/4                         		2001-05-13  TP
+71 801 0767  St Wroclaw      Dworcowa / Malachowskiego #1/2                       		2002-08-30  TP
+71 801 0768  St Wroclaw      Dworcowa / Malachowskiego #2/2                       		2002-08-30  TP
+71 801 0769  Si Wroclaw      Stawowa / Pilsudskiego #1/2                          		2001-05-10  TP
+71 801 0770  Si Wroclaw      Stawowa / Pilsudskiego #2/2                          		2001-05-10  TP
+71 801 0773  Si Wroclaw      Szewska / Stwosza #1/2                               		2001-05-23  TP
+71 801 0774  Jt Wroclaw      Szewska / Stwosza #2/2                               		2001-09-28  TP
+71 801 0775  Jt Wroclaw      Stwosza / Bl. Czeslawa #2/2                          		2002-08-10  TP
+71 801 0776  St Wroclaw      Stwosza / Bl. Czeslawa #1/2                          		2002-08-10  TP
+71 801 0777  Si Wroclaw      Swidnicka / Pilsudskiego #1/5                        		2001-05-23  TP
+71 801 0778  Si Wroclaw      Kosciuszki ~Kollataja 8 #3/3                         		2001-06-06  TP
+71 801 0779  Si Wroclaw      ^Kosciuszki 59 / Kollataja #2/2                      		2001-06-06  TP
+71 801 0780  Si Wroclaw      ^Kosciuszki 59 / Kollataja #1/2                      		2001-06-06  TP
+71 801 0800 +Ni Wroclaw      Brochowska 21                                        		2001-07-08  TP
+71 801 1506  Jt Wroclaw      "Galeria Dominikanska", wyjscie na parking, 2p. pd @ 		2001-10-02  TP
+71 801 2474  Jt Wroclaw      "Galeria Dominikanska", wyjscie na parking, 2p. pn @ 		2001-10-02  TP
+71 801 3308  Jt Wroclaw      "Galeria Dominikanska", wyjscie na parking, 4p. pn @ 		2001-10-02  TP
+71 801 6263  Jt Wroclaw      "Galeria Dominikanska", obok WC, -1p. #2/2 @         		2001-10-03  TP
+71 801 7514  Jt Wroclaw      "Galeria Dominikanska", wyjscie na parking, 3p. pn @ 		2001-10-02  TP
+71 801 7956  Jt Wroclaw      "Galeria Dominikanska", wyjscie na parking, 3p. pd @ 		2001-10-02  TP
+71 801 8806  Jt Wroclaw      "Galeria Dominikanska", wyjscie na parking, 4p. pd @ 		2001-10-02  TP
+71 801 8982  Jt Wroclaw      "Galeria Dominikanska", obok WC, -1p. #1/2 @         		2001-10-03  TP
+71 802 0011  Ni Sobotka Z.   Swidnicka 49 / Zamkowa                               		2001-10-01  TP
+71 802 0081 +Ni Sobotka      Rynek 8                                              		2001-10-01  TP
+71 802 0084  Ni Sobotka      Kosciuszki 2 / Rynek, ~Osr. Pomocy Spolecznej        		2001-10-01  TP
+71 802 0087 +Ni Rogow Sob.   Wroclawska 49 ^magazyn zbozowy                       		2001-10-01  TP
+71 802 0088  Ni Sobotka      Sw. Jakuba 30                                        		2001-10-01  TP
+71 802 0091  Ni Sobotka Z.   Zmorskiego / Chwalkowska                             		2001-10-01  TP
+71 802 0156  Ni Wroclaw      Grabiszynska 240/6, UP63, kabina #2/2 @              		2001-09-03  TP
+71 802 0157  Zi Wroclaw      Grabiszynska 240/6, UP63, kabina #1/2 @              		2001-09-03  TP
+71 802 0162  Ni Wroclaw      Grabiszynska 240 / Hallera #1/5                      		2001-06-24  TP
+71 802 0163  Ni Wroclaw      Grabiszynska 240 / Hallera #2/5                      		2001-06-24  TP
+71 802 0164  Ni Wroclaw      Grabiszynska 240 / Hallera #3/5                      		2001-06-24  TP
+71 802 0165  Ni Wroclaw      Grabiszynska 240 / Hallera #4/5                      		2001-06-24  TP
+71 802 0166  Ni Wroclaw      Grabiszynska 240 / Hallera #5/5                      		2001-06-24  TP
+71 802 0167  Ni Wroclaw      Hallera 157 #5/5                                     		2001-09-03  TP
+71 802 0168  Ni Wroclaw      Hallera 157 #4/5                                     		2001-09-03  TP
+71 802 0169  Ni Wroclaw      Hallera 157 #3/5                                     		2001-09-03  TP
+71 802 0170  Ni Wroclaw      Hallera 157 #2/5                                     		2001-09-03  TP
+71 802 0171  Ni Wroclaw      Hallera 157 #1/5                                     		2001-09-03  TP
+71 802 0175 +Si Wroclaw      Grabiszynska 184, portiernia zajezdni autob. MPK     		2001-06-24  TP
+71 802 0178  Ni Wroclaw      Pereca / Lubuska #5/5                                		2001-05-16  TP
+71 802 0179  Jt Wroclaw      Pereca / Lubuska #4/5                                		2001-09-13  TP
+71 802 0180  Jt Wroclaw      Grabiszynska / Spizowa #2/2                          		2002-04-04  TP
+71 802 0181  Ni Wroclaw      Grabiszynska / Spizowa #1/2                          		2002-04-04  TP
+71 802 0182  Ni Wroclaw      Grabiszynska 142 / Stalowa #3/3                      		2001-05-24  TP
+71 802 0195  Jt Wroclaw      pl. Hirszfelda 16, lokal gastronom. obok poczty @    		2002-03-31  TP
+71 802 0246  Si Wroclaw      Pereca 26-28, UP38, kabina#2/2 @                     		2001-05-16  TP
+71 802 0247  Jt Wroclaw      Pereca / Zelazna ~UP38; *2 [Zelazna]                 		2002-08-02  TP
+71 802 0248  Jt Wroclaw      Pereca / Lubuska #1/5                                		2001-09-13  TP
+71 802 0251  Ni Wroclaw      Grabiszynska 142 / Stalowa #1/3                      		2001-05-24  TP
+71 802 0252  Ni Wroclaw      Grabiszynska 142 / Stalowa #2/3                      		2001-05-24  TP
+71 802 0256  Si Wroclaw      Pereca 26-28, UP38, kabina#1/2 @                     		2001-05-16  TP
+71 802 0257  Ni Wroclaw      Pereca / Lubuska #3/5                                		2001-05-16  TP
+71 802 0259  Ni Wroclaw      Stysia 20                                            		2001-05-13  TP
+71 802 0291  Si Wroclaw      pl. Hirszfelda 16 ~poczta                            		2002-03-31  TP
+71 802 0307  Zi Wroclaw      Szczesliwa ^Szczesliwa 34                            		2001-05-16  TP
+71 802 0333  Ni Wroclaw      Gajowicka / Hallera [Gajowicka]                      		2001-10-04  TP
+71 802 0334  Ni Wroclaw      Gajowicka 116 *2 [Pretficza]                         		2001-05-16  TP
+71 802 0338 +Ni Wroclaw      Krucza 59 / Stalowa #1/2                             		2001-06-13  TP
+71 802 0339  Ni Wroclaw      Jemiolowa (targowisko)                               		2002-08-10  TP
+71 802 0340  Si Wroclaw      Pretficza 32, UP 27                                  		2001-05-16  TP
+71 802 0342  Ni Wroclaw      Jemiolowa 74 / Krucza #1/2                           		2001-05-16  TP
+71 802 0343  Ni Wroclaw      Jemiolowa 74 / Krucza #2/2                           		2001-05-16  TP
+71 802 0349  Ni Wroclaw      Wojszycka 23                                         		2001-10-11  TP
+71 802 0355  Si Wroclaw      hipermarket "Carrefour" ~"Sephora" *2 [wc] @         		2001-09-04  TP
+71 802 0356  Si Wroclaw      hipermarket "Carrefour" ^kasa 10 *2 [wejscie]        		2001-09-04  TP
+71 802 0357  Si Wroclaw      hipermarket "Carrefour" ~"Sephora" *2 [wejscie] @    		2001-09-04  TP
+71 802 0358  Si Wroclaw      hipermarket "Carrefour" ^kasa 10 *2 [wc]             		2001-09-04  TP
+71 802 0363  Si Wroclaw      hipermarket "Carrefour" ~kasa nr 43 @                		2001-06-13  TP
+71 802 0365  Jt Wroclaw      Powstancow Sl. / Hallera *2 [Hallera, bank]          		2001-10-04  TP
+71 802 0366  Jt Wroclaw      Powstancow Sl. / Hallera *2 [Powstancow Sl.]         		2001-10-01  TP
+71 802 0367  Si Wroclaw      hipermarket "Carrefour" ~wejscie/recepcja @          		2001-06-13  TP
+71 802 0369  Ni Wroclaw      Pereca / Zelazna ~UP38; *2 [Pereca]                  		2002-08-10  TP
+71 802 0380  Jt Wroclaw      Wielka / Kamienna #1/2                               		2002-03-31  TP
+71 802 0384  Ni Wroclaw      Przestrzenna 2 / Borowska *2 [Borowska]              		2002-04-04  TP
+71 802 0387  St Wroclaw      Borowska 98 / Wieczysta *2 [Wieczysta]               		2002-04-04  TP
+71 802 0388  Ni Wroclaw      Borowska 98 / Wieczysta *2 [Borowska]                		2002-04-04  TP
+71 802 0391  Ni Wroclaw      Sliczna 2 *2 [Borowska]                              		2002-04-04  TP
+71 802 0395  Jt Wroclaw      Komandorska / Radosna #1/2                           		2002-03-31  TP
+71 802 0415  Jt Wroclaw      Komandorska ~DH "Arena" #1/2                         		2002-03-31  TP
+71 802 0416  Si Wroclaw      Swobodna ^"EPI Market" #2/4                          		2001-10-03  TP
+71 802 0417  Jt Wroclaw      Swobodna ^"EPI Market" #3/4                          		2001-10-03  TP
+71 802 0418  Jt Wroclaw      Swobodna ^"EPI Market" #4/4                          		2001-10-03  TP
+71 802 0419  Si Wroclaw      Swobodna ^"EPI Market" #1/4                          		2001-10-03  TP
+71 802 0438  Zi Wroclaw      Grabiszynska 316, przystanek przy Cm. Grabiszynskim  	        2001-06-24  TP
+71 802 0444 +Ni Wroclaw      Jableczna 25, w UP54 @                               		2001-07-02  TP
+71 802 0445  Ni Wroclaw      Jableczna 27                                         		2001-05-20  TP
+71 802 0446  St Wroclaw      Swieradowska 75                                      		2002-08-10  TP
+71 802 0447  Ni Wroclaw      Krynicka 66 ~UP35                                    		2001-05-20  TP
+71 802 0458  Ni Wroclaw      Swieradowska 59 *2  [ulica]                          		2001-05-20  TP
+71 802 0459  Ni Wroclaw      Swieradowska 59 *2  [blok]                           		2001-05-20  TP
+71 802 0499  Ni Wroclaw      Zaporoska 33 / Lwowska                               		2001-06-09  TP
+71 802 0502  Ni Wroclaw      Grochowa ~pomnik, liceum; #1/2                       		2002-08-10  TP
+71 802 0503  Ni Wroclaw      Grochowa ~pomnik, liceum; #2/2                       		2002-08-10  TP
+71 802 0504  Ni Wroclaw      Krucza 59 / Stalowa #2/2                             		2001-06-13  TP
+71 802 0506  Ni Wroclaw      Inzynierska 15 / Bzowa                               		2001-06-24  TP
+71 802 0511  Ni Wroclaw      Gajowicka 130 / Sztabowa                             		2001-10-04  TP
+71 802 0512  Jt Wroclaw      Gajowicka / Hallera [Hallera]                        		2001-10-04  TP
+71 802 0523  Ni Wroclaw      Ostrowskiego 9                                       		2001-06-24  TP
+71 802 0536  Ni Wroclaw      Przestrzenna 2 / Borowska *2 [Przestrzenna]          		2002-04-04  TP
+71 802 0548  Jt Wroclaw      Zaporoska 42 #1/2                                    		2002-03-31  TP
+71 802 0549  Ni Wroclaw      Zaporoska 42 #2/2                                    		2002-03-31  TP
+71 803 0011  Si Wroclaw      pl. Powstancow Wlkp. pd #4/4                         		2001-06-18  TP
+71 803 0029  Si Wroclaw      pl. Powstancow Wlkp. pd #2/4                         		2001-06-18  TP
+71 803 0048  Si Wroclaw      pl. Powstancow Wlkp. pd #3/4                         		2001-06-18  TP
+71 803 0054  Ni Wroclaw      Duboisa 11                                           		2001-07-12  TP
+71 803 0086  Si Wroclaw      Curie-Sklodowskiej 29 / pl. Grunwaldzki #1/4         		2001-06-10  TP
+71 803 0104 +Ni Wroclaw      Lukasiewicza 3-5, przedsionek @                      		2001-09-30  TP
+71 803 0113  Ni Wroclaw      Piastowska / Grunwaldzka *2  [Piastowska]            		2001-06-10  TP
+71 803 0121  Si Wroclaw      Curie-Sklodowskiej / Lukasiewicza #2/2               		2001-06-10  TP
+71 803 0144  Jt Wroclaw      Sienkiewicza 144 *2 [Nowowiejska]                    		2002-08-10  TP
+71 803 0151  Ni Wroclaw      Piastowska / Grunwaldzka *2  [Grunwaldzka]           		2001-06-10  TP
+71 803 0166  Si Wroclaw      Curie-Sklodowskiej 29 / pl. Grunwaldzki #3/4         		2001-06-10  TP
+71 803 0167  Si Wroclaw      Curie-Sklodowskiej / Lukasiewicza #1/2               		2001-06-10  TP
+71 803 0168  Ni Wroclaw      Piastowska 46 #2/2                                   		2001-06-10  TP
+71 803 0189  Ni Wroclaw      Bujwida 44, klinika, przy wejsciu @                  		2002-08-10  TP
+71 803 0191  Ni Wroclaw      Bujwida 44, przed klinika #1/2                       		2002-08-10  TP
+71 803 0192  Ni Wroclaw      Bujwida 44, przed klinika #2/2                       		2002-08-10  TP
+71 803 0194  Ni Wroclaw      Sienkiewicza 144 *2 [Bujwida]                        		2002-08-10  TP
+71 803 0195  Si Wroclaw      Curie-Sklodowskiej 29 / pl. Grunwaldzki #4/4         		2001-06-10  TP
+71 803 0197  Si Wroclaw      Curie-Sklodowskiej 29 / pl. Grunwaldzki #2/4         		2001-06-10  TP
+71 803 0207  Si Wroclaw      Jednosci Narod. / Wyszynskiego #1/2                  		2001-06-07  TP
+71 803 0208  Si Wroclaw      Jednosci Narod. / Wyszynskiego #2/2                  		2001-06-07  TP
+71 803 0222  Mi Wroclaw      Drobnera ^Duboisa                                    		2001-06-11  TP
+71 803 0224  Si Wroclaw      Jednosci Narod. 188 ^Prusa #2/2                      		2001-06-07  TP
+71 803 0234  Ni Wroclaw      Zeromskiego 23 / Nowowiejska 21 *2 [Nowowiejska]     	        2001-07-17  TP
+71 803 0235  Ni Wroclaw      Zeromskiego 23 / Nowowiejska 21 *2 [Zeromskiego]     	        2001-07-17  TP
+71 803 0236  Ni Wroclaw      Wyszynskiego / Nowowiejska *2 [Apteka]               		2001-07-17  TP
+71 803 0237  Ni Wroclaw      Wyszynskiego / Nowowiejska *2 [Nowowiejska]          	        2001-07-17  TP
+71 803 0240  Ni Wroclaw      pl. Katedralny 8-9, we do ZOZ #2/2                   		2001-06-10  TP
+71 803 0248  Si Wroclaw      Wyszynskiego / Kominka #1/2                          		2001-06-10  TP
+71 803 0256  Si Wroclaw      Sw. Marcina / pl. Bema 2 #1/3                        		2001-06-07  TP
+71 803 0257  Si Wroclaw      Sw. Marcina / pl. Bema 2 #2/3                        		2001-06-07  TP
+71 803 0259  Si Wroclaw      Legnicka 23                                          		2001-07-12  TP
+71 803 0264  Ni Wroclaw      Jednosci Narod. 47, UP17, przedsionek @              		2001-06-07  TP
+71 803 0277  Jt Wroclaw      Drobnera / Wladyslawa Lokietka #2/3                  		2002-04-04  TP
+71 803 0278  Jt Wroclaw      Drobnera / Wladyslawa Lokietka #1/3                  		2002-04-04  TP
+71 803 0297  Si Wroclaw      Curie-Sklodowskiej 1 / Nehringa #1/2                 		2001-06-10  TP
+71 803 0298  Si Wroclaw      Curie-Sklodowskiej 1 / Nehringa #2/2                 		2001-06-10  TP
+71 803 0301  Si Wroclaw      Jednosci Narod. 188 ^Prusa #1/2                      		2001-06-07  TP
+71 803 0302  Si Wroclaw      Sienkiewicza / Reja                                  		2001-06-10  TP
+71 803 0310  Ni Wroclaw      Jednosci Narod. 47, UP17, ~okienko nr 8 @            		2001-06-07  TP
+71 803 0316  Ni Wroclaw      Jednosci Narod. 47, UP17, pomieszcz. na koncu @      		2001-06-07  TP
+71 803 0331  Ni Wroclaw      Kasprowicza / Zmigrodzka #1/2                        		2001-09-09  TP
+71 803 0332  Ni Wroclaw      Kasprowicza / Zmigrodzka #2/2                        		2001-09-09  TP
+71 803 0335  Si Wroclaw      Zelenskiego / Kromera #4/4                           		2001-06-07  TP
+71 803 0336  Si Wroclaw      Zelenskiego / Kromera #3/4                           		2001-06-07  TP
+71 803 0338  Ni Wroclaw      Zmigrodzka / Zawalna #3/3                            		2001-09-09  TP
+71 803 0357  Si Wroclaw      Chorwacka 66 / Bezpieczna 28 *2 [Bezpieczna]         		2001-08-15  TP
+71 803 0358  Si Wroclaw      Chorwacka 66 / Bezpieczna 28 *2 [boisko]             		2001-08-15  TP
+71 803 0364  Si Wroclaw      Kamienskiego 15A                                     		2001-09-14  TP
+71 803 0376  Si Wroclaw      Zmigrodzka 9-11, "Cukrobank" @                       		2001-07-17  TP
+71 803 0377  Si Wroclaw      al. Kromera 44, biurowiec "Techma", przed wejsc.     		2001-06-07  TP
+71 803 0380  Si Wroclaw      al. Kochanowskiego / Torunska, st. paliwowa          		2001-08-12  TP
+71 803 0382  St Wroclaw      Staffa / Kasprowicza                                 		2002-07-31  TP
+71 803 0390  Si Wroclaw      Szpital 40-lecia, portiernia przy pogotowiu @        		2001-09-14  TP
+71 804 0003  Ni Wroclaw      Zmigrodzka / Zawalna #1/3                            		2001-09-09  TP
+71 804 0024  Si Wroclaw      Zelenskiego / Kromera #2/4                           		2001-06-07  TP
+71 804 0038  Ni Wroclaw      Zmigrodzka / Zawalna #2/3                            		2001-09-09  TP
+71 804 0042  Ni Wroclaw      Kamienskiego, targowisko "Target" @                  		2001-06-12  TP
+71 804 0057  Si Wroclaw      Zelenskiego / Kromera #1/4                           		2001-06-07  TP
+71 804 0070  Si Wroclaw      Czarnieckiego 31 #3/3                                		2001-08-31  TP
+71 804 0071  Si Wroclaw      Czarnieckiego 31 #2/3                                		2001-08-31  TP
+71 804 0098  Ni Wroclaw      pl. 1 Maja 8, Szpital, Izba przyjec, parter @        		2001-10-02  TP
+71 804 0103  Si Wroclaw      Legnicka 30 *2 ~UP44 [Trzemeska]                     		2002-08-10  TP
+71 804 0104  Ni Wroclaw      Fabryczna 10                                         	        2002-04-03  TP
+71 804 0117  Si Wroclaw      Ziemowita, przychodnia, parter @                     		2001-07-12  TP
+71 804 0122  Jt Wroclaw      Mlodych Technikow 7, przychodnia @                   		2002-08-10  TP
+71 804 0127  Si Wroclaw      Czarnieckiego 60 / Lubinska 16 #1/2                  		2001-08-31  TP
+71 804 0128  Ni Wroclaw      Legnicka 30 *2 ~UP44 [Nabycinska]                    		2002-08-10  TP
+71 804 0129  Ni Wroclaw      ^Niedzwiedzia 9 *2 [Jelenia]                         		2002-07-29  TP
+71 804 0129  Zi Wroclaw      ^Niedzwiedzia 9 *2 [Zubrza]                          		2001-09-07  TP
+71 804 0131  Zi Wroclaw      Slubicka / Zachodnia *2 [Zachodnia]                  		2001-05-30  TP
+71 804 0134  Ni Wroclaw      Legnicka, "Dolmed", parter @                         		2001-07-12  TP
+71 804 0135 -Zi Wroclaw      Bialowieska 76 *2 [Legnicka]                         		2001-09-07  TP
+71 804 0138  Si Wroclaw      Poznanska, mur jednostki wojskowej                   		2001-05-30  TP
+71 804 0141  Si Wroclaw      Poznanska / Czarnieckiego, sciana pawilonu #1/2      		2001-09-03  TP
+71 804 0147  Ni Wroclaw      pl. 1 Maja, podziemie, wyjscie do "Cuprum"           		2001-07-12  TP
+71 804 0154  Ni Wroclaw      pl. 1 Maja, podziemie, wyjscie na Podwale / Legnicka 		2001-10-02  TP
+71 804 0155  Ni Wroclaw      pl. 1 Maja, podziemie, wyjscie na Podwale / fose     		2001-10-02  TP
+71 804 0160  Si Wroclaw      Legnicka / Mlodych Technikow 2 [Legnicka]            		2001-07-12  TP
+71 804 0161  Jt Wroclaw      Inowroclawska / Zachodnia *2 [Dluga]                 		2002-08-10  TP
+71 804 0162  Jt Wroclaw      Inowroclawska / Zachodnia *2 [Zachodnia]             		2002-08-10  TP
+71 804 0163  Si Wroclaw      Czarnieckiego 60 / Lubinska 16 #2/2                  		2001-08-31  TP
+71 804 0165  Si Wroclaw      Slubicka / Zachodnia *2 [Slubicka]                   		2001-05-30  TP
+71 804 0166  Ni Wroclaw      Bialowieska 76 *2 [Popowicka]                        		2001-09-07  TP
+71 804 0197  Ni Wroclaw      Stanislawowska / Trawowa *2 [Trawowa]                		2001-07-10  TP
+71 804 0202  Ni Wroclaw      Stanislawowska / Trawowa *2 [Stanislawowska]         		2001-07-10  TP
+71 804 0226  Ni Wroclaw      Stanislawowska 99 ~UP26 #1/2                         		2001-07-10  TP
+71 804 0240 +Si Wroclaw      Paprotna 12, DH "Marino", filar *2 [ksiegarnia] @    		2001-06-09  TP
+71 804 0244  Ni Wroclaw      Kamienskiego ~UP49; ~przystanek #2/2                 		2001-06-12  TP
+71 804 0245  Ni Wroclaw      Kamienskiego ~UP49; ~przystanek #1/2                 		2001-06-12  TP
+71 804 0246  Ni Wroclaw      Kamienskiego ^Szpital #1/2                           		2001-06-12  TP
+71 804 0247 +Ni Wroclaw      Kamienskiego ^Szpital #2/2                           		2001-06-12  TP
+71 804 0256  Si Wroclaw      Poswiecka, teren Szpitala, ~portierna @              		2001-06-06  TP
+71 804 0258  Ni Wroclaw      Poswiecka, bud. Szpitala, korytarz, parter @         		2001-05-26  TP
+71 804 0263  Si Wroclaw      Paprotna 12, DH "Marino", filar *2 [apteka] @        		2001-06-09  TP
+71 804 0265 +Ni Wroclaw      Poswiecka, bud. Szpitala, korytarz, 1p. @            		2001-06-12  TP
+71 804 0274  Ni Wroclaw      Polnocna 14 #1/2                                     		2001-09-06  TP
+71 804 0275  Ni Wroclaw      Polnocna 14 #2/2                                     		2001-09-06  TP
+71 804 0280  Ni Wroclaw      Boguszowska 44                                       		2001-10-02  TP
+71 804 0282  Si Wroclaw      Stablowicka / Kozia                                  		2001-09-06  TP
+71 804 0286  Ni Wroclaw      Stablowicka 123                                      		2001-09-06  TP
+71 804 0287  Ni Wroclaw      Starogajowa / Drogoslawicka                          		2001-10-02  TP
+71 804 0288  Ni Wroclaw      Jeleniogorska 1-3                                    		2001-10-02  TP
+71 804 0302 +Ni Wroclaw      Jugoslawianska 83A, plac zabaw *2 [Bezpieczna]       		2001-06-12  TP
+71 804 0310  Ni Wroclaw      Bezpieczna / Obornicka *2 [Obornicka]                		2001-06-12  TP
+71 804 0311  Ni Wroclaw      Obornicka 16 | Broniewskiego #2/2                    		2001-07-17  TP
+71 804 0312  Ni Wroclaw      Obornicka 16 | Broniewskiego #1/2                    		2001-07-17  TP
+71 804 0337  Si Wroclaw      Legnicka / Rysia #2/2                                		2001-09-07  TP
+71 804 0338  Si Wroclaw      Legnicka / Rysia #1/2                                		2001-09-07  TP
+71 804 0352  Si Wroclaw      Niedzwiedzia / Legnicka, targowisko @                		2001-09-07  TP
+71 804 0353  Jt Wroclaw      Malopanewska / Legnicka "Kaufland"                   		2002-08-10  TP
+71 804 0377  Si Wroclaw      Niedzwiedzia / Jelenia #2/2                          		2001-09-07  TP
+71 804 0384  Ni Wroclaw      ^Niedzwiedzia 9 *2 [Legnicka]                        		2002-07-29  TP
+71 804 0393 +Ni Wroclaw      Kacka / Skoczylasa                                   		2001-10-02  TP
+71 804 0395 -Ni Wroclaw      Skoczylasa 21                                        		2001-10-02  TP
+71 804 0398  Ni Wroclaw      Dolnobrzeska / Sredzka #1/2                          		2001-10-02  TP
+71 804 0401  Ni Wroclaw      Sredzka 16A                                          		2001-10-02  TP
+71 804 0411 -Ni Wroclaw      Zlotnicka / Kosmonautow                              		2001-10-02  TP
+71 804 0415 +Ni Wroclaw      Trojkatna 38                                         		2001-10-02  TP
+71 804 0483  Si Wroclaw      Parking hipermarketu "Korona" ~we "Uniwersyteckie"   	        2001-06-07  TP
+71 804 0484  Si Wroclaw      Parking hipermarketu "Korona" ~kino                  		2001-06-07  TP
+71 804 0485  Si Wroclaw      Hipermarket "Korona", korytarzyk przy WC #1/2        		2001-07-14  TP
+71 804 0486  Si Wroclaw      Hipermarket "Korona", korytarzyk przy WC #2/2        		2001-07-14  TP
+71 804 0506  St Wroclaw      Malopanewska / Legnicka st.p. BP                     		2002-08-10  TP
+
+Legenda:
+
+Skróty:
+
+A - duży żetonowiec z klawiaturš na monety
+    20 gr, 50 gr, 1 zł (Dialog)
+B - telefon na bilon 10 gr - 5 zł (Dialog)
+J - "jajo" ISDN
+K - telefon na kartę i monety (Netia)
+N - niebieski Urmet (TSP 91/PO)
+M - mały żetonowiec z klawiaturš
+S - srebrny Urmet (TPE-97/U)
+Z - duży żetonowiec z klawiaturš (AWS-6)
+t - wybieranie tonowe
+i - wybieranie impulsowe
++ - sprawdzona możliwoć dodzwonienia
+    się do tego aparatu
+- - sprawdzona niemożliwoć dodzwonienia
+    się do tego aparatu
+UP n  - Urzšd Pocztowy nr n
+pn    - północ
+pd    - południe
+#n/m  - n-ty telefon w grupie m-telefonów,
+        liczone od lewej
+*n    - w grupie n telefonów
+[abc] - ozn. od strony / z kierunku itp.
+@     - dostępny, gdy instytucja jest czynna
+/     - róg
+^     - naprzeciw, vis-a-vis
+~     - niedaleko, przy, obok
+a|b   - między a i b

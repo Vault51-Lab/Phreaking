@@ -1,0 +1,279 @@
+Wstêp 
+
+Obwód elektryczny to nic innego jak uk³ad elementów, wszystkie majš 
+okre?lony cel. Zadaniem obwodu jest prawid³owe dostarczanie energii 
+elektrycznej ze ?róde³ do odbiorników. W elektronice, warto?ci pršdów 
+sš tak ma³e, ¿e s³u¿š one tylko do przekazu sygna³ów elektrycznych, 
+impulsów itd. Pamiêtamy, ¿e aby móg³ p³ynšæ pršd, obwód musi byæ 
+zamkniêty. Przy³o¿enie przyk³adowego drucika do jednego z bieguna 
+?ród³a i drugim koñcem: do innego ?ród³a, ale przeciwnego bieguna, nie 
+spowoduje przep³ywu pršdu, co niektórym mo¿e siê zdawaæ. Obieg musi byæ 
+zamkniêty, i jest to podstawowe prawo w elektronice. Jak sk³adaæ obwody, 
+jakie sš jego elementy? ? wszystko siê dowiesz w odpowiednim czasie. 
+Powoli zbli¿amy siê do zajêæ praktycznych, mam nadziejê, ¿e teoriê masz 
+ju¿ opracowanš. Do opisu obwodu u¿ywamy schematów. Ja nie bêdê ich tu 
+rysowa³, gdy¿ nie ma takiej mo¿liwo?ci ? ale na pewno nie raz w ¿yciu 
+widzieli?cie jaki? schemat. Wszystkie elementy obwodu mo¿emy podzieliæ 
+na: 
+- ?ród³a napiêcia 
+- odbiorniki 
+- przewody ³šczšce 
+Odbiorniki na li?cie, stanowiš nie tylko elementy, które celowo 
+pobierajš energiê ? równie¿ i rezystory i wszystkie inne, na których 
+wydziela siê energia. Istnieje bardzo du¿o rodzajów elementów w 
+obwodzie, my siê zajmiemy tymi podstawowymi. Mo¿e najpierw zanim 
+poznamy ?cokolwiek? lepiej siê upewniæ, czy posiadamy konkretne i 
+w³a?ciwe do tego oprzyrzšdowanie. 
+
+Co nam bêdzie potrzebne? 
+
+Przede wszystkim potrzebujesz swoje w³asnego ?Electronic Tool Kit`a :)) 
+?, który bêdzie mia³ wszystkie narzêdzia, o których zaraz powiem. 
+Zaopatrzyæ siê nale¿y w .. m³otek. Oczywi?cie nie mówiê o wielkim 5-cio 
+kilowym m³ocie, niewielki m³otek ko³o 70 gramów starczy. Bêdzie mo¿na 
+wbijaæ nim nity lutownicze, we wcze?niej nawiercone otwory. A otwory te 
+z kolei nawiercimy wiertarkš. Wystarczy prosta wiertarka rêczna, nie 
+bêdziesz siê w koñcu przebija³ przez beton. Imad³o jest narzêdziem 
+bardzo przydatnym, przypuszczam jednak, ¿e takowego nie posiadasz ? 
+zatem mo¿esz sobie je darowaæ. Kup równie¿ niewielki pilniczek p³aski, 
+bêdzie mo¿na nim obrabiaæ niewielkie elementy, niwelowaæ ostre 
+krawêdzie i inne niezliczone czynno?ci. Bardzo wa¿ny element: szczypce. 
+Warto siê zaopatrzyæ w jedne du¿e szczypce (nie ? nie takie co? jak 
+kombinerki, ale z ostrym czubkiem), chwytamy nimi mniejsze elementy i 
+nie tylko, mo¿emy równie¿ je odpowiednio zginaæ. Istotna jest tu 
+równie¿ tzw. pêseta (szczypeczki) do ³apania tudzie¿ zaginionej ?rubki 
+w buszu elementów, gdzie nie sposób wsadziæ swojej wielkiej ³apy. 
+Ucinaki, podobne do szczypiec, pozwalajš na ucinanie przewodów, 
+skracania zacisków i innych czynno?ci, równie¿ nieodzowne - nie robimy 
+takich rzeczy rêkš, aby nie dosz³o do wycieku krwi. Podstawowy element, 
+zarazem najwiêkszy : lutownica. Wystarczy lutownica niewielkiej mocy. 
+Przy zakupie lutownicy warto by siê te¿ zaopatrzyæ w cynê. Bynajmniej 
+nie mo¿e byæ to cyna wyjêta z otch³ani piwnicy sprzed 15-tu lat. Jak 
+siê niš pos³ugiwaæ ? dowiesz siê w swoim czasie. Na razie mo¿e siê 
+wstrzymaj z jej w³šczeniem, nie chcê ¿eby co? siê sta³o niedobrego. 
+Apropo: autor artyku³u nie ponosi jakiejkolwiek odpowiedzialno?ci za 
+wypadki spowodowane nieumiejêtnym operowaniem narzêdzi elektronika, ani 
+za inne zagro¿enia bšd? te¿ utratê zdrowia lub ¿ycia. 
+Przyda nam siê jeszcze jaki? dobry klej do ró¿nych materia³ów oraz 
+porzšdne, o?wietlone miejsce pracy, ¿eby nie by³o, ¿e kto? czego? nie 
+widzi, bo siedzi w swojej no¿e komputerowej. Nastêpnym punktem 
+przygotowañ do bycia jak¿e profesjonalnego elektronika jest zakup tzw.
+
+uniwersalnego miernika elektrycznego. Takowy dostaniecie w najbli¿szym 
+sklepie z czê?ciami elektronicznymi, gdzie równie¿ mo¿ecie dokonaæ 
+kupna wszystkich w/w przedmiotów codziennego u¿ytku. Koszt takiego 
+urzšdzenia to oko³o 30 PLN, a posiadaæ on powinien co najmniej: pomiar 
+pršdu sta³ego, zmiennego, napiêcia sta³ego, zmiennego, rezystancji 
+elementów, pojemno?æ kondensatorów. Mimo, ¿e miernik posiada instrukcjê 
+obs³ugi, powiem wam pó?niej jak siê pos³ugiwaæ tym¿e urzšdzeniem. 
+Pamiêtamy równie¿, aby przy naszych pracach nie denerwowaæ siê zbytnio, 
+cierpliwo?æ to podstawa. Je?li siê troszkê zdenerwujesz, nie musisz 
+zaraz rzucaæ wszystkim ? oddaj czê?ci sšsiadowi ? uciesz siê ch³op. 
+Teraz, gdy ju¿ jeste? odpowiednio zaopatrzony ? mo¿emy zaczynaæ :)) 
+
+P³ytka drukowana 
+
+Elementy obwodu elektrycznego nale¿a³o by gdzie? osadzaæ. Oczywi?cie 
+mo¿na robiæ wszystko prowizorycznie i ³šczyæ elementy kabelkami w 
+?locie?, ale wtedy robi siê niepotrzebna mieszanina ? nie polecam 
+takiego sposobu (nazywa siê to ?pajêczyna?). Wszystko umieszczamy na 
+tzw. p³ytce drukowanej. Chocia¿by wasza p³yta g³ówna w komputerze jest 
+doskona³ym przyk³adem. P³ytka taka umo¿liwia ³atwy monta¿ uk³adów 
+elektronicznych, no i co tu du¿o nie mówiæ ? to ju¿ jest standard. Jest 
+ona wykonana z materia³u, który nie przewodzi pršdu elektrycznego 
+(laminatu) i pokryta z jednej strony warstwš miedzi (przewodzšcej pršd). 
+Otó¿ jak wyglšda osadzanie elementów na takie p³ycie? Gdy ju¿ mamy 
+gotowy schemat (dla poczštkujšcych najlepiej jest wstawiæ jeden lub dwa 
+rezystory), mo¿emy rozpoczšæ pracê. Po stronie z warstwš miedzi 
+rysujemy tuszem linie, gdzie majš przebiegaæ przewodniki. Oczywi?cie 
+mamy tu na my?li cieniutkie ?cie¿ki na p³ycie, a nie ¿adne kable ? 
+jednak zastosowanie ich jest takie samo. W miejscach, gdzie bêdzie 
+umieszczony dany element stawiamy wyra?ny punkt. Nie rysujemy natomiast 
+samych miejsc osadzenia elementów, tylko punkty jako ich zaciski. 
+Pamiêtajmy jednak aby szkic nasz by³ wodoodporny (najlepiej jaki? dobry 
+flamaster). Teraz tak gotowš p³ytkê (z wyra?nie narysowanymi ?cie¿kami 
+po stronie warstwy miedzi) umieszczamy w niewielkiej wanience wody. 
+Wlewamy ciep³š wodê (oko³o 70 stopni) tak aby p³ytka le¿a³a jaki? 
+centymetr od lustra wody. Do wody wrzucamy kilka kulek tzw. chloru 
+¿elazowego (do zakupienia w sklepie elektronicznym). Delikatnie 
+rozpuszczamy go w wodzie. Powodujš one rozpuszczenie warstwy miedzi w 
+miejscu, gdzie nie jest pokryta tuszem. Tym sposobem zostajš tylko 
+?cie¿ki, reszta jest rozmywana. Po oko³o 20 minutach wyjmujemy p³ytkê z 
+wanienki i zmywamy tusz rozpuszczalnikiem. Tak oto przeszedli?my przez 
+pierwszy etap konstrukcji naszego uk³adu ? mamy ju¿ piêknie gotowe 
+?cie¿ki (mam nadziejê, ¿e piêknie i ka¿dy u¿y³ mózgu i narysowa³ je 
+linijkš :)) 
+Teraz wystarczy wzišæ naszš wiertarkê i cieniutkim wiert³em zrobiæ 
+otwory, w miejscach oznaczonych punktami, gdzie bêdziemy przetykali 
+elementy. Po wykonaniu otworów (przy czynno?ci tej uwa¿amy aby nie 
+uszkodziæ p³ytki) przygotowujemy elementy. Zaciski mogš byæ za d³ugie, 
+zatem ucinamy je, aby ich d³ugo?æ by³a odpowiednia. Przek³adamy zaciski 
+przez dziurki, tak aby element by³ po stronie, gdzie nie ma ?cie¿ek. 
+Teraz, gdy ju¿ mamy wszystko dopasowane, mo¿na lutowaæ. 
+
+Lutowanie 
+
+S³u¿y nam ona do ³šczenia czê?ci metalowych ze sobš, trwa³o i spójnie. 
+W naszym przypadku sš to niewielkie masy, u¿ywamy zatem lutnicy ma³ej 
+mocy. Pamiêtamy równie¿ aby nie dotykaæ nagrzanego grotu, co 
+poniektórzy majš sk³onno?ci robiæ, bo mo¿na siê zdeczka uszkodziæ. I 
+równie¿ wa¿na rzecz: obchodzimy siê z niš delikatnie. Nie tylko ty 
+mo¿esz zostaæ uszkodzony, ale równie¿ elementy przez niechciane
+
+dotkniêcie grotu. Tak¿e, ca³y czas musimy nad niš panowaæ. Grot lutnicy 
+to sam jej koniec, dziêki któremu mo¿na ³šczyæ elementy ? je¿eli masz 
+jakš? starš lutownicê, a grot jej jest osadzony ró¿nymi ?wiñstwami, 
+nale¿y takowy wymieniæ na nowy (jest to wymienna koñcówka). Pierwszš 
+czynno?ciš jest w³šczenie naszego urzšdzenia do pršdu. Na instrukcji 
+pisze ile czasu up³ywa do nagrzania (kwestia minut albo nawet i mniej, 
+w zale¿no?ci od lutownicy). Wa¿ne, aby koñcówka grota lutownicy by³a 
+ma³a, umo¿liwia to lutowanie w trudno dostêpnych miejscach jak i ma³ych 
+elementów. A jak te¿ wyglšda samo lutowanie? Otó¿ nic specjalnego ? 
+przyk³adamy dwa metale, które chcemy ze sobš po³šczyæ, po czyn ma³š 
+ilo?æ cyny (powtarzam ? ma³š, znikomš, a nie pó³ kilograma jak to 
+poczštkujšcy robiš). Mimo, ¿e na pierwszy rzut oka wyglšda to ma³o 
+trwale, za chwile wszystko wyschnie i bêdzie spójnie przytwierdzone. 
+Nie zapomnieæ zdjšæ z kabelków izolacji, je?li takowa by³a. I to 
+wszystko? My?lê, ¿e nie ma co opisywaæ jak naj³atwiej jš trzymaæ itd? 
+to ka¿dy sam nabierze swojego do?wiadczenia, wa¿ne ¿eby? wiedzia³ o co 
+chodzi. 
+
+Na twoim aktualnym poziomie wiedzy, mo¿esz ju¿ sk³adaæ proste obwody, 
+równie¿ te ze schematów ? pod warunkiem, ¿e wiesz jaki to element? To 
+mo¿e teraz omówimy sobie podstawowe elementy? 
+
+Przewód elektryczny 
+
+To nic innego jak malutkie ?cie¿ki na dole p³ytki, które ¿e? wcze?niej 
+rysowa³ flamastrem. Jego zadaniem jest transport pršdu elektrycznego od 
+jednego elementu do drugiego ? tak jak chcemy. Wa¿ne jest, aby 
+rezystancja takiego przewodnika by³a mo¿liwie ma³a. Na schematach 
+zaznaczamy przewody cienkš liniš. Nale¿y staraæ siê rysowaæ je pod 
+kštem prostym, pionowo bšd? poziomo. Ewentualnie mo¿na pod kštem 45 
+stopni, je?li nie uda siê inaczej, a w przypadku spotkania na schemacie 
+dwóch przewodów przecinajšcych siê to: sš one po³šczone je¿eli jest 
+wyra?na kropka w miejscu przeciêcia, bšd? te¿ nie sš po³šczone ? je?li 
+takowej kopki nie widzimy. Natomiast je?li koniecznie nie chcemy 
+rysowaæ takich skrzy¿owañ w celach estetycznych, mo¿emy zastosowaæ 
+?tunel?, oznaczyæ jeden wlot przewodu jako A1, drugi jako A2 i w 
+miejscu przeciêcia nie rysowaæ jednego z przewodów, tylko oznaczyæ jego 
+koñcówki (niczym tunel). To rozwišzanie jest równie¿ jak najbardziej 
+poprawne. Grubo?æ kreski oznaczajšcej przewód na schemacie jest 
+ca³kowicie bez znaczenia. Na naszej p³ytce wszelkie przewody (?cie¿ki) 
+znajdujš siê z jednej strony p³ytki (tak jak ju¿ mówi³em). 
+
+£šcznik 
+
+S³u¿y nam do roz³šczania obwodu i jego ponownego w³šczenia. Po prostu 
+przerywa bšd? te¿ zwiera kabelki w odpowiednim miejscu. Przyk³adem mo¿e 
+byæ zwyk³y ?guzik?, jakim zapalacie lampê. Na schemacie wyglšda to jak 
+ma³y kawa³ek przewodu narysowany grubszš liniš, na koñcach którego sš 
+dwa punkty (w pozycji zamkniêtej). Bšd? te¿ tak samo, ale z jednej 
+strony wychylony (w pozycji otwartej). 
+
+------------o---o---------- 
+
+Powy¿ej przyk³adowy ?rysunek? ³šcznika, który jest w pozycji zamkniêtej 
+(zwiera). 
+
+W pozycji otwartej jest on odchylony o jeden z punktów, tak aby nie 
+by³o po³šczenia. 
+
+£šczniki mogš byæ oczywi?cie ró¿ne, np. prze³šczajšce pomiêdzy ró¿nymi 
+kabelkami (mo¿liwo?æ wyboru), lub po³šczone z innymi. Wszystko kwestiš 
+wyobra?ni. 
+
+¯arówka 
+
+Elektronik u¿ywa jej do sygna³ów ró¿nych kolorów. Czê?ciej stosuje siê 
+zamiast niej diody, ale mo¿na i ¿arówkê. Przep³yw pršdu powoduje 
+zasygnalizowanie ?wiat³em. W sklepach dostêpne sš ró¿ne kolorowe 
+¿aróweczki o ró¿nych mocach. Na schematach zaznacza siê je jako X w 
+kó³ku. Mo¿na je u¿ywaæ do optycznych wska?ników, czy p³ynie pršd. 
+
+Rezystor 
+
+Rezystor inaczej zwany opornikiem to najprostszy element stosowany w 
+elektronice. Jak liczyæ pršdy, napiêcia i rezystancjê? ? powinni?cie 
+wiedzieæ z czê?ci teoretycznej. Jest to tani element, u¿ywany 
+najczê?ciej w uk³adach. Kszta³t jego to niewielki walec, z d³ugimi 
+nó¿kami na jego koñcach (które przy monta¿u ucinamy odpowiednim 
+narzêdziem). Jego zadaniem jest celowe stworzenie du¿ej rezystancji, 
+aby obwód by³ jak najbardziej dopasowany. Wielko?æ rezystora zale¿y od 
+jego mocy. W naszych uk³adach stosujemy raczej niewielkie oporniki. 
+Je¿eli przez element ten przep³ywa pršd elektryczny, silnie siê on 
+nagrzewa (dlatego czasami nale¿y uwa¿aæ aby siê nie poparzyæ w 
+przypadku jakiego? wiêkszego uk³adu, w³šczonego d³u¿szy okres czasu). 
+Powinni?cie siê zaopatrzyæ w kilka standardowych rezystorów.. mówiê 
+standardowych bo nie mo¿ecie kupiæ w sklepie elementu tego o dok³adnie 
+okre?lonej rezystancji. Dostêpne sš tylko ?ci?le okre?lone warto?ci 
+rezystancji, w przypadku dobrania jej odpowiednio, nale¿y sk³adaæ je 
+równolegle bšd? szeregowo (o czym równie¿ ju¿ wiesz). Je¿eli ju¿ masz 
+przyk³adowy rezystor w rêce, dziwisz siê na pewno dlaczego nie jest on 
+opisany? nigdzie nie widaæ napisu z rezystancjš. Otó¿ jest ona w 
+wyra?ny sposób oznaczona, ale poprzez barwne pier?cienie dooko³a niego. 
+Po to na przyk³ad, aby? sobie nie zalutowa³ napisu od strony p³yty, a 
+pó?niej nie móg³ odczytaæ bez wylutowywania. W ten sposób widzisz 
+zawsze rezystancjê, bo paski te sš widoczne z wszystkich stron. Jest 
+równie¿ ró¿na ilo?æ pasków na rezystorach ró¿nych producentów. I tak 
+(patrzšc od strony lewej, odpowiednio): 
+
+- 3 pier?cienie : warto?æ 1 rezystancji, warto?æ 2 rezystancji, mno¿nik 
+(tolerancja 20%) 
+
+- 4 pier?cienie: warto?æ 1 rezystancji, warto?æ 2 rezystancji, mno¿nik, 
+tolerancja 
+
+Niekiedy spotyka siê równie¿ 5 lub 6 pier?cieni, ale na razie takie 
+rezystory nie sš ci potrzebne. To teraz wyja?nienia: 
+1 i 2 druga warto?æ rezystancji po postu stanowiš dwucyfrowš warto?æ, 
+np. 5 i 1 to 51? nic szczególnego. Oznaczenia (odpowiednio od 1 do 9 
+dla pierwszej warto?ci ) to: bršzowy, czerwony, pomarañczowy, ¿ó³ty, 
+zielony, niebieski, fioletowy, szary, bia³y. Dla drugiej natomiast 
+(równie¿ odpowiednio, tylko od 0 do 9): czarny, bršzowy, czerwony, 
+pomarañczowy, ¿ó³ty, zielony, niebieski, fioletowy, szary, bia³y. Teraz 
+otrzymanš rezystancjê mno¿ymy przez tzw. mno¿nik. Odpowiednio dodajšc 
+jedno zero (od x1, do x10000000): bršzowy, czerwony, pomarañczowy, 
+¿ó³ty, zielony, niebieski, fioletowy. W przypadku trzech pasków, 
+warto?æ tzw. tolerancji jest ?ci?le okre?lona (20%), gdy natomiast mamy 
+czwarty pasek mo¿na jš obliczyæ (co to jest tolerancja? - zaraz siê 
+dowiesz). Srebrny: 10%, z³oty: 5%, bršzowy: 1%, czerwony: 2%, 
+pomarañczowy: 15%, zielony: 0,5%, niebieski: 0,25%, fioletowy: 0,1 %. 
+
+
+Noo.. to teraz umiesz ju¿ odczytywaæ rezystancjê elementów z barwnych 
+pasków. Przyk³adowo: cztery paski ? wszystkie koloru czerwonego to 
+rezystor 2,25 kilo om oraz 2% tolerancji. I tym ostatnim teraz siê 
+zajmiemy. 
+
+Maszyna produkujšc rezystor nie jest w stanie czasem ustaliæ takš 
+dok³adno?æ, aby dany rezystor mia³ dok³adnie taki opór jak chcemy. 
+Procent tolerancji oznacza, ¿e dany rezystor mo¿e mieæ opór maksymalny 
+wiêkszy od oznaczonego o procent tolerancji oraz minimalny ? mniejszy 
+od oznaczonego o warto?æ tolerancji. Przyk³adowo: mamy rezystor 1000 om 
+(1 kilo om) o warto?ci tolerancji 20%. Oznacza to, ¿e mo¿e mieæ on od 
+800 do 1200 om, co oczywi?cie nie oznacza ?musi? aczkolwiek mo¿e. Im 
+mniejsza tolerancja, tym rezystor jest lepszy, mo¿na powiedzieæ, ze ma 
+lepszš jako?æ. 
+
+Nie tylko zwyk³e rezystory mo¿emy w sklepie dostaæ. Dostêpna jest ca³a 
+gama ró¿nych elementów z tej rodziny. Oto wa¿niejsze z nich: 
+
+- potencjometr: rezystor nastawny, mo¿emy rêcznie zmieniaæ jego 
+rezystancje poprzez zmianê zaczepienia bšd? te¿ pokrêt³a lub innego 
+mechanicznego sposobu (ang: potentiometer). 
+
+- fotorezystor: w skrócie LDR (Light Dependent Resistor) , jego 
+rezystancja jest uzale¿niona od aktualnego o?wietlenia. Od razu mo¿e 
+nam pos³u¿yæ jako prowizoryczna fotokomórka :))) 
+
+- termistor: rezystor zale¿ny od aktualnej temperatury. Mo¿e byæ typu 
+NTC (Negative Temperatur Coeffizient) ? w stanie zimnym ma wiêkszš 
+rezystancjê ni¿ w ciep³ym lub typu PTC (Positiv Temperatur Coeffizien) 
+? odwrotnie. 
+
+- warystory: VDR (Voltage Dependent Resistor). Jego rezystancja jest 
+zale¿na od napiêcia, jakie na nim panuje. Przy wysokich napiêciach, 
+jego opór maleje. 
+
+To be Continued..

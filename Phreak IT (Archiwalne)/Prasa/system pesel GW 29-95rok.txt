@@ -1,0 +1,101 @@
+Komputery i Biuro nr 29/95
+18 lipca 1995
+Cotygodniowy dodatek do Gazety Wyborczej
+(Polska poludniowa)
+
+
+
+Numery z danymi
+
+Za numerem PESEL ktory mamy w dowodzie, kryja sie nasze podstawowe dane 
+w centralnym komputerze panstwa. Wkrotce system, ktory zostal zalozony 
+20 lat temu, przejdzie pierwszy powazny test. Bedzie uzywany przy 
+wprowadzaniu Programu Powszechnej Prywatyzacji.
+
+Dzis za kazdym razem gdy ktos sie rodzi, zmienia imie, nazwisko, adres 
+lub umiera, informacja trafia do centralnego komputera PESEL.
+
+MSW wie o kazdym
+
+Nasze podstawowe dane dla centralnego komputera zostawiamy w urzedzie 
+gminy. Ten przekazuje je do Terenowego Banku Danych, ktory ma informacje 
+o wszystkich mieszkancach wojewodztwa.
+
+Centrala PESEL jest departament w Ministerstwie Spraw Wewnetrznych. 
+Prowadzi on Centralne Biuro Adresowe, w ktorym sa dane wszystkich 
+mieszkancow Polski, a takze osob zmarlych po 1980 roku.
+
+Kazdy rekord komputerowy PESEL zawiera nazwisko, imie, miejsce i date 
+urodzenia, imiona rodzicow, nazwisko rodowe matki, serie, numer i organ, 
+ktory wydal dowod osobisty, a takze date zameldowania, adres 
+zamieszkania oraz informacje czy nie jest on zastrzezony. Kazdy rekord 
+ma numer znany jako numer PESEL z dowodu osobistego.
+
+Sprytny numer
+
+Numer sklada sie z 11 cyfr. Szesc pierwszych to data urodzenia w 
+ukladzie rr-mm-dd. Jezeli stulecie urodzenia osoby jest inne niz wiek 
+XX, to zaszyfrowane jest to w kodzie miesiaca. Dla osob urodzonych w XIX 
+wieku oznaczenie miesiaca zwieksza sie o 80. Np styczen bedzie mial 
+miano 81, luty - 82, a grudzien - 92. Dla osob, ktore urodza sie w XXI 
+wieku, liczba miesiaca bedzie z kolei powiekszona o 20; styczen bedzie 
+oznaczony cyfra 21, luty - 22 a grudzien - 32 itd.
+
+Kolejne cztery cyfry to numer serii zawiadomienia o narodzinach, ktore 
+naplynelo w danym dniu do systemu. Przedostatnia cyfra numeru, i 
+ostatnia w tej czworce, oznacza plec: nieparzysta oznacza mezczyzne, 
+parzysta - kobiete. Ostatnia cyfra umozliwia sprawdzenie poprawnosci 
+zestawienia wszystkich pozostalych. Specjalny program sprawdza uklad 
+cyfr przy kazdorazowym zapytaniu do systemu, w ktorym podaje sie numer.
+
+Numer zmienia sie w wyjatkowych przypadkach - np. gdy osoba na drodze 
+sadowej zmienila plec lub blednie wprowadzono jej date urodzenia. 
+Mozliwe jest takze calkowite wykasowanie zawartosci rekordu i zmiana 
+numeru w przypadku tzw. tajnej adopcji, o ktorej decyduje sad.
+
+Po co dane?
+
+Dostep do informacji z systemu ma m.in. policja, UOP i Glowny Urzad Cel. 
+Centralne Biuro podaje kazdemu adresy za oplata 5 zl w znaczkach 
+skarbowych. Adres poznamy tylko wtedy, gdy liczba faktow, ktore podaje 
+pytajacy wskazuje tylko na jedna osobe. Swoj adres mozemy utajnic przed 
+innymi. Z tej mozliwosci skorzystalo kilkadziesiat tysiecy osob.
+
+Dane ewidencyjne sprawdzaja tez urzedy pracy chcace zweryfikowac 
+bezrobotnych i eliminowac osoby biorace kilka zasilkow. Zdarzalo sie 
+tez, ze dzieki systemowi ZUS znalazl osoby, na ktore pobierano rente 
+choc juz nie zyly.
+
+Numer PESEL znalazl zastosowanie, ktorego nikt nie przewidywal. W kilku 
+miastach policja znakuje rowery numerami PESEL ich wlascicieli. Dane 
+kazdego oznaczonego roweru trafiaja do policyjnego wykazu.
+
+Przetestuja w czasie prywatyzacji
+
+Do tej pory najwiecej informacji adresowych z PESEL udzielaly gminy. 
+Wykorzystuja one dane z PESEL przy ukladaniu list poborowych, wyborcow, 
+a takze dzieci do szkol podstawowych.
+
+Wkrotce szczebel wojewodzki'' systemu czeka pierwsza wielka proba. W 
+czasie rocznej dystrybucji swiadectw udzialowych Programu Powszechnej 
+Prywatyzacji, Terenowe Banki Danych beda musialy stale aktualizowac 
+listy, wedlug ktorych wydawane beda swiadectwa udzialowe programu. - Na 
+pewno bedzie sporo reklamacji, bo nie wszystkie dane sa bezbledne - boi 
+sie Boguslaw Rozpedek, kierujacy szczecinskim TBD. - Beda problemy 
+zwlaszcza z numerami dowodow osobistych, bo tych do tej pory nie 
+weryfikowalismy - dodaje.
+
+System dla SB?
+
+Poprzednikiem dzisiejszego PESEL byl systemu MAGISTER. Byly w nim 
+informacje o wszystkich Polakach z wyzszym wyksztalceniem - caly 
+przebieg kariery zawodowej i naukowej a takze adres. Oficjalnie system 
+mial sluzyc do prowadzenia polityki kadrowej, ale wg niektorych, uzywala 
+go Sluzba Bezpiecznstwa do inwigilacji inteligencji.
+
+W PRL planowano utworzenie kolejnych systemow m.in. z danymi o 
+studentach, emerytach i robotnikach. MAGISTER umarl razem z socjalizmem. 
+W gospodarce rynkowej centralnie prowadzona polityka kadrowa stracila 
+sens.
+
+Tomasz Bienias

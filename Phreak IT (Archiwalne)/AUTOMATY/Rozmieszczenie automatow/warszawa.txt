@@ -1,0 +1,373 @@
+ZOLIBORZ
+
+1   804-93-47  AWF (pod straza poz.)
+2   804-93-48  AWF (pod straza poz.)
+3   804-94-08  AWF k/wejscia (na slupie, k/kwiaciarni)
+4   804-94-15  AWF k/wejscia (na slupie, k/kwiaciarni)
+
+1   803-80-22  Broniewskiego/Duracza (jedna z 2) #2/2 (srebrny)
+2   803-85-35  Broniewskiego naprzeciwko banku BGZ (?) na slupie
+3   803-85-36  Broniewskiego naprzeciwko banku BGZ (?) na slupie
+4   804-90-71  Broniewskiego/Jarzebskiego #1/4
+5   804-90-72  Broniewskiego/Jarzebskiego #2/4
+6   804-90-73  Broniewskiego/Jarzebskiego #3/4
+7   804-90-74  Broniewskiego/Jarzebskiego #4/4
+8   803-86-50  Broniewskiego 85 (sklep spozywczy)
+
+1   803-95-03  Dewajtis 3 (UKSW kolo wejscia) (srebrny)
+2   803-95-02  Dewajtis 5 (liceum) (niebieski)
+
+1   803-91-52  Felinskiego 39 (k/BOK-u TPSA)
+
+1   804-95-62  Gdanska (kolo "Szewala") (srebrny)
+2   804-90-88  poczta Goldoniego 
+3   804-90-89  poczta Goldoniego 
+4   804-95-89  Gwiazdzista 7a (pod plotem, od strony ulicy)
+5   804-95-90  Gwiazdzista 7a (pod plotem, od strony ulicy)
+
+1   804-95-82  Hala Marymoncka (kolo przystankow tram.) (srebrny)
+2   804-95-81  Hala Marymoncka (kolo przystankow tram.) (srebrny)
+3   804-95-61  Hala Marymoncka (na slupie od strony ulicy) (srebrny)
+4   804-95-60  Hala Marymoncka (po drugiej stronie slupa) (srebrny)
+5   804-95-68  Hala Marymoncka (srebrne BUDKI) (srebrny) 
+6   804-95-69  Hala Marymoncka (srebrne BUDKI) (srebrny)
+7   804-95-79  Hala Marymoncka (k/ p.a. POTOCKA 01) (#2/2)
+8   804-95-80  Hala Marymoncka (k/ p.a. POTOCKA 01) (#1/2)
+9   804-91-01  Huta, pod petla autobusowa (jajo, #1/2)
+
+1   803-91-38  Krasinskiego/pl.Wilsona kolo Apteki #2/2 (srebrny)
+2   803-91-30  Krasinskiego/pl.Wilsona kolo Apteki #1/2 (srebrny) 
+3   803-91-24  Krasinskiego/pl.Wilsona naprzeciwko parku #1/2(srebrny)
+4   803-91-43  Krasinskiego/pl.Wilsona naprzeciwko parku #2/2(srebrny)
+5   804-95-19  Klaudyny 1, k/salonu Toyoty (w drugiej automatu brak) #1/2 (srebrny)
+
+1   804-95-23  rog Lektykarska/Smolenskiego (srebrny, #1/2)
+2   804-95-24  rog Lektykarska/Smolenskiego (srebrny, #2/2)
+
+1   804-95-77  M.Kazimiery/Potocka - kolo parkingu (srebrny)
+2   804-95-78  M.Kazimiery/Potocka - kolo parkingu blizej poczty (srebrny)
+3   803-91-02  Mickiewicza/pl.Wilsona kolo przyst. tram. w strone Zoliborza. (srebrny)
+4   804-95-75  Mickiewicza/Potocka naprzeciwko petli 36 (srebrny)
+5   804-95-76  Mickiewicza/Potocka naprzeciwko petli 36 (srebrny)
+
+1   803-91-37  Poczta na Filareckiej - na zewn. (srebrny)
+2   804-95-71  Poczta na ul. M.Kazimiery - przed (srebrny)
+3   804-95-55  Poczta na ul. M.Kazimiery - przed (od strony kiosku) (srebrny)
+4   804-95-70  Poczta na ul. M.Kazimiery - w srodku (srebrny)
+5   803-91-01  pod kinem "Wisla" (srebrny)
+6   803-91-09  pod kinem "Wisla" (srebrny)
+7   804-95-63  Popieluszki 21 (tzw.pawilony - na dole)
+8   804-93-61  Podlesna/Marymoncka (k/ przystanku)
+9   804-93-52  Podlesna/Marymoncka (k/baru)
+10  804-93-51  Podlesna/Marymoncka (k/baru)
+11  804-96-08  PKS Marymont (na slupie, jedna z 2) na slupie (srebrny)
+12  804-90-91  przed PCT TPSA Wawrzyszew (Wolczynska/Wolumen) (srebrny,#1/3)
+13  804-90-62  przed PCT TPSA Wawrzyszew (Wolczynska/Wolumen) (srebrny,#2/3)
+14  804-90-63  przed PCT TPSA Wawrzyszew (Wolczynska/Wolumen) (srebrny,#3/3)
+15  864-86-99  PCT Wolczynska (kabina w srodku, niebieski)
+16  864-88-61  PCT Wolczynska (kabina w srodku, niebieski)
+17  864-89-84  PCT Wolczynska (kabina w srodku, zetonowiec)
+18  804-90-58  pawilon Petofiego 3(!) prawy (srebrny) 
+19  804-91-51  pl. Inwalidow (k/przystanku tramwajowego w strone pl. Wilsona) (srebrny)
+20  804-90-56  Przybyszewskiego/Schroegera
+21  804-91-12  Przybyszewskiego/Zeromskiego #1/2 (przy aptece)
+22  804-91-13  Przybyszewskiego/Zeromskiego #2/2 (przy aptece)
+
+
+1   803-91-31  rog Slowackiego/pl.Wilsona - przed sklepem "Asumpt" 
+2   803-91-19  rog Slowackiego/pl.Wilsona - przed sklepem "Asumpt" 
+3   804-95-64  Slowackiego/Suzina #1/2
+4   804-95-76  Slowackiego/Suzina #2/2
+5   804-93-50  Szpital Bielanski (jedna z 4 budek)
+6   804-94-04  Szpital Bielanski (jedna z 4 budek)
+7   804-95-62  Slowackiego/Szczepanowskiego (?) (srebrny, na slupie)
+8   804-95-91  Slowackiego/Szczepanowskiego (?) (srebrny, na slupie)
+9   804-93-56  SAM na Staffa 6(srebrniak na bocznej scianie)
+
+1   803-91-16  naprzeciwko Urzedu Gminy Zoliborz (srebrny)
+2   803-91-17  naprzeciwko Urzedu Gminy Zoliborz (srebrny)
+3   803-91-18  naprzeciwko Urzedu Gminy Zoliborz (srebrny)
+
+1   804-91-07  Wawrzyszew przy kosciele 
+2   804-91-06  Wawrzyszew przy kosciele 
+
+1   803-91-48  Zajaczka (szkola)  (dawniej 869-98-65). 
+2   803-91-03  Zajaczka (naprzeciwko szkoly)(ten bardziej naprzeciwko Dworca Gdanskiego)
+3   803-80-63  rog Zeromskiego/Duracza (na slupie, NIE po stronie komendy) (srebrny)
+4   803-80-64  rog Zeromskiego/Duracza (na slupie, NIE po stronie komendy) (srebrny)
+5   804-91-00  rog Zeromskiego/al.Reymonta (srebrny, #1/2)
+6   804-90-99  rog Zeromskiego/al.Reymonta (srebrny, #2/2)
+
+CENTRUM
+
+1   802-61-80  Poczta glowna 1 (srebrny)
+2   802-82-52  Poczta glowna 2 (srebrny) 
+3   802-82-35  Poczta glowna 3 (srebrny) 
+4   802-81-98  Poczta glowna 4 (srebrny) 
+5   802-82-26  Poczta glowna 5 (niebieski)
+6   802-61-25  Poczta glowna 6 (niebieski)
+7   802-60-27  Poczta glowna 7 (niebieski)
+8   802-75-09  Poczta glowna 8 ("jajko")
+9   802-75-11  Poczta glowna 9 ("jajko") 
+10  802-75-10  Poczta glowna 10 ("jajko")
+11  802-75-09  Poczta glowna 11 ("jajko") 
+12  802-82-39  Poczta glowna 12 (niebieski) 
+13  802-61-50  Poczta glowna 13 (niebieski)
+14  802-60-89  Poczta glowna 14 (niebieski)
+15  802-60-90  Poczta glowna 15 (niebieski)
+16  802-60-66  Poczta glowna kabina (zetonowiec)  
+
+
+1   803-00-07  akademik "Mikrus" ul.Warynskiego kolo sklepiku 
+2   803-00-09  akademik "Mikrus" ul.Warynskiego przy windach 
+3   802-84-16  Al. Jerozolimskie rog Brackiej (srebrny) 
+4   802-83-39  Al. Niepodleglosci 222A (srebrniak) 
+5   802-83-65  Aleje Jerozolimskie 33 (srebrniak) 
+6   802-71-30  Al. Solidarnosci rog Andersa (srebrny)
+7   802-05-84  Andersa (naprzeciwko przyst. tramw. Muranowska) (srebrny,#1/2)
+8   802-05-95  Andersa (naprzeciwko przyst. tramw. Muranowska) (srebrny,#2/2)
+9   803-00-51  Armii Ludowej 28, (BOK TPSA) (srebrny, #1/3)
+10  803-00-52  Armii Ludowej 28, (BOK TPSA) (srebrny, #2/3)
+11  803-00-53  Armii Ludowej 28, (BOK TPSA) (srebrny, #3/3)
+
+
+1   802-00-85  Brzozowa 5/9 na slupie #1/2(srebrny)
+
+1   802-83-95  Chalubinskiego przed Min. Trans. i Gosp. Morskiej (srebrny)
+
+1   802-01-09  Dluga (naprzeciwko Dlugiej 3) 
+2   802-01-10  Dluga (naprzeciwko Dlugiej 3) 
+3   802-05-80  Dluga 9 (kabina przed szkola) #2/2
+4   802-06-00  Dluga (vis-a-vis Instytutu Sztuki PAN)
+5   802-05-41  Dluga (vis-a-vis Wydzialu Nauk Ekonomicznych UW)
+6   802-61-97  DH Smyk (z tylu, vis-a-vis Rossmana)
+7   802-62-27  DH Smyk (z tylu, vis-a-vis Rossmana)
+
+1   802-83-67  E.Plater (k. chinese food/banku pko) (-)
+
+1   802-01-07  pod Freta 3 
+2   802-01-08  pod Freta 3 
+
+1   802-92-03  Hoza 35 (srebrniak naprzeciwko Semiconductors Bank LTD) (-)
+2   802-83-76  Hoza 40 rog Grabowskiego (srebrny) 
+3   802-83-54  Hoza 40 rog Grabowskiego (srebrny)
+4   802-83-25  Hoza (przy pogotowiu) (niebieski)  
+5   802-92-80  Hala Koszykowa (wewnatrz, podobno dobrze zakamuflowany) (srebrny)
+
+1   802-01-06  Jezuicka
+2   802-00-99  Jezuicka
+
+1   802-91-85  Koszykowa (hala) - przy wejsciu gl. 
+2   802-91-86  Koszykowa (hala) - przy wejsciu gl. 
+3   802-91-89  Ksiazeca rog Kruczkowskiego 
+4   802-92-90  Ksiazeca rog Kruczkowskiego 
+5   802-83-99  Koszykowa/Niepodleglosci (kolo kwiaciarni) (srebrny)
+6   802-00-38  Krzywe Kolo 
+7   802-00-19  Krzywe Kolo 
+8   802-72-68  rog Koszykowej i Lwowskiej k. IPC (na przeciwko Architektury) srebrny
+9   802-62-10  rog Krakowskie Przedmiescie/Miodowa
+10  802-01-18  Kilinskiego/Dluga  #2/2
+11  802-01-20  Kilinskiego/Dluga  #1/2
+
+1   802-92-36  Ludna rog Solec (srebrny) 
+2   802-92-74  Ludna rog Solec (srebrny) 
+3   802-92-13  Lindleya 14 (przy wejsciu do US)
+4   802-92-60  Lindleya 14 (przy wejsciu do US)
+5   802-05-78  Lenartowskiego/Stawki (kolo Spolecznej Przychodni Onkologicznej) (srebrny)
+
+1   802-62-37  Marszalkowska - polkabina na "Sezamie" 
+2   802-92-41  Marszalkowska 45/49 (srebrniaki) 
+3   802-84-07  Marszalkowska 45/49 (srebrniaki) 
+4   802-72-71  Marszalkowska rog Swietokrzyskiej (kolo Metra) 
+5   802-91-93  Metro Politechnika (srebrniaki) 
+6   802-81-86  Metro Politechnika (srebrniaki) 
+7   802-91-92  Metro Politechnika (srebrniaki) 
+8   802-81-83  Metro Politechnika (srebrniaki) 
+9   802-06-12  naprzeciwko Mostowej 8(jeden z dwoch)
+10  802-92-29  Marszalkowska 24 k. Dzieciecego Szpitala Klinicznego (srebrny)
+11  802-00-12  Miodowa 21  #1/2
+12  802-00-14  Miodowa 21  #2/2
+13  802-06-29  Miodowa 21c (Akademik ChAT)
+14  802-06-60  Metro Ratusz (#3/3)
+15  802-06-59  Metro Ratusz (#2/3)
+16  802-06-58  Metro Ratusz (#1/3)
+17  802-92-29  Marszalkowska/Litewska (przy szpitalu dzieciecym)
+18  802-82-63  Mokotowska/Piekna (przy aptece)
+
+1   802-83-90  Noakowskiego (glowne wyjscie z polibudy/k. cukierni): (srebro) 
+2   802-92-00  Noakowskiego (k. wydz. transportu/ kwiaciarni): (srebro) 
+3   802-82-37  Nowogrodzka 28/34 (srebrniak) 
+4   802-92-40  Nowogrodzka 42 (srebrny) 
+5   802-83-43  Nowowiejska 24 (inside MEiL kolo dziekanatu) (srebrniak) 
+6   802-92-00  Noakowskiego (k. wydz, transportu/ kwiaciarni) (srebrny) 
+7   802-83-90  Noakowskiego (glowne wyjscie z polibudy/k. cukierni) (srebro) 
+8   802-92-95  Nowogrodzka/Aleje Jerozolimskie
+9   802-62-16  Nowy Swiat/ Swietokrzyska (przy Restaurant Cafe)
+10  802-92-20  Nowogrodzka/Sw.Barbary (srebrny)
+
+1   803-01-48  Oleandrow/Marszalkowska
+2   803-01-49  Oleandrow/Marszalkowska 
+
+1   802-82-03  Pl. Konstytucji 2 (srebrniak) (drugiego brak)
+2   802-92-55  pl. Konstytucji srebrniaki (pod filarami) (#1/2) 
+3   802-92-81  pl. Konstytucji srebrniaki (pod filarami) (#2/2)
+4   802-83-41  Pl. Politechniki, rog Lwowskiej (srebrniak) 
+5   802-81-25  Pl. Trzech Krzyzy przy Ministerstwie Gospodarki (srebrny)
+6   802-84-08  Pl. Trzech Krzyzy/Ksiazeca (srebrny): 
+7   803-00-20  Pl. Politechniki kolo gmachu gownego (kwiaciarni) (srebrniak)
+8   803-00-63  Polna (za Riviera) (srebrny)
+9   803-00-61  Polna k. Bazar Polna 1/2, ten blizszy pw (srebniak)
+10  803-00-47  Pl. Unii Lubelskiej k. przystanku tramwajowego naprzeciwko kiosku (srebrniak) 
+11  803-00-14  pl. Unii Lubelskiej na budynku strazy pozarnej (srebrniak) 
+12  802-82-41  Parkingowa rog Zurawiej (srebrny)
+13  802-91-63  Parkingowa rog Nowogrodzkiej (srebrny)
+14  802-84-26  Politechnika (wejscie od szatni)
+15  802-83-92  Politechnika (wejscie od szatni)
+16  802-83-94  Politechnika (wejscie od szatni)
+17  802-84-44  Politechnika (wejscie od szatni)
+18  803-00-45  Polna (za Riviera)
+19  802-92-94  Pankiewicza/Aleje Jerozolimskie
+20  802-75-00  PKiN na 2 (?)pietrze (jajo)
+21  802-05-45  pl.Bankowy (wejscie do metra vis a vis Arsenalu)
+22  802-05-20  pl.Bankowy (wejscie do metra vis a vis Arsenalu) (blizsza metra)
+23  802-62-56  Pl.Bankowy (przyst. tramw) (srebrny,#1/2)
+24  802-01-24  Pl. Krasinskich  #1/2
+25  802-00-84  Pl. Krasinskich  #2/2
+26  803-01-40  Polna/Warynskiego (jajeczko na slupie)
+27  802-92-88  Rog Marszalkowskiej i Pieknej (srebrniak)
+28  802-91-44  Poznanska k. "Restauracji Szkolnej" (srebrny, #1/2)
+29  802-91-55  Poznanska k. "Restauracji Szkolnej" (srebrny, #2/2)
+30  802-91-58  Poznanska/Wilcza (srebrny, #1/2)
+31  802-92-30  Poznanska/Wilcza (srebrny, #2/2)
+32  802-83-29  Poznanska/Wspolna (srebrny)
+33  802-92-40  Poznanska/Nowogrodzka (naprzeciw TPSA) (srebrny)
+34  802-92-95  Pankiewicza/Nowogrodzka k. ROMY (srebrny) 
+35  802-83-42  pl. Zbawiciela k. kaplicy metodystow (srebrny) 
+
+1   803-01-38  k. Remontu (brak dokladnych danych) 
+2   803-01-39  k. Remontu (brak dokladnych danych)
+3   802-05-17  Rynek Nowego Miasta (k/ Koscielnej)
+4   802-06-20  rog Senatorska/Miodowa (#2/2)
+5   802-05-39  rog Senatorska/Miodowa (#1/2)
+6   802-62-55  rog Senatorska/Moliera 
+7   802-72-71  Swietokrzyska 30 
+8   801-70-01  Swietokrzyska (troche oddalona od tej powyzejw bramie) 
+9   802-60-84  Senatorska 29/31 (pod budynkiem, taka stara budka)
+10  802-05-38  Swietojerska/Bonifraterskiej (przy Saysonic'u)
+11  802-61-39  Sienkiewicza/ Zgoda (na tylach PKO i Filharmonii Narodowej)
+
+1   803-01-35  ul.Warynskiego k. przystanku DS.Riviera (jajo,#1/2)
+2   803-01-34  ul.Warynskiego k. przystanku DS.Riviera (jajo,#2/2)
+3   803-32-50  Wawelska/Curie-Sklodowskiej (k. Centrum Onkologii) (jajko, #1/2)
+4   803-32-51  Wawelska/Curie-Sklodowskiej (k. Centrum Onkologii) (jajko, #2/2)
+5   803-30-43  Wawelska/Raszynska (srebrniak, #1/2)
+6   803-30-44  Wawelska/Raszynska (srebrniak, #2/2)
+7   803-00-46  Wawelska/zwirki i Wigury (srebrniak obnizony, #1/1)
+8   803-32-46  Wawelska/Grojecka (jajko, #1/2)
+9   803-32-47  Wawelska/Grojecka (jajko, #2/2)
+10  802-82-08  al. Wyzwolenia 11-15 k. solarium (srebrny) 
+11  803-00-44  Wisniowa/Batorego (kolo Stodoly) (srebrny)
+12  802-05-13  pod kinem WARS 
+13  802-05-14  pod kinem WARS 
+14  802-83-33  Wspolna/Chalubinskiego (srebrny)
+ 
+1   802-05-76  ul.Zamenhofa (Budynek TPSA,przy kasach)
+
+WOLA
+ 
+1   802-52-32  Gorczewska 27/35 (srebrny) 
+
+2   802-23-34  Kaliskiego 11 (w WAT-cie) (srebrny)
+3   802-23-00  Kaliskiego (UP, #1/2) 
+4   802-25-10  Kaliskiego (UP, #2/2)
+5   802-31-38  Kolo - petla tramwajowa (srebrny) 
+
+1   802-00-52  Okopowa 58/72 (Klif, parter) 
+2   802-00-61  Okopowa 58/72 (Klif, parter) 
+3   802-00-39  Okopowa 58/72 (Klif, pietro)
+4   802-00-72  Okopowa 58/72 (Klif, pietro)
+5   802-31-04  Obozowa przy poczcie (srebrne) 
+6   802-31-07  Obozowa przy poczcie (srebrne) 
+7   802-30-39  Obozowa na poczcie (niebieski) 
+
+1   802-23-12  Radiowa/Kaliskiego (petla autobusowa przyst. STARE BEMOWO) (srebrny, #1/2)
+2   802-23-21  Radiowa/Kaliskiego (petla autobusowa przyst. STARE BEMOWO) (srebrny, #2/2)
+
+1   803-86-11  rog Trasy AK/Powazkowska (po stronie Fortow Bema, srebrny)
+2   803-86-12  rog Trasy AK/Powazkowska (po stronie Fortow Bema, srebrny)
+
+MOKOTOW 
+
+1   804-65-06  HIT (Kabaty 1 wejscie od prawej) (jajo)
+2   804-60-49  HIT (Kabaty 1 wejscie od prawej) (srebro)
+3   804-65-17  HIT (Kabaty 2 wejscie od prawej) (jajo)
+4   804-60-45  HIT (Kabaty 2 wejscie od prawej) (srebro)
+5   804-50-84  Herbsta/Al. KEN (przyst. aut. Metro Stoklosy 02)
+
+1   804-01-19  Metro Stoklosy (srebrny)
+2   804-01-20  Metro Stoklosy (srebrny)
+3   804-01-18  Metro Stoklosy (srebrny)
+4   804-01-15  Metro Stoklosy (srebrny)
+
+1   804-03-41  pl. Unii Lubelskiej (k/wylotu Pulawskiej)
+2   804-03-37  pl. Unii Lubelskiej (k/wylotu Pulawskiej)
+3   804-50-89  Pileckiego/Roentgena (przyst. aut. Centrum Onkologii 04)
+
+1   804-60-14  Stryjenskich/Belgradzka
+
+OCHOTA 
+
+1   803-30-23  Bitwy Warszawskiej/Grojecka (naprawiony #3/3 srebrny)
+
+1   803-30-85  Dickensa/Skorochod-Majewskiego (pod drzewem na slupie)
+2   803-30-86  Dickensa/Skorochod-Majewskiego (pod drzewem na slupie)
+
+1   803-30-25  Grojecka/Banacha (srebrny #1/2)
+
+1   803-30-77  Korotynskiego/Grojecka 
+2   803-30-78  Korotynskiego/Grojecka 
+
+1   803-31-26  Moldawska rog Korotynskiego 1
+2   803-31-27  Moldawska rog Korotynskiego 2
+
+1   803-31-21  Winnicka/Grojecka (srebrny) 
+2   803-31-20  Winnicka/Grojecka (srebrny)
+
+PRAGA
+
+1   805-02-28  rog Koscieliska/Radzyminska
+2   801-70-40  Castorama na Glebockiej
+3   801-70-43  Castorama na Glebockiej
+4   801-70-78  Carrefour na Glebockiej
+5   801-70-81  Carrefour na Glebockiej
+6   801-30-91  Ostrobramska (przy rozwidleniu Trasy Lazienkowskiej, przy przystanku) (srebrny)
+7   805-01-59  Zamoyskiego/Zieleniecka 
+
+
+Numery z miejscowosci podwarszawskich
+
+1   805-10-00  Marki - Centrum Handlowe M1 (na zewnatrz) (srebrny)
+2   805-10-01  Marki - Centrum Handlowe M1 (na zewnatrz) (srebrny)
+3   805-10-20  Marki - Centrum Handlowe M1 (na zewnatrz) (srebrny)
+4   805-10-21  Marki - Centrum Handlowe M1 (na zewnatrz) (srebrny)
+5   805-10-02  Marki - Centrum Handlowe M1 (na zewnatrz) (srebrny) 
+6   805-10-45  Marki - Centrum Handlowe M1 (w srodku) (srebrny) 
+7   805-10-46  Marki - Centrum Handlowe M1 (w srodku) (srebrny) 
+8   805-10-47  Marki - Centrum Handlowe M1 (w srodku) (srebrny) 
+
+
+1   803-51-21  Pruszkow, dworzec PKP 
+2   803-51-22  Pruszkow, McDonald (ul. Wojska Polskiego) (#1/2)
+3   803-50-29  Pruszkow, Wojska Polskiego/Al. Niepodleglosci
+4   803-50-97  Pruszkow, Al Niepodleglosci (k. Lekarskiej spol. pracy MEDICA) 
+5   803-50-20  Pruszkow, Armii Krajowej (ko-o nr. 77) 
+6   803-50-32  Pruszkow, Bohaterow warszawy (k. CPN) 
+7   803-50-31  Pruszkow, Prusa (k. Kina)
+8   803-51-18  Pruszkow, Kosciol Sw. Kazimierza (#1/2)  
+9   803-51-20  Pruszkow, Kosciol Sw. Kazimierza (#2/2) 
+
+LEGENDA: 
+US - Urzad Skarbowy 
+UP - Urzad Pocztowy 
+#1/2 - oznacza to pierwsza budke z lewej, analogicznie dla innych 
+p.a. - przystanek autobusowy

@@ -1,0 +1,7 @@
+Pliki z mapami dla programu Google Earth (earth.google.com):
+
+bts.kmz - Plik ze stacjami bazowymi dla programu Google Earth (autor Leszek Żur)
+linie.kmz - Plik z liniami radiowymi dla programu Google Earth (autor Leszek Żur)
+
+Inne:
+poibts.rar [256 kB] - POI ze stacjami bazowymi dla programu Automapa (autor Leszek Żur)

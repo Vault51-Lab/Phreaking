@@ -1,0 +1,98 @@
+Nokia 3110
+Numer IMEI	*#06#
+Wersja oprogramowania	*#0000# lub *#3110#
+Informacja o simlock'u	*#92702689#
+
+Nokia 3210/3310
+Wersja oprogramowania	*#0000#
+Informacja o simlock'u	*#92702689#
+Wyłączenie EFR	*3370# [#3370#off]
+Half Rate	*4720#
+Status locka operatora	#pw+1234567890+1
+Status locka sieci	#pw+1234567890+2
+Status locka karty SIM	#pw+1234567890+4
+
+Nokia 3110
+Numer IMEI	*#06#
+Wersja oprogramowania	*#0000# lub *#3110#
+Informacja o simlock'u	*#92702689#
+
+Nokia 3210/3310
+Numer IMEI	*#06#
+Wersja oprogramowania	*#0000#
+Informacja o simlock'u	*#92702689#
+Wysoka jakość połączeń - włączanie	*3370#
+Wysoka jakość połączeń - wyłączanie	#3370#
+Niska jakość połączeń - włączanie	*4720#
+Niska jakość połączeń - wyłączanie	#4720#
+
+Siemens C25/C35/C35i/S35i/S25
+Numer IMEI	*#06#
+Wersja oprogramowania	wpisz bez karty *#06# i naciśnij długi przycisk
+Bonusowy screen	w książce tel. wpisz: +12022243121
+
+Siemens C25
+wybór autom. języka	*#0000#+zielona słuchawka
+język angielski	*#0001#+zielona słuchawka
+język niemiecki	*#0049#+zielona słuchawka
+Zmiana PIN'u	**04*stary PIN*nowy PIN*nowy PIN#
+Ściąganie simlocka	*#0003* xxxxxxxx #
+(gdzie xxxxxxx jest 8-mio cyfrowym master kodem)
+
+Siemens C35/C35i/S35i
+Numer IMEI	*#06#
+Wersja oprogramowania	wpisz bez karty *#06# i naciśnij długi przycisk
+
+Siemens S25
+Enhanced Full Rate - włączanie	*#3370#
+Enhanced Full Rate - wyłączanie	#3370#
+Haft Rate Mode - włączanie	*#4720#
+Haft Rate Mode - wyłączanie	#4720#
+wybór automatyczny języka	*#0000#+zielona słuchawka
+język angielski	*#0001#+zielona słuchawka
+język niemiecki	*#0049#+zielona słuchawka
+Zmiana PIN2	**04*stary PIN2*nowy PIN2*nowy PIN2#
+
+Motorola
+Numer IMEI	*#06#
+Włączenie Monitora Sieci	***113*1*[OK]
+Wyłączenie Monitora Sieci	***113*1*[OK]
+Alcatel
+Numer IMEI	*#06#
+Wersja oprogramowania	*#06#
+Menu serwisowe	000000*
+Zmiana języka na polski	*#0048#
+
+Samsung
+Numer wersji software	*#9999#
+Monitor Sieci	*#0324#
+Pokaż pojemność karty SIM	*#0746#
+Ustawienie kontrastu wyświetlacza LCD	*#0523#
+Ustawienie sygnału alarmowego	*#0289#
+
+Samsung SGH600/2100DB
+Numer IMEI	*#06#
+Wersja oprogramowania	*#9999# albo *#0837#
+Net Monitor	*#0324#
+Reset pamięci (zdjęcie SIMLOCK`a!!!)	*2767*3855#
+(działa tylko na starszych wersjach)
+Reset pamięci CUSTOM	*2767*2878#
+(działa tylko na starszych wersjach)
+Zmiana kontrastu wyświetlacza	*#0523#
+Info o pamięci	*#0377# albo *#0246#
+Stan akumulatora	*#9998*228#
+Zmiana dźwięku alarmu	*#9998*289#
+Test wibratora	*#9998*842#
+
+Sagem 7xx
+Numer IMEI	*#06#
+Netmonitor	menu 511#
+
+Philips
+Numer IMEI	*#06#
+Info o simlock`u	*#8377#
+Security code	*#1234#(Fizz) albo *#7489#
+
+Ericsson 6xx/7xx/8xx/A1018S/T10S/T18S/T28S
+Numer IMEI	*#06#
+Wersja oprogramowania	>*<<*<*

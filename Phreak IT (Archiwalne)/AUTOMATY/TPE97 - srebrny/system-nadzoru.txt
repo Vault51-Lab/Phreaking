@@ -1,0 +1,127 @@
+System nadzoru dla dużych sieci
+
+System nadzoru ma architekturę dwupoziomowš. W jego skład wchodzš następujšce elementy: 
+   
+ CON-STG Koncentrator lokalnych STG (szczebel centralny).
+Zbiera od lokalnych STG dane i alarmy z poszczególnych telefonów. Kontroluje każdš kartę 
+wprowadzonš do obiegu. Tworzy białš i czarnš listę kart. Rozsyła zmiany oprogramowania i
+wygenerowane listy do telefonów przez podległe STG.
+
+ 
+ TUG Stacja Graficzna Użytkownika.
+Prezentuje w formie graficznej wskaniki jakoci usług telefonicznych w odniesieniu 
+do całego kraju lub regionów. Może być wykorzystywana zarówno na szczeblu centralnym 
+jak i lokalnym.
+
+ 
+ STG Lokalne Centrum Nadzoru (szczebel lokalny).
+Jest to centrum zarzšdzania i konserwacji telefonów. Umożliwia konfigurowanie aparatów, 
+zbieranie informacji o połšczeniach i przyjmowanie alarmów pojedynczych telefonów. Kontakt 
+z telefonem realizowany jest przez modem. W maksymalnej konfiguracji może zarzšdzać 8 
+zewnętrznymi modemami. Do każdego modemu można podłšczyć maksymalnie do 100 aparatów, 
+co daje maksymalnš liczbę 800 telefonów kontrolowanych przez jedno STG. 
+Dostarcza konserwatorom obsługujšcym telefony informacji o podstawowych parametrach 
+pracy aparatów i przyczynach ewentualnych awarii. 
+
+ System nadzoru Publicznych Aparatów Samoinkasujšcych przedstawia rysunek: System 
+Nadzoru STG. Połšczenia okrelajšce współpracę poszczególnych elementów systemu 
+pokazano na schemacie: System nadzoru dla dużych sieci.  
+
+
+ Koncentrator lokalnych centrów nadzoru CON-STG
+
+     CON-STG będšcy koncentratorem lokalnych centrów nadzoru STG-97 działa w rodowisku 
+Windows NT 4.0 Server. Baza danych realizowana jest przy pomocy DBMS Sybase System 11 
+SQL Server. Aplikacja CON-STG wykonuje wszystkie zadania niezbędne do prawidłowej 
+pracy całego systemu nadzoru sieci aparatów publicznych.
+     Jak to sugeruje nazwa podstawowym zadaniem koncentratora CON-STG jest zbieranie 
+na poziomie krajowym danych uprzednio zebranych przez lokalne centra STG, sš to dane 
+dotyczšce ruchu i awarii.
+     Gdy przyjęte dane zostanš przetworzone możliwa jest realizacja zapytań statystycznych
+ z poziomu stacji TUG co pozwala na nadzór i kontrolę jakoci usług w sieci telefonów 
+publicznych. W tym kontekcie bardzo ważna jest wielkoć generowanej czarnej listy na 
+podstawie danych o ruchu. Procedury automatyczne i procedury wywoływane przez operatora 
+pozwalajš na generowanie plików systemowych wysyłanych do wszystkich STG, a te następnie 
+rozsyłajš je do aparatów.
+
+Architektura CON-STG jest realizowana w oparciu o następujšce moduły:
+    - interfejs użytkownika,
+    - zarzšdzanie płatnociami elektronicznymi,
+    - zarzšdzanie plikami systemowymi,
+    - zarzšdzanie wymianš komunikatów i plików,
+    - serwer bazy danych.
+
+Z każdym z modułów zwišzany jest proces wykonywany równolegle z innymi przy 
+wykorzystaniu mechanizmów wielozadaniowoci Windows NT. System wymiany 
+komunikatów pomiędzy modułami umożliwia koordynację ich pracy.
+
+Interfejs użytkownika 
+
+Pozwala na interakcyjna pracę operatora z CON-STG. Przy pomocy interfejsu użytkownika 
+operator może:
+    - wprowadzić dane dotyczšce nowych kart,
+    - zakazać serii lub grupy kart,
+    - zarzšdzać metryczkami wielu STG,
+    - przygotować listę numerów zabronionych i bezpłatnych,
+    - przygotować dane do autotaryfikacji,
+    - wprowadzić oprogramowanie płyty głównej i czytnika,
+    - wprowadzić pliki zawierajšce komunikaty głosowe i używane do komunikacji
+       z użytkownikiem
+    - zarzšdzać kosztami częci składowych aparatu.
+
+
+Stacja Graficzna TUG
+
+     Stacja Graficzna TUG umożliwia dostęp do danych będšcych w dyspozycji systemu
+CON-STG.
+
+Stacja TUG może być konfigurowana w dwóch wersjach (sprzętowo identycznych):
+    - TUG/D przeznaczona dla jednostki centralnej operatora,
+    - TUG/O przeznaczona dla jednostek terytorialnych operatora.
+
+     Obie wersje różniš się zakresem danych, do których majš dostęp. TUG/D pozwala na 
+dostęp do danych dotyczšcych całego terenu, na którym działa operator. Z serwerem CON-STG 
+łšczy się przez sieć lokalnš LAN. TUG/O pozwala na dostęp do danych dotyczšcych jednostki 
+terytorialnej operatora (danych zebranych przez STG pracujšce w danej jednostce). Z 
+serwerem CON-STG łšczy się przez sieć transmisji danych POLPAK (X25).
+     Obydwie wersje stacji TUG pracujš na komputerze opartym o procesor typu RISC (IBM 
+RISC 6000) co znacznie przyspiesza procesy przetwarzania. Komputer wyposażony jest w 
+kolorowy monitor wysokiej rozdzielczoci (1024x1024) o przekštnej ekranu 20".
+     Stacja TUG współpracuje z systemem informacji geograficznej GIS (Geographic Information 
+System). Umożliwia to realizację kontaktu z użytkownikiem przy pomocy wywietlanych na ekranie 
+map i planów miast.
+
+Stacja TUG umożliwia:
+
+   ˇ Korzystanie w czasie rzeczywistym z bazy danych CON-STG.
+   ˇ Prezentowanie otrzymywanych danych w różnych formach - w postaci tabel i wykresów
+     lub przez pokrycie okrelonych obszarów mapy kolorami reprezentujšcymi jakoć usług.
+   ˇ Sprawne i elastyczne poruszanie się w strukturze terytorialnej operatora aż do poziomu
+     pojedynczego aparatu uwidacznianego na odpowiedniej mapie w postaci specjalnie do
+     tego celu zdefiniowanych symboli graficznych (ikon).
+   ˇ Łšczenie w grupy aparatów telefonicznych o wybranej cesze i/lub znajdujšcych się na
+     wybranym terenie z możliwociš wykonania na tak zdefiniowanej grupie wszystkich
+     dostępnych w systemie operacji.
+   ˇ W przypadku braku map poruszanie się po strukturze terytorialnej korzystajšc z nazw
+     jednostek organizacyjnych i realizacji wszystkich funkcji systemu.
+
+
+Lokalne Centrum Nadzoru STG
+
+Lokalne Centrum Nadzoru STG zarzšdza aparatami na okrelonym terenie. Umożliwia pełnš 
+kontrolę dołšczonych aparatów.
+
+Podstawowymi funkcjami realizowanymi przez STG sš:
+
+    - zdalna zmiana oprogramowania aparatu,
+    - zdalne testy aparatu,
+    - przyjmowanie alarmów aparatów,
+    - przyjmowanie informacji o ruchu generowanym przez pojedynczy aparat,
+    - wykonywanie operacji statystycznych na zgromadzonych danych,
+    - przyjmowanie z CON-STG plików oprogramowania, białej i czarnej listy,
+    - przesyłanie do CON-STG danych o ruchu i alarmach.
+
+Dane przekazywane pomiędzy STG i aparatami sš zabezpieczone kryptograficznie.
+Łšcznoć pomiędzy STG i aparatem jest realizowana poprzez sieć telefonicznš (PSTN lub ISDN). 
+Łšcznoć STG z CON-STG jest realizowana poprzez sieć transmisji danych POLPAK.
+ 

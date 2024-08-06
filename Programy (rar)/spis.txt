@@ -1,0 +1,18 @@
+
+- The Interactive Disassembler - swietny program bardzo pomocny
+przy roznych zadaniach jak wyciagniecie hasla i inne; obsluguje
+wiele procesorow, posiada rozne ciekawe funkcje ulatwiajace
+latanie po kodzie [18,3 MB]
+- Syntalk - stary polski syntezator mowy; nietrudno znalezc mu
+jakies ciekawe zastosowanie:) [1,04 MB]
+- Uuencode - umozliia kodowanie roznych plikow do tekstu (ASCII) [9 KB]
+- Uudecode - jak wyzej; dekodowanie z ASCII do pliku [16 KB]
+- Blubeep - historyczny juz program, sporo bajerow, szkoda tylko,
+ze te najbardziej spektakularne raczej u nas nie przejda... [315 KB]
+- Pbxhack - poskramiacz PBXow; nie robcie tego z domu;) [38 KB]
+- ToneLoc - leciwy juz skaner przeszukujacy zadany mu przedzial numerow
+[314 KB]
+- Spr2 - program Masnika do sterowania czytnikiem od niebieskiego wedlug
+opisu Shadowa [7 KB]
+- Czytnik - program tego typu co powyzszy [10 KB]
+- chip v0.2 build 42 [186KB] program do odczytu danych z kart chip autorstwa Zajadacza, do dzialania wymaga instalacji sterownika port95nt [1,46MB]

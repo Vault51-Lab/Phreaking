@@ -1,0 +1,175 @@
+W erze Internetu i telefonów komórkowych, kiedy rozmowy telefoniczne 
+sš horrendalnie drogie, a nasze władze wcišż podnoszš stawki podatku na 
+usługi telekomunikacyjne, coraz bujniej rozwija się pheaking. 
+
+Pheakerzy to ludzie, którzy za wszelkš cenę starajš się uzyskać możliwoć
+tańszego bšd bezpłatnego prowadzenia rozmów telefonicznych. Na Zachodzie, 
+gdzie systemy telefoniczne, centrale korzystajš z komputerów i sš 
+połšczone w sieć, proceder polegajšcy na włamywaniu się do tychże systemów 
+kwitnie w najlepsze. Jednak dopóki nasz ukochany monopolista - "Telekomuna 
+Polska Szajka Akcyjna" zarzšdza większš częciš infrastruktury 
+telekomunikacyjnej w kraju, dopóty nie musimy się obawiać włamań. Wiele 
+central to zabytkowy złom, ich konstrukcje zatrzymały się na przełomie XIX 
+i XX wieku, kiedy to przedsiębiorca pogrzebowy, pan Strowger, wymylił 
+pierwszš na wiecie centralę automatycznš. A od tego czasu wiele się w tej 
+dziedzinie zmieniło.
+
+
+Bezpłatny automat telefoniczny 
+
+Jeżeli chodzi o próby darmowego wykonywania rozmów telefonicznych, 
+dotychczas największym powodzeniem cieszyły się automaty telefoniczne. 
+Najprostszym sposobem było wpięcie się na "pajška" w kable biegnšce do 
+automatów. Od pewnego czasu kable te zaczęto umieszczać w specjalnych 
+metalowych rurkach, uniemożliwiajšcych szybkie i wygodne podpinanie się. 
+Jednš z najbardziej modnych metod na dzwonienie za darmo z automatów 
+wrzutowych (ale wyłšcznie z tych małych z tarczš) było uderzanie ich 
+poniżej wlotu żetonu. Zazwyczaj powodowało to, że automat zaliczał 
+uderzenie... jako żeton. W odpowiedzi na tak brutalne praktyki ze strony 
+użytkowników, TP SA wzmocniła obudowę aparatów telefonicznych, co 
+uniemożliwiło korzystanie z tak prostych sposobów oszustwa. Jak do tej 
+pory, najwięcej energii młodzi pheakerzy zużyli na opracowanie sposobu na 
+zwiedzenie automatów na karty magnetyczne.
+
+Urzšdzenia te, jako pierwsze w Polsce, mogły wybierać numer w systemie 
+tonowym, a nie - jak do tej pory - w systemie pulsacyjnym. Zatem, w ramach 
+unowoczeniania infrastruktury telekomunikacyjnej, obsługa central włšczała 
+funkcję wybierania numerów w sposób tonowy dla numerów automatów 
+korzystajšcych z kart magnetycznych. Nie minęło wiele czasu, a sytuację tę 
+zaczęto wykorzystywać. Wystarczyło zaopatrzyć się w Tone Dialer, czyli małe 
+urzšdzenie z klawiaturš jak w telefonie, które generowało "tony" (często 
+sprzęt taki dodawany jest do automatycznych sekretarek, aby umożliwić 
+zdalne odsłuchanie nagranych wiadomoci). Wystarczyło więc przyłożyć je do 
+mikrofonu w słuchawce, wykręcić żšdany numer i rozmawiać do znudzenia. 
+Jednakże ze względu na zbyt duże straty finansowe, nasz narodowy operator
+założył nowe blokady. Polegajš one na tym, iż mikrofon telefonu jest 
+uaktywniany dopiero po nawišzaniu połšczenia, co wyklucza możliwoć 
+skorzystania z bezpłatnego połšczenia, wykorzystujšc banalne metody oszustwa. 
+
+Kiedy zawiodła ta metoda, zaczęto szukać innych, tym razem skupiono się na 
+samych kartach magnetycznych. Mimo wypowiedzi bossów TPSA, iż nie da się 
+podrobić takich kart, rozpoczęto prace nad konstrukcjš karty służšcej do 
+telefonowania w sposób jak najmniej obcišżajšcy kieszenie pheakerów.
+
+Poczštki były trudne - zaczynano od pokrywania kart różnego rodzaju lakierami, 
+co raczej nie pomagało, poza tym tak przerobione karty nadawały się już tylko 
+do wyrzucenia. Wreszcie kto wpadł na genialny pomysł - przecież ten czarny 
+pasek to tama magnetyczna. Od tej pory rozpoczęto próby naklejania na karty 
+różnego rodzaju noników magnetycznych, co przeważnie kończyło się 
+zablokowaniem jej w automacie. Innym, doć ciekawym rozwišzaniem była karta 
+Read Only. Takie zabezpieczenie przed zapisem pozwoliłoby korzystać z niej 
+praktycznie bez żadnych ograniczeń. Niestety, w przypadku kart Read Only 
+skończyło się na koncepcjach i dyskusjach.
+
+W końcu po długich naradach pocztš elektronicznš pojawiło się ważne pytanie - 
+czy można skopiować dane z jednej karty na drugš. Próbę takš podjęło 
+równoczenie wiele osób. Do osišgnięcia tego szczytnego celu wykorzystano 
+stare magnetofony szpulowe, gdyż tylko one posiadały głowice o odpowiedniej 
+szerokoci, które pozwoliły objšć cały pasek karty. Na poczštku dane 
+odczytane z karty samplowano i obrabiano na komputerze, a po wzmocnieniu 
+dwięku - ponownie zapisywano. Niestety, metoda ta sprawdzała się niezwykle 
+rzadko - karta raczej nie nadawała się do użycia, dlatego też podjęto pracę 
+nad kolejnym sposobem pominięcia TP SA w rozliczeniach. Pewnego pięknego dnia 
+wreszcie dotarło do nas pierwsze doniesienie o udanej próbie skopiowania kart. 
+Otóż w domowym zaciszu pewien człowiek na jednej linijce zamontował dwie głowice 
+ze starego magnetofonu szpulowego, nagrywajšcš i odtwarzajšcš. Na biurku położył 
+nowš, 100-impulsowš, oryginalnš kartę oraz kartę fałszywš, zrobionš z przyciętej
+do odpowiednich rozmiarów karty do gry, z naklejonym paskiem tamy VHS. Jednym 
+ruchem ręki przecišgnšł równoczenie obiema głowicami po obu kartach. Po próbie 
+pobiegł do pobliskiego automatu, aby sprawdzić efekty dowiadczenia. Radoci 
+nie było końca, kiedy okazało się, że eksperyment się powiódł. Automat odczytał 
+100 jednostek, z których większoć udało się bez problemu wykorzystać. Jednakże 
+niedokładne wykonanie fałszywej karty spowodowało awarię telefonu, będšcš 
+wynikiem zablokowania się karty wewnštrz. Odtšd coraz częciej pojawiały się 
+informacje o udanych próbach kopiowania kart. Dzięki dogłębnemu zbadaniu 
+technologii podrabiania kart magnetycznych, odkryto domowymi sposobami, na jakiej 
+zasadzie odbywa się nagrywanie impulsów. Impulsy na karcie nagrane sš w postaci 
+"sygnałów" o dużej częstotliwoci umieszczonych w bardzo bliskiej odległoci. 
+Podczas rozmowy telefonicznej aparat systematycznie je kasuje.
+
+Doć skutecznš metodš było także dwukrotne posłużenie się jednš kartš. Technika 
+ta wymagała częciowego wycięcia nonika z kart oraz naklejenia go odwrotnie 
+(tyłem do przodu) przy jednoczesnym pozostawieniu poczštku, gdzie prawdopodobnie 
+znajduje się sygnał synchronizacji i inne dane niezbędne do poprawnego działania 
+karty. Całoć wystarczyło podkleić od spodu tamš klejšcš. Niestety, zaczęto 
+produkować karty z węższym paskiem magnetycznym, co uniemożliwia odwrócenie go.
+
+Prace nad wynalezieniem idealnej karty, dzięki której można byłoby dzwonić przez 
+telefon praktycznie bez ograniczeń, nie narażajšc się na ponoszenie wysokich 
+kosztów na rzecz monopolisty, trwajš dalej, a ponieważ "Polak potrafi" - 
+wczeniej czy póniej sposób taki zostanie opracowany.
+
+Inne, znacznie trudniejsze zadanie mieli niemieccy hakerzy, którzy musieli 
+wykazać się nie lada pomysłowociš. Budowa karty telefonicznej niemieckiego 
+Telekomu opiera się na wmontowanym w kartę mikroprocesorze. Lecz i to nie 
+pomogło, o rozgryzienia zasady działania karty wystarczyła fachowa literatura 
+oraz noc z kilkoma kolegami w odosobnionej budce telefonicznej ze specjalnie 
+spreparowanš kartš połšczonš z laptopem. Dzięki temu pheakerzy zza zachodniej 
+granicy w prosty sposób rozpracowali zasadę działania Smard Cards, używanych 
+przez Deutsche Telekom. Do wyprodukowania fałszywych kart wystarczyło teraz 
+tylko zdobyć odpowiednio cienki mikroprocesor. Podobnš pomysłowociš już 
+niedługo będš się mogli popisać nasi rodacy, gdyż po zakończeniu przetargu, 
+automaty na karty chipowe zacznš pojawiać się i na naszych ulicach.
+
+
+Za darmo z domu
+
+Po fali zainteresowania bezpłatnymi rozmowami z ulicznych automatów 
+telefonicznych przyszła pora na bardziej wyrafinowane metody. W Polsce, ze 
+względu na to, iż większoć central to kilkudziesięcioletnie starocie, 
+nadajšce się tylko na złom, nie jest jeszcze możliwa ingerencja w ich systemy 
+billingowe czy włamywanie się do systemów obsługi (czyli komputerów sterujšcych 
+centralami), jak to można nieraz zobaczyć w zachodnich filmach. Jednakże już za 
+kilka lat, wraz z rozwojem polskiej sieci telekomunikacyjnej i budowš nowych 
+cyfrowych central, pheaking tego typu będzie stanowić dla TP SA realne zagrożenie.
+
+Aby telefonować za darmo z własnego domu, warto poznać tzw. bramkę - założony 
+gdzie numer, po połšczeniu z którym słyszymy w słuchawce sygnał cišgły. Oznacza 
+on, że używajšc wybierania tonowego, możemy zadzwonić gdzie tylko chcemy na koszt 
+właciciela numeru. W taki włanie sposób w jednym z naszych miast duża firma 
+poniosła ogromne straty, kiedy jeden z jej pracowników założył obejcie na 
+zakładowej centrali telefonicznej. Wszystko byłoby dobrze, gdyby nikt tego nie 
+znalazł. Okazało się jednak, że informacja o obejciu rozniosła się w 
+błyskawicznym tempie i wiele osób zaczęło korzystać z niego, narażajšc 
+firmę na znaczne straty pieniężne.
+
+
+Z komórki za friko 
+
+Wraz z pojawieniem się telefonii komórkowej zaczęto podejmować próby dzwonienia 
+z aparatów komórkowych "za friko". Otóż w przypadku telefonów analogowych 
+(Centertel) możliwoć taka istniała tylko wtedy, gdy kto zgubił telefon i nie 
+zablokował go od razu u operatora. Wówczas nieuczciwy znalazca mógł sobie trochę 
+poswawolić. Inaczej się dzieje w przypadku telefonów cyfrowych GSM, gdzie numer 
+i inne dane przypisane sš do karty SIM, a nie do telefonu. Na tzw. czarnym 
+rynku kršżš karty aktywacyjne zarówno Ery, jak i Plusa, w cenie od 400-600 zł, 
+aktywowane na fałszywe dane i działajšce do momentu pierwszej kontroli płatnoci 
+rachunku. Właciciel takiej "fałszywej" karty dzwoni sobie z niej do oporu, aż 
+do momentu jej zablokowania. Pojawiły się także doniesienia o kartach - 
+duplikatach legalnych kart aktywacyjnych, które pozwalajš na korzystanie z sieci 
+na koszt innego abonenta. Jednakże doniesienia te nie sš na razie sprawdzone. 
+
+Samo dzwonienie za darmo to nie wszystko. Wraz z wejciem do naszego kraju 
+telefonii GSM rozwinšł się handel samymi telefonami, przez co na rynku zaczęły 
+się pojawiać telefony kradzione. Często się zdarza, że numery IMEI (numer seryjny) 
+sš wpisane u operatorów na tzw. czarnš listę, co powoduje, że dany telefon nie 
+może być użyty w konkretnej sieci. Dlatego też doć szybko znaleli się ludzie, 
+którzy - za odpowiedniš opłatš - umiejš tak pobawić się telefonem, że zmieniš 
+jego numer IMEI na fałszywy. W efekcie sieć komórkowa nie jest już w stanie 
+stwierdzić, że aparat pochodzi z kradzieży. Innš, cieszšcš się dużym powodzeniem, 
+usługš wiadczonš przez różnych specjalistów jest zdejmowanie tzw. SimLocków, 
+czyli blokad aparatów zabezpieczajšcych urzšdzenie przed współpracš z kartš 
+innego operatora sieci GSM.
+
+Dopóki ceny za połšczenia telefoniczne będš utrzymywać się na tak wysokim poziome 
+jak obecnie, a do tego jakoć usług telekomunikacyjnych będzie marna, dopóty 
+zawsze znajdš się ludzie kombinujšcy, jak by tu skorzystać z telefonu za jak 
+najmniejsze pienišdze. W myl pheakerskiej ideologii - niemoralne jest 
+korzystanie z połšczeń darmowych w taki sposób, że płaci za nie kto inny 
+(pajęczarze czy blokowanie automatów telefonicznych w celu kradzieży kart). 
+Przerzucenie częci opłat za rozmowy telefoniczne na niczego nie spodziewajšcych 
+się operatorów telekomunikacyjnych, którzy cišgajš z nas i tak wielkie pienišdze, 
+jest - według wielu osób - absolutnie dopuszczalne. 
+
+Marcin (OleY) Olejniczak, 
+olej@polandmail.com

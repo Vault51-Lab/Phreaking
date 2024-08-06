@@ -1,0 +1,13 @@
+GPRS (z ang. General Packet Radio Service) jest standardem pakietowej transmisji danych.
+W zwykłych sieciach GSM, dla potrzeb transmisji danych zestawiane jest stałe połączenie - tak jak przy połączeniach głosowych. W takim zablokowanym na stałe kanale logicznym, transfer ograniczony jest do 9.600 (14.400) kbps. co odpowiada potrzebom telefonii głosowej. Istnieją w prawdzie rozwiązania pozwalające zwielokrotnić tą wielkość, jednak sprowadzają się one wyłącznie do możliwości zestawiania połączenia w kilku kanałach na raz (również blokują je na cały czas).
+
+O ile w przypadku połączeń głosowych blokowanie kanału komunikacyjnego ma sens, o tyle transmisja danych, to spora "rozrzutność". Dane zazwyczaj przesyła się nie w sposób ciągły (jak rozmowa telefoniczna), lecz mniejszymi lub większymi partiami. W przypadku zestawiania połączenia na stałe, w chwilach gdy dane nie są przesyłane, kanał zajmowany jest niepotrzebnie. Standard GPRS przewiduje wydzielenie niektórych kanałów używanych przez operatora dla potrzeb transmisji pozwalającej znacznie lepiej wykorzystać dostępne pasmo. Kanały te nie są nigdy blokowane na stałe, lecz dostępne wszystkim terminalom znajdującym się w zasięgu danej stacji bazowej. W chwili, gdy chcemy coś przesłać, aparat zajmuje kanał wyłącznie na czas potrzebny na transmisję.
+
+Teoretycznie, GPRS pozwala na transmisje z prędkością 115 kbps. Aby to osiągnąć, operator musiałby dla potrzeb transmisji pakietowej udostępnić cały fizyczny kanał. W praktyce dostępny mamy transfer na poziomie od 28.8 do 43.2 kbps. dla transmisji do terminala oraz od 14.4 do 28.8 kbps dla transmisji - od terminala, czyli do sieci.
+
+Klasy terminali
+Terminale wykorzystujące pakietową transmisję danych GPRS dzielą się na trzy klasy.
+A - pozwalające na jednoczesną pracę w trybie GPRS oraz tradycyjnym. Pozwala to przesyłanie danych oraz prowadzenie tradycyjnej rozmowy w tym samym czasie
+B - pracujące w danej chwili tylko w jednym ze standardów, ale potrafiące automatycznie przełączać tryb pracy
+C - aparaty, w których sposób transmisji trzeba wybrać ręcznie w zależności od potrzeb
+Leszek (Lechu) Marmon, mobile.net.pl

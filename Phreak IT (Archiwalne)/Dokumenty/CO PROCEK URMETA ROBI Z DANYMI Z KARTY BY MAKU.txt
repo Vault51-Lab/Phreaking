@@ -1,0 +1,198 @@
+CO PROCEK URMETA ROBI Z DANYMI Z KARTY BY MAKU
+------------------------------------------------
+
+Kazdy od dawien dawna wie ze na karcie zapisana jest nastepujaca sekwencja:
+
+11ABCD0 0 EFGH0  0011111....110
+
+gdzie A, B, C, D, E, F, G, H to 8 bitowe ciagi - traktowane jako bajty
+
+Procek otrzymuje z czytnik 10 bajtow. 2 ostatnie to ilosc impulsow i suma
+kontrolna. Charakterystyka karty i kod zabezpieczajacy to pierwsze 8 bajtow -
+czyli 64 bity. Sa to wlasnie bajty A, B, C, D, E, F, G, H.
+
+Oznaczmy bity:
+
+A7A6...A0 <- od najstarszego do najmlodszego
+B7B6...B0
+itd.
+
+Wartosci A, B, C itd. sa zapisane po odczycie w tablicy o adresie 781B-7822.
+Oznaczmy ta tablica jako Karta[0]-Karta[7]
+
+A teraz to czego mi w faq'u Shadow'a brakowalo.
+
+Co Urmecik robi z tym dalej ?
+
+Najpierw drobna zamiana. Wartosci z komorek 781D-781F (bajty C, D, E)
+przepisywane sa do komorek 781B-781D (na miejsce A, B, C). Do komorek
+781E i 781F zapisywane sa odpowiednio:
+781E : (A and $F0) or (B shr 4)
+781F : (A and $0F) or (B shl 4)
+
+gdzie A i B oznacza pierwotne wartosci w komorkach 781B i 781C (sprzed
+przepisania - czyli zaraz po odczytaniu z karty)
+
+Teraz nastepuje strasznie walnieta procka, zamieniajaca kolejnosc bitow
+wg. pewnego schematu. Przytocze algorytm dzialania ( -> przypisanie, wszystkie
+stale zapisanie szesnastkowo)
+
+       19 -> k7DB9     (w kodzie - komorka 7DB9)
+       04 -> X         (w kodzie - rejestr X, a zapisywany jest adres 781F
+                        czyli adres Karta[4])
+
+ÚÄÄÄÄ> X -> k7DBE      (w kodzie - komorka 7DBE)
+ł
+ł      X--
+ł      Karta[X] -> A   (komorka wskazywana przez X do rejestru A)
+ł      RCR A           (przysuniecie cykliczne z wykorzystaniem flagi carry
+ł                       ROR w oryginalnym kodzie - RCR to intelowski
+ł                       odpowiednik )
+ł
+ł      00 -> X         (w kodzie : 781B - adres poczatku tablicy Karta)
+ł  Ú-> RCR Karta[X]
+ł  ł   X++             (tu sa jeszcze inst. zachowujace flage carry przy  porownaniach
+ł  ł                    trzeba o nich pamietac przy pisaniu swojej wersji)
+ł  ł   czy X < k7DBE ?
+ł  ł     ł T      ł N
+ł  ŔÄÄÄÄÄŮ        V
+ł
+ł      k7DBE -> X
+ł      Karta[X] -> A
+ł      RCL A
+ł
+ł      07 -> X         (w kodzie : adres ostatniego elementu tablicy Karta)
+ł  Ú-> RCL Karta[X]
+ł  ł   X--
+ł  ł   czy X >= k7DBE ?
+ł  ł     ł T      ł N
+ł  ŔÄÄÄÄÄŮ        V
+ł
+ł      k7DB9--
+ł      czy k7DB9 = 0 ?
+ł        ł N      ł T
+ł        V        ŔÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-> koniec procki
+ł
+ł      k7DBE -> X
+ł      X--
+ł      czy X > 0       (w kodzie X>781B - czyli adres poczatku tablicy Karta)
+ł        ł T    łN
+ĂÄÄÄÄÄÄÄÄŮ      V
+ł
+ł      7 -> X          (w kodzie 7822 -> X - czyli adres ost. elementu tabl. Karta)
+ł        ł
+ŔÄÄÄÄÄÄÄÄŮ
+
+To dosc zawile. Generalnie jest to podzial 64 bitowego bloku na 2 czesci
+i przesuniecie kazdej z nich w topologii pierscienia - tj. co wychodzi z
+lewej, wchodzi z prawej i na odwrot. Lewa czesc przesuwamy w prawo,
+prawa w lewo. Wykonywane jest to 25 razy dla roznych dlugosci blokow.
+
+Po uzyciu magicznego proga przesuwajacego bitowo cale stringi otrzymalem
+po wstepnej zamianie i miszmaszu bitowym nastepujaca sekwencje
+
+                   7  6  5  4  3  2  1  0
+781B - KARTA[0] - C6 G5 D4 B7 F0 H1 D6 D7
+781C - KARTA[1] - B6 F3 G0 D1 D2 B5 F6 C3
+781D - KARTA[2] - B4 C7 C4 C1 C0 D5 D0 E5
+781E - KARTA[3] - E2 A7 A6 A5 A4 A3 A2 A1
+781F - KARTA[4] - A0 F7 F4 F1 G6 G3 G2 G1
+7820 - KARTA[5] - H6 H5 H2 B3 E0 H3 G4 F5
+7821 - KARTA[6] - B2 E3 C2 H7 F2 B1 E6 C5
+7822 - KARTA[7] - E4 E1 H0 G7 B0 D3 H4 E7
+
+Procka miszmaszujaca okazuje sie byc w stanie rowniez zakodowac - uzycie
+jej 174 razy (uzyskane experymentalnie :) nie powoduje zmian na danych
+wejsciowych. Wniosek : modyfikujemy zamieszanie dane, a potem uzywamy
+procki mieszajacej 173 razy.
+(BTW: zamiana wartosci przeprowadzona 21 razy tez nie zmienia danych :)
+
+Na podstawie kodu z EPROMu o adresie FB06 - FB80 - doszedlem ze Urmecik
+wyciaga z tych bitow nastepujace dane (faq Shadow'a podaje to samo -
+najlepszy dowod, ze ani on ani ja sie nie pomylilismy :) W kodzie
+tym jest tez zapisanie tych wartosci pod odpowiednie adresy.
+
+adres
+
+792C - D0 E5 E2 - index do tablicy dzielnikow spod adresu 8235 (1,2,4,5,8,10,20)
+792D - D5 - bit okreslajacy czy karta jest typu TaxValue - 1=TAK
+792E - A7 A6 - typ karty (00,01 - serwisowe; 10 - zwykla impulsowa)
+792F - 00 00 00 00 00 00 F7 F4 F1 G6 G3 G2 G1 H6 H5 H2 - numer serii karty
+7931 - C6 G5 D4 B7 F0 H1 D6 D7 B6 F3 G0 D1 D2 B5 F6 C3 - numer seryjny karty 
+(numer karty w danej serii)
+
+Po uzyskaniu tych wszystkich informacji nastepuje faktyczne sprawdzenie kodu
+karty.
+
+Zajmuje sie tym procka spod adresu FC06. Wykonuje ona kilka razy pod
+rzad procedure A579 z roznymi wartosciami w B. Jesli dane sa ok to w
+rejestrze B zwracane jest 0
+
+Sprawdzenie danych procka FC06 wykonywane jest 2 razy - z roznymi parametrami
+w rejestrach X i A.
+Wywolanie 1 : A=EE;  X - wskazanie na tablice - (22, 59, 7D, EA)
+Wywolanie 2 : A=00;  X - wskazanie na tablice - (01, 02, 03, 04)
+
+Dzialanie procedury FC06 jest nastepujace :
+Wartosc z rejestru A zapisywana jest pod adres 796C. Bity A1 A0 sluza jako
+index do tablicy spod adresu zawartego w X. Wartosc tak odczytana zapisywana
+jest do komorki o adresi 796D. Dalej wykonywana jest 6 razy procedura spod
+adresu A579 - w nawiasach parametr - zapisany w rejestrze B
+
+A579 (k781B)
+A579 (k781C)
+A579 (k792Fk7930 >> 2)                <- brane 8 mlodszych bitow wyniku
+A579 (k7930k781D >> 2)                <- brane 8 mlodszych bitow wyniku
+A579 ((k7820 << 3) or (792C and 7))   <- brane 8 mlodszych bitow wyniku
+A579 ([2 najmlodsze bity 792E]
+      [najmlodszy 781E]
+      [najstarszy 781F]
+      [4 najstarsze 8148])            <- ulozenie bitow, od najstarszych
+
+Powyzszy algorytm ekstensywnie wykorzystuje procke spod adresu A579 - oto ona
+
+
+        08 -> k796E
+   ÚÄ-> B -> A
+   ł    A xor k796D
+   ł    RCR A
+   ł    czy carry ustawione ?
+   ł      łN     łT
+   ł      ł      V
+   ł      ł      08 -> A
+   ł      ł      A xor k796C
+   ł      ł      A -> k796C
+   ł      ł      10 -> A
+   ł      ł      A xor k796D
+   ł      ł      A -> k796D
+   ł      ł      ustaw carry
+   ł      ł       ł
+   ł      V       V
+   ł    RCR k796C
+   ł    RCR k796D
+   ł    SHR B
+   ł    k796E--
+   ł    czy k796E=0 ?
+   ł      łN   łT
+   ŔÄÄÄÄÄÄŮ    ł
+               V
+            konczymy
+
+A po ludzku (albo po bardziej ludzku) : analizujemy kolejne bity rejestru
+B - od najmlodszego do najstarszego. Robimy to nastepujaco : xorujemy
+wartosc z B z wartoscia z komorki o adresie 796D. Nastepnie wydzielamy
+najmlodszy bit z wyniku. Bit ten nazwijmy BX. Jesli BX=1 to zmieniamy na
+przeciwny bit 3 (liczac od 0) w komorce o adresie 796C i 4 spod adresu 796D.
+Teraz przesuwamy w prawo o jeden bit slowo spod adresu 796C (uzyskiwane jest
+to przez RCR dla 796C a potem RCR 796D). Jak latwo zauwazyc najstarszy bit
+z k796C uzupelniany jest przez BX. Caly schemat powtarzamy dla kolejnych
+bitow z rejestru B.
+Jak widac dzialanie procedury i jej wynik zalezy od wartosci w rejestrze B
+oraz od tego co znajduje sie w komorkach 796C-796D.
+Warto zaznaczyc ze miedzy kolejnymi wywolaniami A579, komorki 796C-796D
+nie sa zmieniane.
+Po wykonaniu tego calego syfu porownywana jest wartosc w komorkach 7821-7822
+z wartosciami z komorek 796C-796D.
+Jesli sa rowne to karta jest ok i mozemy z neij normalnie korzystac.
+Jesli nie to procka FC06 wywolywana jest z drugim zestawem parametrow.
+I co ciekawe, niezaleznie od wyniku drugiej autoryzacji karta jest wyrzucana.

@@ -1,0 +1,27 @@
+Dawno temu powstala inicjatywa dokumentowania rozmieszczenia automatow w terenie, szczegolnie ze wzgledu na to, ze nie ze wszystkich mozna rowno skutecznie dzwonic za darmo. Niestety czas bardzo niekorzystnie wplywa na przydatnosc tych dokumentow...
+
+Mapy
+
+Ludzie z PGPG zdecydowali sie na dosc nietypowy pomysl - tworzenie map miejscowosci z zaznaczeniem (jakze nas interesujacych) aparatow publicznych. Produkcje te sa czysto amatorskie i nie maja zwiazku z oficjalna dokumentacja TPSA - bazuja wylacznie na obserwacjach ich autorow. W dodatku, niestety, brak jest ujednoliconych oznaczen dla poszczegolnych aparatow. Poogladac jednak zawsze mozna. Zachowane miasta to:
+
+- Gostynin [jpg, 219 KB]
+- Ostroleka [jpg, 1,23 MB]
+- Piotrkow Trybunalski [jpg, 708 KB]
+- Rzeszow [jpg, 643 KB]
+- Stargard Szczecinski [jpg, 942 KB]
+
+
+Wykazy aparatow
+
+Operator ma spisany kazdy jeden aparat bez wyjatkow. Musze tu obalic pokutujacy mit, jakoby tepsa mogla zapomniec o niektorych urmetach w jakims odludnym miejscu i zostawic tam przez to jakies archaiczne abloye/EPROM. Kazdy urmet jest spisany, ma swoj przydzielony numer inwentarzowy i kiedy trzeba wprowadzic zmiany, monterzy dokonuja je rutynowo, jeden po drugim. Faktem jest, ze zdarzaja sie odstepstwa, ale archaiczny abloy z duzo wiekszym prawdopodobienstwem znajdziecie pod siedziba tepsy niz na skraju parku. Czesto jednak sie zdarza, ze potrzebujemy zrobic cos raczej ryzykownego - wtedy lepiej poszukac budki w odpowiednim miejscu - duzo wieksza wygoda dzialania i bezpieczenstwo. Dlatego w takim wypadku nieoceniona wartosc maja wykazy aparatow (mapki pokrywaja tylko ograniczony obszar). Dobrze by bylo, zeby osoby majace dostep do takich informacji w swoim regionie chcialy sie z nimi podzielic.
+
+Podziekowania dla ludzi zI.n.o.X-u oraz Adeptusa Magusa za wklad w poszukiwanie informacji.
+
+- Aparaty w strefie numeracyjnej 71
+- Aparaty w strefie numeracyjnej 94
+- Aparaty w innych roznych strefach numeracyjnych
+- Aparaty w Warszawie
+- Aparaty w Koszalinie
+- Aparaty w Sochaczewie
+- Wykaz PAS w woj. Swietokrzyskim [xls, 548 KB]
+- Wykaz PAS w woj. Zachodniopomorskim [xls, 651 KB]

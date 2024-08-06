@@ -1,0 +1,35 @@
+Standard, którego powstanie Ericsson zainicjował w 1994r., jest odpowiedzią na zwiększające się potrzeby użytkowników w zakresie komunikacji bezprzewodowej. Wciąż rosnące ilości kabli łączących różne urządzenia z komputerem wywołują u części użytkowników bóle głowy. Urządzenia oparte o bezprzewodową wymianę informacji, w istotny sposób mają ułatwić żmudne czynności i zminimalizować "kabelkologię".
+
+Początkowo radiowe łącze bezprzewodowe, które stworzył Ericsson miano wykorzystać głównie w urządzeniach przenośnych. Obecnie już wiadomo, że może być ono stosowane we wszelkich urządzeniach biurowych.
+
+Jak to działa?
+
+Bluetooth wykorzystuje pasmo wolne od pozwoleń i koncesji obejmujące 79 kanałów radiowych w zakresie od 2402 do 2480 MHz. Znalezienie tego przedziału było nie lada wyczynem i nie we wszystkich krajach możliwe jest używanie "sinozębego" w pełnym zakresie.
+
+Niemniej jednak standard jest uniwersalny. Biorąc pod uwagę, że dodatkowo bezprzewodowy, użytkownik może mieć obawy związane z bezpieczeństwem łącza. Okazuje się jednak, że konstruktorzy i pomysłodawcy szczególny nacisk położyli na bezpieczeństwo systemu. Zastosowano tutaj szereg wyrafinowanych technik, by podczas wymiany danych po prostu nie zostać podsłuchanym. Po kolei przyjrzymy się pokrótce każdej z nich.
+
+Zasięg działania
+
+Założono, że maksymalna odległość pomiędzy urządzeniami wyniesie 10 metrów. Ktoś może stwierdzić, że to mało. Tak naprawdę, część urządzeń przenośnych mamy zawsze przy sobie i tej odległości z pewnością nie przekroczymy. Telefon może kontaktować się z komputerem przenośnym, palmtopem czy drukarką, a my mamy zagwarantowane, że w najbliższej odległości nikt nie przechwyci naszych danych. Czy odległość jest ograniczeniem? Nie, bowiem dostępne są już wzmacniacze sygnału, zwiększające zasięg do 100 metrów.
+
+Praktyka wykazuje, że testowane przeze mnie urządzenia takie jak telefony, bezprzewodowa słuchawka, czy karty z modułem Bluetooth do komputera, trzymają zasięg do odległości około 7-8 metrów, czyli ciut mniej niż zakłada specyfikacja. Do potrzeb biura, czy najbliższego otoczenia w domu, jest to jednak odległość w zupełności wystarczająca. Trzeba także wziąć pod uwagę, że dzięki temu nadajnik, zużywa naprawdę bardzo mało energii, co ma decydujące znaczenie np. dla telefonicznych baterii.
+
+Ale to nie wszystko, biorąc pod uwagę bezpieczeństwo i mechanizmy je gwarantujące.
+
+Zmiany częstotliwości i przydzielanie kluczy
+
+Konstruktorzy przewidzieli, że jedno z urządzeń, które stworzy małą sieć, będzie nadrzędnym, czyli tzw. "masterem". Podczas inicjowania połączenia przydziela ono klucz, na podstawie którego, wszystkie urządzenia będą zmieniać częstotliwość. Na dodatek, zmieniana jest ona 1600 razy(!) w ciągu sekundy, co dodatkowo zapobiega przechwyceniu informacji. Klucz jest przydzielany jednorazowo i nigdy się nie powtarza. Zmiany kanałów radiowych również zapobiegają interferencjom, jakie mogłyby powstawać podczas pracy wielu urządzeń jednocześnie.
+
+Tworzenie małych sieci
+
+Bluetooth skonstruowano w ten sposób, że wymiana danych możliwa jest nie tylko pomiędzy dwoma urządzeniami, ale także między większą ich ilością. Tworzą one sieć, którą na potrzeby standardu nazwano Piconet. W takiej sieci możliwe jest połączenie do 8 urządzeń, z których jedno jest urządzeniem nadrzędnym. Nadaje ono klucz, według którego inne urządzenia zmieniają częstotliwości, ono też decyduje o tym, czy do sieci może być podłączone kolejne. Ale to nie wszystko. Wprawdzie ograniczono sieć Piconet do 8 urządzeń, jednak można bez problemu połączyć ze sobą dwie sieci Piconet i wtedy otrzymamy Scatternet. Trzeba jednak wiedzieć o tym, że urządzenie nadrzędne w jednej sieci Piconet, nie może być urządzeniem nadrzędnym w innej takiej sieci.
+
+Zastosowania - urządzenia
+
+Bluetooth to bardzo uniwersalne rozwiązanie. W tej chwili jedynym ograniczeniem jest (nie)dostępność urządzeń. Do tej pory już wiele firm zaprezentowało urządzenia wyposażone w to złącze, jednak jak na razie nie cieszą się one dużym powodzeniem, przede wszystkim z uwagi na cenę. Pomimo wcześniejszych zapewnień producentów, że rozwiązanie będzie stosunkowo tanie, wyprodukowanie Bluetootha, ciągle waha się w okolicach kilkudziesięciu dolarów.
+
+Nie ulega jednak wątpliwości, że większość telefonów z wyższych półek, które ujrzymy w tym roku na rynku, będą wyposażone w złącze tego standardu. Ale nie tylko telefony, również producenci komputerów PDA (np. Compaq), już zaprezentowali tego typu urządzenia.
+
+Na rynku jest też dostępnych kilka kart do komputerów przenośnych, obsługujących Bluetooth. Pozwolą one na wymianę informacji pomiędzy nimi, a telefonami, czy drukarkami, które niebawem też pojawią się na sklepowych półkach. Należy pamiętać o tym, że tak naprawdę era Bluetooth dopiero nadchodzi i w niedługim czasie, pomimo groźnej konkurencji w postaci bezprzewodowych sieci LAN, ma szanse upowszechnić się na rynku.
+
+Kuba Kram, mobile.net.pl

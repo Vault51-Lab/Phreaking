@@ -1,0 +1,59 @@
+Całkiem przypadkiem odkryłem bardzo istotny "myk", mogšcy sprawić sporo 
+kłopotów Klientom, korzystajšcym z usług przekierowania połšczeń w TPSA 
+i jednoczenie majšcym podpisane umowy o wiadczenie usług 
+międzystrefowych oraz międzynarodowych za porednictwem innych 
+operatorów.
+
+
+Wyobramy sobie trzy numery telefonów A, B oraz C. Abonent B ustawia 
+przekierowania na numer C. Abonent A dzwoni do B - następuje wówczas 
+połšczenie z C - to wie chyba już każdy. Każdy wie również, iż opłaty 
+za takie połšczenia sš następujšce: A płaci za połšczenie z B - tak 
+jakby B żadnego przekierowania nie ustawiał (wszystko gra, gdyż B może 
+sobie ustawić przekierowanie chociażby do Japonii, a A o tym może 
+pojęcia nie mieć - chyba że ma COLP-a - ale o takich niuansach nie 
+bedziemy dyskutoiwać), za za połšczenie z B do C płaci B.
+Wszystko się jednak komplikuje, gdy A korzysta z usług alternatywnych 
+operatorów MM/MN. Otóż, jeli B ma podpisanš umowę z operatorem 
+międzystrefowym i poprzez jego siec ustawi przekierowanie (np 
+*21*010xx22xxxxxxx# )to jeżeli A nie ma podpisanej umowy z operatorem o 
+prefiksie 10xx, to połšczenie nie nastšpi (sic!) - dlaczego ? Ano sieć 
+operatora o prefiksie 10xx będzie mylała, iż połšczenie inicjuje 
+abonent A - gdyż centrala "Tepsy" taki numer inicjujšcego jej przekaże, 
+i w zwišzku z tym nie zrealizuje połšczenia - odtwarzajšc komunikat 
+"Witamy w sieci XXXX - aby korzystać z połšczeń międzystrefowych 
+prosimy o kontakt... itd.". To jednak jest jeszcze pół biedy. Albowiem 
+jeżeli abonent A posiada podpisanš umowę z operatorem 10xx, to nawet 
+jeli B takiej umowy nie posiada a ustawi przekierowanie takie jak 
+powyżej, to połšczenie ZOSTANIE ZREALIZOWANE. Co ciekawsze, abonent A, 
+oprocz tego że zapłaci za połšczenie z B, wg cennika sieci, z której 
+połšczenie takie zrealizowano, to jeszcze zapłaci za połšczenie z C !!! 
+- tak jakby to on sam dzwonił z A do C. Tak bowiem będzie "mylał" 
+system billingowy na centrali operatora 10xx. Jeżeli zatem B wybierze 
+się do rzeczonej Japonii, ustawiwszy uprzednio przekierowanie połšczeń 
+na japoński numer, poprzez prefiks wybranego operatora (z którym nie 
+musi mieć wcale podpisanej umowy), to wprawdzie multum dzwonišcych nie 
+połšczy się (wysłuchawszy komunikatu operatora), to jednak jeli 
+znajdzie się jaki "jeleń" z podpisanš umowš i zainicjuje połšczenie 
+(jako abonent A do B), to operator 10xx ochoczo wystawi mu rachunek za 
+rozmowę z Japoniš, o przeprowadzeniu której biedaczek A nie miał nawet 
+najzieleńszego pojęcia.
+
+Przykład powyższy został sprawdzony (bez Japonii) przeze mnie w sieci 
+TELE2. Poprosiłem znajomych, mieszkajšcych w innej strefie numeracyjnej 
+i nie majšcych podpisanej umowy z TELE2, o ustawienie przekierowania 
+poprzez prefiks 1061 na numer w mojej strefie. Konsultantka z działu 
+technicznego TELE2 po 15 minutach rozmowy, konsultacji i sprawdzeń 
+powiedziała, że za obydwa połšczenia zapłacę ja... Ciekawe jak będzie 
+wyglšdać na rachunku pozycja z połšczeniem do mojej własnej strefy 
+numeracyjnej - mylę, że bez reklamacji się nie obejdzie.
+Problem zniknšłby, gdyby TPSA przekazywała informację nie tylko o 
+inicjujšcym połšczenie, ale także o ostatnim numerze z "łańcuszka 
+przekierowań" tak, by operator międzystrefowy mógł obcišżyć właciwy 
+podmiot realizacjš przekierowywanego połšczenia, bšd - doranie  
+możliwoć ustawiania przekierowań na numery z prefiksami została 
+zablokowana na centralach TPSA.
+
+W każdym razie doradzam ostrożnoć.
+
+Abonent TPSA i TELE2 - Sebastian Dziarmaga-Działyński (Radomsko) 

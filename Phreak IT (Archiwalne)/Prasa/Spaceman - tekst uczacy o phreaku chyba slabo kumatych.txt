@@ -1,0 +1,59 @@
+Dzisiaj przyjrzyjmy sie specjalnej grupie hackerow,zwanych phreakerami. Przede
+wszystkim chcialbym poinformowac, iz czynnosci opisywane ponizej sa nielegalne i
+karalne. Artykol ma na celu edukacyjne poinformowanie czytelnikow o "podziemnych
+ruchach w sieci Internet". Kazdy zainteresowany moze rowniez poszukac informacji
+w obszernej literaturze swiatowej, jak i w sieci Internet.
+Phreakerzy sa to osoby,ktorych specjalnoscia jest oszukiwanie koncernow
+telekomunikacyjnych,co ma na celu uzywanie telefonow za darmo.Phreaking zaczal
+sie w latach 70., gdy Amerykanin John Drapper odkryl, iz gwizdek dolaczany do
+platkow sniadaniowych generuje taka sama czestotliwosc jak dzwiek wrzucanego
+do automatu zetonu.
+Phreaking rozwijal sie przez lata,az doszedl do wspolczesnej postaci.Phreakerzy
+na calym swiecie oszukuja swoich providerow i uzywaja do woli telefonow,a co za
+tym idzie rownierz Internetu.Oczywiscie jest to nie legalne,ale trudno jest ten
+proceder komus udowodnic.
+Choc moze sie to wydac dziwne i niemozliwe phreaking dziala rowniez w Polsce!
+Szczegolnie w niewielkich miasteczkach i wioskach,gdzie nowinki Telekomunikacji
+Polskiej S.A. nie zdazyly dotrzec.Aczkolwiek phreakerow mozna spotkac rowniez
+w wielkich miastach.Probuja oni oszukiwac budki telefoniczne i robic z nich
+uzytek na swoja korzysc.Istnieja tez w Polsce ludzie zwani powszechnie
+pajeczarzami.Podlaczaja sie oni do linii sasiada lub centrali w bloku.Jest to
+bardzo nieprzyjemna sprawa,gdyz niczego nieswiadomy sasiad dostake ogromny
+rachunek.
+Phreakerzy najczesciej uzywaja tzw.boxow. Mozemy je podzielic wedlug kolorow,na
+przyklad blue box,red box,purple box etc. Blue box (niebieska skrzynka) sluzy do
+generowania czestotliwosci takich jak na centralach w danym kraju. Red box
+(czerwona skrzynka) sluzy do oszukiwania budek telefonicznych.W Polsce na
+starych centralach Pentaconta dziala jeszcze Pentaconta Box.Wszystkie dane na
+temat boxingu i phreakingu mozna znalezc w Internecie po wpisaniu w
+przegladarce internetowej(na przyklad http://www.altavista.digital.com) hasel
+"phreaking, blue box" itp.
+Istnieje rowniez specjalna przegladarka,przeszukujaca zasoby "czarnej strony
+sieci". Mozna ja znalezc http://astalavista.box.sk.Przegladarka mozemy rowniez
+wyszukiwac programy sluzace do zabezpieczania serverow,jak rowniez informacie
+na temat zabezbieczenia sie przed podlaczeniem sie sasiada pod nasza linie.
+Jesli ktos pragnie porozmawiac z wszelkiej masci phreakerami,to moze ich
+spotkac na IRC na kanalach #bluebox,czy #phreakpl. Spotykaja sie tam ludzie z
+calego swiata w celu wymienienia sie informacjami.
+Istnieje rozniez wiele programow pod kazdy system operacyjny,zastepujacych z
+powodzeniem boxy.Generuja one tony za pomoca karty muzycznej, a modem wysyla je
+do centrali.Phreakerzy uzywaja rowniez urzadzen o nazwie "tonedialery". Sa to
+niewielkie skrzyneczki skladajace sie klawiatury i glosnika. Podczas
+przyciskania klawisza zostaje wygenerowany ton,taki sam jak ten podczas
+wykrecania numeru w budce telefonicznej lub domowym aparatem.Oczywiscie
+czestotliwosci tonow mozna zmieniac,zaleznie od checi.Tonedialery sa w
+sprzedazy w prawie kazdym sklepie elektronicznym.
+1 stycznie 1998 roku w Polsce wszedl w zycie nowy kodeks karny. Zostaly tam
+uwzglednione sprawy komputerowe. Wszelkie nielegalne dzialania,jak zmiany
+czyjejs strony WWW, czytanie poufnej poczty elektronicznej i wlasnie
+przestepstwa telekomunikacyjne sa karane kara wiezienia i sa rownowazne z
+innymi przestepstwami jak kradziez czy oszustwa podatkowe.
+SLOWNICZEK
+JOHN DRAPPER-Amerykanin,wynalazca blue boxa.Pierwszy phreaker;
+(COLOR)BOX-urzadzenie,podlaczane do linii tel. w celu oszukania centrali;
+PHREAKER-osoba zajmujaca sie oszukiwaniem centrali telefonicznych w celu
+dzwonienia za darmo;
+TONEDIALER-niewielkie urzadzenie generujace tony po przycisnieciu odpowiedniego
+przycisku;
+2600 Hz-czestotliwosc wydawania dzwiekow przez telefony w Stanach Zjednoczonych
+						SPACEMAN

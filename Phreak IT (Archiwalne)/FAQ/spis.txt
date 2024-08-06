@@ -1,0 +1,72 @@
+    *
+
+      Teksty
+
+        * Wujek.zip - 10KB - Wujek dobra rada, poprawka do tonedialera itp.
+        * Za free.zip - 2KB - Jak dzwoniæ za free ze srebrnego.
+        * ABCD.zip - 2 KB - opis ma³o znanych klawiszy A B C D
+        * abloy.zip - 34 KB - s¹ tu opisane trzy rodzaje zamka i jak je otworzyæ:)
+        * abloy_szafa.zip - 5,05KB - rysunek Abloya od szaf kablowych
+        * 3milfaq.zip - 7 KB - FAQ na temat phreaku, kilka sposobów na dzwonienie za darmo, ponadto dok³adny opis udogodnieñ central Alcatel S12 oraz Siemens ESWD, dodatkowo trochê o cardingu.
+        * 914.zip - 2 KB - metoda na niebieskiego URMET-a inna niz wszystkie... version 1.01 by MartineS, Harry_A, Mohamed; wg autorów jest ca³kiem niez³a, ja niestety nie mogê tego sprawdziæ na razie...
+        * Alienp.zip - 47 KB - ca³kiem dobre FAQ wiadomo na jaki temat... Je¿eli jesteœ podpiêty do centrali Pentaconta KONIECZNIE tu zajrzyj! Jest tu opis Pentacontabox - czegoœ, co w 90% pozwoli Ci dzwoniæ za darmo!
+        * Baryla.zip - 3 KB - dzwonienie za friko, automaty typu "ZRÊCZNY MAGIK" i "SUPER BANK"
+        * Blazefaq.zip - 14 KB - Kolejne faq poœwiêcone 0800 i oczywiœcie urmety
+        * Brownbox.zip - 634 B - opis br¹zowej skrzynki (brownbox)
+        * Budka.zip - 4 KB - opis "skoku" na budkê.
+        * C4FAQ.zip - 6 KB - C4 Digital Interactive Explosive Content; o w³amywaniu siê do budki i zak³adaniu backdoorów:)
+        * C64FAQ.zip - 17 KB - 4 czêœci œwietnego FAQ o phreaku i nie tylko autorstwa C64
+        * czytnik.zip - 32 KB - schemat czytnika kart
+        * Diverter.zip - 13 KB - diverter na SS7 by int19h; opis tzw. 'Gold Boxa'
+        * Faqdzik.zip - 2 KB - FAQ poœwiêcone numerom 0-800, zawiera œwie¿e numery, porady jak szukaæ takich numerków...
+        * Faqhenka.zip - 5 KB - FAQ Henka o tym jak z bêbna od niebieskiego URMETA zrobiæ sobie kopiera do kart magnetycznych:)
+        * Generator.zip - 1 KB - schemat Generatora Fal Prostok¹tnych by mt666 ; opis urz¹dzonka, które, jak uwa¿aj¹ niektórzy, mo¿e przydaæ sie w nagrywaniu kart magnetycznych
+        * Hrabia FAQ.zip - 24 KB - g³ównie o budkach telefonicznych...
+        * Karta.zip - 2 KB - From team SPIRYTUS ver. 0.98; o zapisie na karcie magnetycznej
+        * Karty.zip - 3 KB - jeszcze jeden tekst o zapisie na karcie magnetycznej
+        * klucz.zip - 6 KB - doœæ dok³adnie przedstawione jak dorobiæ klucz do .........
+        * klucz2.zip - 18 KB - opis klucza i zamka typu YETI
+        * kopier.zip - 17 KB - sprzêt do kopiowania kart magnetycznych, niestety nie dziala w Polsce
+        * kriszna.zip - 14 KB - trochê elektroniki, modem ded i kopiarka do kart
+        * Lukifaq.zip - 6 KB - kilka porad, które mog¹ pomóc (wersja dla pocz¹tkuj¹cych) v1.0
+        * Menu.zip - 9 KB - >>hrabia diagnostic_menu faq<< ponoæ ostatnie faq Hrabiego poœwiecone karcie programing, czyli co z jej pomoc¹ mo¿na zwojowac:)
+        * Mikfaq.zip - 20 KB - MIK PHREAK FAQ, KOMPENDIUM PHREAKU '98 version 1.01; jak sama nazwa mówi:)
+        * Neur_txt.zip - 6 KB - kolejne FAQ oczywiœcie o phreaku :)
+        * ozyrys.zip - 3 KB - Opis pozyskiwania kart bez posiadania klucza i sposób na 25zl od tpsa:))
+        * Ozzyfaq.zip - 19 KB - Boxing in Poland Written by OZZY ver : 1.1; opis paru boxów, spis czêstotliwoœci i parê innych...
+        * Phreakfa.zip - 20 KB - Phreaking in Poland... edition I version 1.2, done by trinitrotoluene; jeden z najlepszych tekstów o phreaku w Polsce
+        * Podsluch.zip - 2 KB - hellfire faq wersja 5.1; tekst hellfire'a o pewnej dziurze w systemie central pozwalaj¹cej na pods³uchiwanie u¿ytkowników
+        * Protezy.zip - 3 KB - PRoteZy do znanych Bug0w v1.0 by SpajK; jak sama nazwa wskazuje... dodatki do ró¿nych bugów; nowsza wersja;)
+        * RAMBO.zip - 2 KB - jak dzwoniæ ze srebrnych budek za free.
+        * Shroom.zip - 9 KB - URMET FAQ v1.0beta (c) Warsaw 03.07.1998 Shroom Inc.; wersja pre-beta ale najbardziej fachowy opis niebieskiej zabawki URMETA, spis wszystkich czêœci, mapa pamiêci w ogóle sam miodzik :) ..
+        * SclPhon.zip - 3 KB - jak dzwoniæ za darmo w Polsce
+        * Silver.zip - 4 KB - Silver faq ver 1.004 beta, automaty, centertel, extendery, pbxy, sekretarki (automatyczne;)
+        * Solaris.zip - 5 KB - solaris^m0by issue #1 1.12.98; 'wypad do piwnicy' + MZK;)
+        * Spajk_nu.zip - 5 KB - Numery Serwisowe TP SA v1.0 by SpajK; spis i opis wiêkszoœci numerków serwisowych na centralach TP SA; nowsza wersja:)
+        * t3rmit3.zip - 5 KB - budki, Pentacontabox, ciekawostki o srebrnych pudlach... :)
+        * Tharon.zip - 2 KB - 1 czeœæ spisu numerów 0800, pod którymi "cos" jest:). Na razie sa to numerki od 0800200000-0800209999, ale autor w³aœnie skanuje nastêpna czêœæ
+        * Wiedzfaq.zip - 11 KB - budki, callbacki, progsy itp.
+        * upc99v1.zip - 27KB - UPC'99 ChemiQ & Glinek WORX; schemat czytnika niebieskiego urmeta
+        * upc99v2.zip - 46,9KB - UPC'99 ChemiQ & Glinek WORX; schemat p³yty g³ównej niebieskiego
+        * upc99v3.zip - 25,2KB - UPC'99 ChemiQ & Glinek WORX; schemat 'hybrydki' tym razem w pliku .bmp
+        * 0800faq.zip - 6,96KB - 3k43dom 0800faq ver 0.21; parê numerów 0800
+
+     
+
+    *
+
+      Zdjecia
+
+        * Karty magnetyczne
+
+        * KARTA1.zip - 35 KB - Zestaw kart serwisowych
+        * KARTA2.zip - 8 KB - Prototypowa karta magnetyczna
+        * KARTA3.zip - 24 KB - Karta serwisowa "PROGRAMING CARD" - orginal
+        * KARTA4.zip - 7 KB - Karta z zaznaczonymi czêœciami magnetycznymi
+        * KARTA5.zip - 17 KB - Karta z 200 impulsami
+
+        * Wnetrze srebrnego i niebieskiego urmeta
+
+        * NIEBIESKI URMET.zip - 106 KB
+        * SREBRNY URMET.zip - 144 KB
+

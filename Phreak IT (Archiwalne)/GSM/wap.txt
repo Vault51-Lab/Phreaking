@@ -1,0 +1,27 @@
+Wireless Aplication Protocol (WAP) - jest to standard, dzięki któremu użytkownicy telefonów komórkowych wyposażonych w przeglądarkę WAP, mają dostęp do zasobów sieciowych. Został on opracowany w 1998 roku dzięki współpracy firm telekomunikacyjnych, operatorów sieci telefonicznych, producentów oprogramowania oraz telefonów komórkowych, którzy wyszli naprzeciw zapotrzebowaniom użytkowników komórek pragnącym uzyskać dostęp do istotnych dla nich informacji zawartych w sieci. Równolegle zaczęły powstawać inne twory umożliwiające prawidłowe funkcjonowanie tej usługi a wśród nich między innymi: język - WML, czyli uproszczona wersja HTML-u, czy też język skryptów WML Script - uproszczona wersja Javy.
+Możliwości zastosowania WAP-u są bardzo szerokie, ale do najważniejszych można tu zaliczyć np.
+- wysyłanie i odbiór poczty e-mail,
+- możliwość uzyskania najświeższych wiadomości z kraju i ze świata, notowań, giełdowych, kursów walut, prognozy pogody itp.
+- możliwość składania zamówień na usługi i towary,
+- dostęp do wszelkiego rodzaju rozrywki (np. dzwonki, tapety, logo, gry java, horoskopy)
+
+Warunkami umożliwiającymi możliwość przeglądania stron internetowych oprócz oczywiście protokołu WAP jest serwer WWW, bramka WAP, oraz telefon wyposażony w przeglądarkę WAP.
+
+Bramka WAP łączy ze sobą środowisko bezprzewodowe, w którym pracuje telefon ze środowiskiem internetowym.
+Całość działa w następujący sposób:
+1. użytkownik telefonu wysyła do bramki WAP żądanie pobrania strony,
+2. następnie bramka WAP dekoduje kod binarny WML na zapytanie i przesyła protokołem HTTP i TCP/IP do serwera WWW na adres podany przez użytkownika telefonu,
+3. następuje odpowiedź serwera WWW w postaci treści w języku WML,
+4. bramka WAP dekoduje kod WML na kod binarny i przesyła do telefonu.
+
+Aby móc korzystać z przeglądarki WAP, najpierw trzeba aktywować usługę transmisji danych. W tym celu należy zadzwonić do Biura Obsługi Klienta i uzyskać wszelkie informacje na ten temat. Następnie konieczna jest konfiguracja naszego telefonu komórkowego, dostępna także na naszej stronie.
+
+Aktualnie usługa WAP jest wykorzystywana najczęściej do rozrywki, np. ściaganie polifonii, tapet czy gier java, także do wysyłki i odbioru poczty elektronicznej, ściągania na telefon. Aby mieć możliwość odbioru poczty elektronicznej muszą być spełnione ku temu specjalne wymogi, do których zaliczyć trzeba między innymi:
+
+- taką możliwość musi zapewnić provider, na serwerze którego posiadamy konto pocztowe,
+- jeżeli taka opcja istnieje musimy upewnić się czy jest ona darmowa - jeśli nie, konieczne jest wykupienie takiej usługi.
+
+Do ściagania polifonii, tapet i gier java, w telefonie muszą być uaktywnione wiadomości sieciowe.
+
+Jeśli powyższe warunki są spełnione należy zapoznać się z ofertami tej usługi u poszczególnych operatorów oraz kosztem jaki musimy za nią wnieść.
+Jak widać, z przedstawionych powyżej informacji, usługa WAP posiada niesamowitą wręcz ilość możliwości. Dysponujemy dzięki niemu dostępem do morza informacji. Na przykład zawsze możemy przeczytać bieżące i aktualizowane 24h na dobę informacje ogólnopolskie i lokalne, sprawdzić sytuację ma giełdzie papierów wartościowych, sprawdzić aktualny kurs Dolara czy Euro, zaplanować seans w kinie przeglądając dostępny w naszym telefonie repertuar kin, czy też zapoznać się godzinami odjazdów pociągów w interesującym nas kierunku, itp.

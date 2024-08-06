@@ -1,0 +1,9 @@
+Ponizsze noty katalogowe wystepuja w wersji aktualnej w chwili umieszczenia ich na naszej stronie. Radzimy sprawdzic na stronie producenta danego ukladu, czy nie pojawila sie nowsza wersja ukladu lub/i dokumentacji. Czasem tez pojawiaja sie erraty not katalogowych, ktore ukazuja bledy i niescilosci poprzednich wersji dokumentacji.
+
+- AT24Cxx [310KB] - pamiec I2C stosowana np. jako bollino
+- AT90S2313 [1,61MB] - mikrokontroler uzywany w DRO jajka i w emulatorze serwisowki ToM-a
+- PCF8583 [167KB] - RTC Philipsa stosowany w urmetach
+- ULN2004 [161KB] - uklad stosowany w nagrywarkach kart
+- Hitachi H8-300H - Programming Manual [427KB] - opis rodziny miktokontrolerow, ktore sa stosowane w srebrnym/jajku
+- Hitachi Microcomputer H8/3003 Interface Application Note [577KB]
+- H8/3003 Hardware Manual [1,78MB]

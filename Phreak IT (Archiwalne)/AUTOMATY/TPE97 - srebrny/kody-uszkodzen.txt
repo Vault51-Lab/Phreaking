@@ -1,0 +1,69 @@
+ OPIS KODOW APARATU TYPU TPE97/U
+
+  Alarmy dziela sie na 3 kategorie
+
+ Typ 1 - calkowita niesprawnosc
+ Typ 2 - czesciowa niesprawnosc
+ Typ 3 - ostrzezenie - pogorszenie sie sprawnosci z zachowaniem
+         zdolnosci funkcjonowania
+
+
+
+
+  KOD  OPIS ALARMU                                       TYP1  TYP2  TYP3
+  01   Utrata danych pamieci, biala lista, czarna          x
+  02   Utrata danych EEPROM                                x
+  03   Utrata danych RAM                                              x
+  04   Otwarcie drzwi                                                 x
+  05   100 kolejnych zdjec mikrotelefonu bez uiszczenia 
+       oplaty                                                         x
+  06   Linia odlaczona                                     x
+  07   Niewystarczajacy prad zasilania			   x
+  08   225 kolejnych polaczen bez uiszczenia oplaty                   x
+  09   2 godziny trwalego zajmowania aparatu                          x
+  10   Zaciecie klawiatury      			   x
+  11   Zaciecie klawiszy funkcyjnych                             x
+  12   Uszkodzenie odbiornika impulsow taryfikacyjnych 16k x
+  13   Rozladowany akumulator                                    x
+  14   Uszkodzenie toru odbiorczego mikrotelefonu          x
+  15   Uszkodzenie toru nadawczego mikrotelefonu                 x
+  16   Defekt modemu aparatu V22Bis                        x
+  17   Nieprawidlowa praca zegara                          x
+  18   Utrata danych konfiguracyjnych                      x
+  19   Wadliwe dzialanie szyny danych pamieci znamionowych x
+  20   Przepelnienie pamieci zpamietywanych operacji       x
+  21   Wadliwe dzialanie ukladu DRO                        x
+  22   Uszkodzenie wyswietlacza                                  x
+  23   Statystyka klawiatury                                          x
+  24   Blad zdalnego ladowania danych do aparatu z 
+       lokalnego centrum nadzoru STG97                     x
+  25   Nieupowaznione otwarcie aparatu                     x
+  26   Niewykorzystany
+  27   Niewykorzystany
+  28   Niewykorzystany
+  29   Niewykorzystany 
+  30   Niewykorzystany
+  31   Niewykorzystany
+  32   Niewykorzystany
+  33   Zablokowanie czytnika kart abonamentowych                 x
+  34   Zablokowanie czytnika kart kredytowych                    x
+  35   Zablokowanie czytnika kart elektronicznych                x
+  36   Czesciowe zaciecie                                        x
+  37   Calkowite zaciecie                                        x
+  38   Zaciecie klawisza funkcyjnego wymiany karty               x
+  39   Brak czytnika					   x
+  40   Bledna wymiana danych lub jej brak miedzy plyta
+       glowna a czytnikiem                                 x
+  41   Blad w zdalnym ladowaniu programu czytnika          x
+  42   Proba oszustwa                                                x
+  43   Uszkodzenie modulu SAM1 					 x
+  44   Uszkodzenie modulu SAM2    				 x
+  45   Uszkodzenie modulu SAM3					 x
+  46   Uszkodzenie modulu SAM4					 x
+  47   Uszkodzenie modulu SAM5					 x
+  48   Niewykorzystany        
+  49   Wadliwe dzialanie glowic        			             x
+  50   30 kolejno nie odczytanych kart abonamentowych                x
+  51   30 kolejno nie odczytanych kart kredytowych                   x
+  52   30 kolejno nie odczytanych kart elektronicznych               x
+ 			

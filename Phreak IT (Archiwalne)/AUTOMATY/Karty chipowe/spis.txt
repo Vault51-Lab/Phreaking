@@ -1,0 +1,10 @@
+KILKA MIKROFOTOGRAFII UKLADOW CHIPOWYCH:
+
+> Porownanie rozmiarow chipa (z karty SLE4436) i zapalki [wielkosc.jpg, 2KB]
+> Porownanie wielkosci chipa i niewielkiego przewodu [zestawienie.jpg, 2KB]
+> Porownanie wielkosci chipa i "wloskow" niewielkiego przewodu w malym powiekszeniu [zestawienie2.jpg, 18KB]
+> Dobrej jakosci mikrofotografia calego SLE4436 (podeslal phlp) [4436.jpg, 101KB]
+> Niekompletna "mapa" chipa wykonywana w spartanskich warunkach. Widac rowniez glebsza warstwe, poniewaz swiatlo bylo skierowane od spodu [map_incomplete.jpg, 95KB]
+> Uszkodzona powierzchnia ukladu w celu umozliwienia przeprowadzenia badan glebokiej warstwy [destructed.jpg, 21KB]
+> Grubosc plytki - ukazana dzieki ustawieniu chipa "na sztorc" [grubosc.jpg, 3KB]
+> Zamieszczone dla porownania zdjecie procesora 386 znalezione gdzies w Internecie. SLE4436, jak widac, przy tym ukladzie to dwie sciezki na krzyz:) [386.jpg, 223KB]
